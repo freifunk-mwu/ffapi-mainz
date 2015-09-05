@@ -1,0 +1,159 @@
+{
+    "name": "Freifunk Mainz",
+    "contact": {
+        "facebook": "https://www.facebook.com/FreifunkMainz",
+        "googleplus": "https://plus.google.com/109829391285444937045/about",
+        "irc": "ircs://irc.hackint.net/ffmwu",
+        "ml": "mainz@freifunk.net",
+        "email": "kontakt@freifunk-mainz.de",
+        "phone": "+49 611 94580737",
+        "identica": "https://identi.ca/freifunkmainz",
+        "twitter": "@freifunkmainz"
+    },
+    "timeline": [
+        {
+            "description": "Erste Linkstrecken-Tests \u00fcber den Rhein. Erfolgreich!",
+            "url": "http://blog.freifunk-mainz.de/2014/06/25/freies-wlan-auf-rockfield-openair-kann-kommen/",
+            "timestamp": "2014-06-18T20:26:24+02:00"
+        },
+        {
+            "description": "Gluon in Mainz geht in die Public-Beta-Phase",
+            "url": "http://blog.freifunk-mainz.de/2014/12/01/gluon-in-mainz-geht-in-die-public-beta-phase/",
+            "timestamp": "2014-12-01"
+        },
+        {
+            "description": "Start f\u00fcr neues Freifunk-Netz (Gluon)",
+            "timestamp": "2015-03-06"
+        }
+    ],
+    "feeds": [
+        {
+            "name": "Freifunk Mainz Blog",
+            "url": "http://blog.freifunk-mainz.de/feed/",
+            "type": "rss",
+            "category": "blog"
+        },
+        {
+            "name": "Freifunk Mainz Kalender",
+            "url": "http://blog.freifunk-mainz.de/feed/my-calendar-ics",
+            "type": "ics",
+            "category": "ics"
+        }
+    ],
+    "nodeMaps": [
+        {
+            "mapType": "geographical",
+            "url": "http://map.freifunk-mainz.de",
+            "technicalType": "meshviewer",
+            "interval": "1 min"
+        },
+        {
+            "mapType": "list/status",
+            "url": "http://map.freifunk-mainz.de/data/nodelist.json",
+            "technicalType": "nodelist",
+            "interval": "1 min"
+        }
+    ],
+    "support": {
+        "donations": {
+            "bankaccount": {
+                "BIC": "MVBMDE55",
+                "IBAN": "DE57551900000872804018"
+            },
+            "campaigns": [
+                {
+                    "provider": "betterplace",
+                    "projectid": "21521"
+                }
+            ]
+        },
+        "club": {
+            "board": [
+                "Florian Altherr",
+                "Benjamin Veit",
+                "Erik Donner",
+                "Gunnar Langer",
+                "Sebastian Schmachtel"
+            ],
+            "name": "Freifunk Mainz e.V.",
+            "url": "http://www.freifunk-mainz.de",
+            "city": "Mainz",
+            "email": "vorstand@freifunk-mainz.de",
+            "street": "Willi-Wolf-Stra\u00dfe 12",
+            "zip": "55128"
+        }
+    },
+    "url": "http://www.freifunk-mainz.de",
+    "state": {
+        "lastchange": "2015-08-20T17:42:40.994824",
+        "focus": [
+            "infrastructure/backbone",
+            "Public Free Wifi",
+            "Social Community Building",
+            "Local services and content",
+            "Free internet access"
+        ],
+        "nodes": 233
+    },
+    "techDetails": {
+        "dns": [
+            {
+                "nameserver": [
+                    "fd37:b4dc:4b1e::a25:e7",
+                    "fd37:b4dc:4b1e::a25:7",
+                    "fd37:b4dc:4b1e::a25:17",
+                    "fd37:b4dc:4b1e::a25:d0"
+                ],
+                "domainname": "ffmz.org"
+            },
+            {
+                "nameserver": [
+                    "fd37:b4dc:4b1e::a25:e7",
+                    "fd37:b4dc:4b1e::a25:7",
+                    "fd37:b4dc:4b1e::a25:17",
+                    "fd37:b4dc:4b1e::a25:d0"
+                ],
+                "domainname": "user.ffmz.org"
+            }
+        ],
+        "routing": [
+            "batman-adv"
+        ],
+        "legals": [
+            "vpninternational"
+        ],
+        "networks": {
+            "ipv6": [
+                {
+                    "network": "fd37:b4dc:4b1e::/48"
+                }
+            ],
+            "ipv4": [
+                {
+                    "network": "10.37.0.0/16"
+                }
+            ]
+        },
+        "firmware": {
+            "name": "gluon",
+            "url": "http://firmware.freifunk-mainz.de/stable/",
+            "docs": "http://firmware.freifunk-mainz.de/README"
+        },
+        "updatemode": [
+            "autoupdate"
+        ]
+    },
+    "api": "0.4.8",
+    "location": {
+        "address": {
+            "Street": "Holzstra\u00dfe (Ecke Rheinstra\u00dfe)",
+            "Zipcode": "55116",
+            "Name": "Holzturm"
+        },
+        "country": "DE",
+        "lon": 8.278262,
+        "lat": 49.997071,
+        "city": "Mainz"
+    },
+    "metacommunity": "Freifunk MWU"
+}
