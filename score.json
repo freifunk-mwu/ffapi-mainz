@@ -1,4787 +1,4780 @@
 {
   "nodes": [
     {
-      "clients": 7,
+      "clients": 14,
       "id": "e894f6a1ccf2",
       "name": "Partenheim-SL-02",
       "online": true,
-      "score": 8737.710000001278
+      "score": 8746.29000000128
     },
     {
-      "clients": 6,
+      "clients": 8,
       "id": "c4e984912dfa",
       "name": "Woerrstadt-City-01",
       "online": true,
-      "score": 8591.630000001353
+      "score": 8599.920000001355
     },
     {
-      "clients": 2,
+      "clients": 29,
       "id": "e8de27fd389e",
       "name": "BDKJ-BJA-Mainz",
       "online": true,
-      "score": 8572.290000001514
+      "score": 8581.920000001515
     },
     {
-      "clients": 15,
+      "clients": 18,
       "id": "6470023d86bc",
       "name": "oimel",
       "online": true,
-      "score": 8543.410000001084
+      "score": 8552.140000001085
     },
     {
-      "clients": 12,
+      "clients": 13,
       "id": "30b5c2815d3e",
       "name": "ARTNACT",
       "online": true,
-      "score": 8406.950000001407
+      "score": 8415.53000000141
     },
     {
       "clients": 14,
       "id": "e894f668e0d6",
       "name": "mz-uniklinik",
       "online": true,
-      "score": 8358.810000001262
+      "score": 8367.49000000126
     },
     {
-      "clients": 2,
+      "clients": 6,
       "id": "a0f3c146314e",
       "name": "Markt",
       "online": true,
-      "score": 8324.580000001408
+      "score": 8332.800000001409
     },
     {
       "clients": 3,
       "id": "647002bdfc86",
       "name": "GRUENE-RLP",
       "online": true,
-      "score": 8250.850000001466
+      "score": 8258.85000000147
     },
     {
       "clients": 3,
       "id": "647002fd7a40",
       "name": "Uhlerborn",
       "online": true,
-      "score": 8212.89000000072
+      "score": 8220.820000000727
     },
     {
-      "clients": 4,
+      "clients": 2,
       "id": "a0f3c148d630",
       "name": "Partenheim-Rathaus",
       "online": true,
-      "score": 8179.19000000151
+      "score": 8187.040000001515
     },
     {
       "clients": 4,
       "id": "f81a675814b4",
       "name": "MZ-Moehren-Milieu",
       "online": true,
-      "score": 8144.500000001396
+      "score": 8152.550000001398
     },
     {
-      "clients": 7,
+      "clients": 6,
       "id": "60e32759e91c",
       "name": "ffbin-saarlandstr104-02",
       "online": true,
-      "score": 8138.210000001417
-    },
-    {
-      "clients": 5,
-      "id": "647002eb56f6",
-      "name": "Partenheim-SE-01",
-      "online": true,
-      "score": 8128.950000001554
-    },
-    {
-      "clients": 3,
-      "id": "c04a004a31cc",
-      "name": "Partenheim-SL-01",
-      "online": true,
-      "score": 8109.30000000162
-    },
-    {
-      "clients": 2,
-      "id": "30b5c280faa0",
-      "name": "freifunk_schlossbergstrasse_1",
-      "online": true,
-      "score": 8087.790000001707
-    },
-    {
-      "clients": 3,
-      "id": "dc9fdb94f55a",
-      "name": "mz-Schoenborn7Dach",
-      "online": true,
-      "score": 8082.10000000168
-    },
-    {
-      "clients": 0,
-      "id": "68725120d848",
-      "name": "bbmz-uk-nslm2-1",
-      "online": false,
-      "score": 8074.050000001451
-    },
-    {
-      "clients": 1,
-      "id": "f81a672efe6a",
-      "name": "mz-heidelbergerfassgasse18",
-      "online": true,
-      "score": 8071.440000001615
+      "score": 8146.340000001421
     },
     {
       "clients": 4,
-      "id": "10feed4ff934",
-      "name": "Partenheim-WH03",
+      "id": "647002eb56f6",
+      "name": "Partenheim-SE-01",
       "online": true,
-      "score": 8071.250000001925
+      "score": 8136.790000001558
+    },
+    {
+      "clients": 2,
+      "id": "c04a004a31cc",
+      "name": "Partenheim-SL-01",
+      "online": true,
+      "score": 8117.120000001625
+    },
+    {
+      "clients": 1,
+      "id": "30b5c280faa0",
+      "name": "freifunk_schlossbergstrasse_1",
+      "online": true,
+      "score": 8095.540000001711
+    },
+    {
+      "clients": 2,
+      "id": "dc9fdb94f55a",
+      "name": "mz-Schoenborn7Dach",
+      "online": true,
+      "score": 8089.9200000016845
+    },
+    {
+      "clients": 8,
+      "id": "68725120d848",
+      "name": "bbmz-uk-nslm2-1",
+      "online": true,
+      "score": 8082.550000001453
     },
     {
       "clients": 0,
+      "id": "f81a672efe6a",
+      "name": "mz-heidelbergerfassgasse18",
+      "online": true,
+      "score": 8079.1900000016185
+    },
+    {
+      "clients": 3,
+      "id": "10feed4ff934",
+      "name": "Partenheim-WH03",
+      "online": true,
+      "score": 8079.160000001926
+    },
+    {
+      "clients": 3,
       "id": "e8de27591b9f",
       "name": "mz-Holzstr1-4",
-      "online": false,
-      "score": 8065.240000002075
+      "online": true,
+      "score": 8071.040000002079
     },
     {
       "clients": 1,
       "id": "30b5c2b55a54",
       "name": "Was-Ihr-WOLLt",
       "online": true,
-      "score": 8056.010000001453
+      "score": 8063.960000001456
     },
     {
-      "clients": 3,
+      "clients": 0,
       "id": "10feed7a0a82",
       "name": "PLE",
       "online": true,
-      "score": 8054.760000001618
+      "score": 8062.540000001622
     },
     {
       "clients": 1,
       "id": "a0f3c148cfb0",
       "name": "Partenheim-DM-01",
       "online": true,
-      "score": 8054.240000001966
-    },
-    {
-      "clients": 4,
-      "id": "30b5c2d6014c",
-      "name": "Freifunk-Saulheim-01",
-      "online": true,
-      "score": 8048.070000001524
-    },
-    {
-      "clients": 1,
-      "id": "c04a0038da98",
-      "name": "SPD-Neustadtladen",
-      "online": true,
-      "score": 8044.150000001828
-    },
-    {
-      "clients": 10,
-      "id": "30b5c2da0fb4",
-      "name": "42-Handtuecher",
-      "online": true,
-      "score": 8037.500000001259
-    },
-    {
-      "clients": 0,
-      "id": "14cc20a90788",
-      "name": "woell-ErnstLudwig-21",
-      "online": true,
-      "score": 8037.330000001357
-    },
-    {
-      "clients": 0,
-      "id": "6470024450a6",
-      "name": "Partenheim-JH-01",
-      "online": true,
-      "score": 8035.730000001719
+      "score": 8062.01000000197
     },
     {
       "clients": 3,
+      "id": "30b5c2d6014c",
+      "name": "Freifunk-Saulheim-01",
+      "online": true,
+      "score": 8055.970000001528
+    },
+    {
+      "clients": 2,
+      "id": "c04a0038da98",
+      "name": "SPD-Neustadtladen",
+      "online": true,
+      "score": 8051.9500000018315
+    },
+    {
+      "clients": 9,
+      "id": "30b5c2da0fb4",
+      "name": "42-Handtuecher",
+      "online": true,
+      "score": 8045.880000001262
+    },
+    {
+      "clients": 2,
+      "id": "14cc20a90788",
+      "name": "woell-ErnstLudwig-21",
+      "online": true,
+      "score": 8045.170000001361
+    },
+    {
+      "clients": 2,
+      "id": "6470024450a6",
+      "name": "Partenheim-JH-01",
+      "online": true,
+      "score": 8043.450000001722
+    },
+    {
+      "clients": 7,
       "id": "e894f66828a6",
       "name": "Unplugged-Beratungscafe",
       "online": true,
-      "score": 8028.190000001669
+      "score": 8036.270000001671
     },
     {
       "clients": 1,
       "id": "c04a008d7618",
       "name": "Josefsstrasse33",
       "online": true,
-      "score": 8027.480000001803
-    },
-    {
-      "clients": 2,
-      "id": "6470028f44ce",
-      "name": "Elsheim_Lindenbaum",
-      "online": true,
-      "score": 8018.720000001601
+      "score": 8035.240000001806
     },
     {
       "clients": 0,
+      "id": "6470028f44ce",
+      "name": "Elsheim_Lindenbaum",
+      "online": true,
+      "score": 8026.450000001604
+    },
+    {
+      "clients": 3,
       "id": "e894f6682864",
       "name": "mz-Graben6",
       "online": true,
-      "score": 8012.270000001638
+      "score": 8020.1200000016415
+    },
+    {
+      "clients": 6,
+      "id": "e894f6682804",
+      "name": "Landesschuelervertretung",
+      "online": true,
+      "score": 8019.050000001446
     },
     {
       "clients": 0,
       "id": "14cc2031eefe",
       "name": "Freifunk-Nackenheim-2",
       "online": true,
-      "score": 8011.150000001622
-    },
-    {
-      "clients": 1,
-      "id": "e894f6682804",
-      "name": "Landesschuelervertretung",
-      "online": true,
-      "score": 8011.070000001442
+      "score": 8018.870000001625
     },
     {
       "clients": 1,
       "id": "30b5c2d5fc1e",
       "name": "mz-awf-6305",
       "online": true,
-      "score": 8010.590000001565
+      "score": 8018.440000001569
     },
     {
       "clients": 0,
       "id": "30b5c2ed8788",
       "name": "sief_Backhausgasse-7",
       "online": true,
-      "score": 8008.780000001489
-    },
-    {
-      "clients": 1,
-      "id": "30b5c2cbb7a2",
-      "name": "DRK-OV-Bingen",
-      "online": true,
-      "score": 8005.260000001489
-    },
-    {
-      "clients": 3,
-      "id": "a0f3c148d040",
-      "name": "Partenheim-FR-01",
-      "online": true,
-      "score": 8002.290000001437
-    },
-    {
-      "clients": 3,
-      "id": "68725130871e",
-      "name": "Essenheim_02",
-      "online": true,
-      "score": 7997.570000001783
-    },
-    {
-      "clients": 1,
-      "id": "30b5c2b55a02",
-      "name": "Abakovsky-001",
-      "online": true,
-      "score": 7990.40000000116
+      "score": 8016.520000001492
     },
     {
       "clients": 0,
+      "id": "30b5c2cbb7a2",
+      "name": "DRK-OV-Bingen",
+      "online": true,
+      "score": 8013.030000001492
+    },
+    {
+      "clients": 0,
+      "id": "a0f3c148d040",
+      "name": "Partenheim-FR-01",
+      "online": true,
+      "score": 8010.00000000144
+    },
+    {
+      "clients": 0,
+      "id": "68725130871e",
+      "name": "Essenheim_02",
+      "online": true,
+      "score": 8005.300000001786
+    },
+    {
+      "clients": 3,
+      "id": "30b5c2b55a02",
+      "name": "Abakovsky-001",
+      "online": true,
+      "score": 7998.350000001164
+    },
+    {
+      "clients": 1,
       "id": "c04a00062f82",
       "name": "Pfarrstrasse1",
       "online": true,
-      "score": 7987.630000001263
+      "score": 7995.360000001267
     },
     {
       "clients": 0,
       "id": "30b5c2e2ec52",
       "name": "globohobbitA",
       "online": true,
-      "score": 7987.320000001537
-    },
-    {
-      "clients": 1,
-      "id": "30b5c2c29bd8",
-      "name": "bin-sanderweg-5",
-      "online": true,
-      "score": 7983.560000001448
+      "score": 7995.020000001539
     },
     {
       "clients": 0,
+      "id": "30b5c2c29bd8",
+      "name": "bin-sanderweg-5",
+      "online": true,
+      "score": 7991.280000001451
+    },
+    {
+      "clients": 1,
       "id": "c46e1f9c7828",
       "name": "CCCMZ",
       "online": true,
-      "score": 7979.8100000016775
+      "score": 7987.570000001681
     },
     {
       "clients": 0,
       "id": "30b5c2da0766",
       "name": "link-enemies-Freifunk",
       "online": true,
-      "score": 7979.190000001429
+      "score": 7986.900000001432
     },
     {
       "clients": 0,
       "id": "30b5c2c69272",
       "name": "Essenheim_01",
       "online": true,
-      "score": 7975.730000001538
+      "score": 7983.430000001541
     },
     {
-      "clients": 0,
+      "clients": 1,
       "id": "30b5c29f03b8",
       "name": "reddelicious",
       "online": true,
-      "score": 7964.910000001392
+      "score": 7972.630000001395
     },
     {
       "clients": 0,
       "id": "64700244688c",
       "name": "SL-Malte",
       "online": true,
-      "score": 7963.0900000012625
+      "score": 7970.790000001265
     },
     {
-      "clients": 1,
+      "clients": 0,
       "id": "14cc202978f8",
       "name": "ingelheim-nord-skyfyre",
       "online": true,
-      "score": 7960.500000001289
+      "score": 7968.2100000012915
     },
     {
       "clients": 0,
       "id": "a0f3c148d110",
       "name": "Partenheim-Weed",
       "online": true,
-      "score": 7960.420000001364
+      "score": 7968.120000001367
     },
     {
       "clients": 0,
       "id": "30b5c2e01d58",
       "name": "Offenheim1",
       "online": true,
-      "score": 7955.680000001161
+      "score": 7963.380000001163
     },
     {
-      "clients": 1,
+      "clients": 0,
       "id": "68725130834d",
       "name": "Essenheim_03",
       "online": true,
-      "score": 7955.42000000158
+      "score": 7963.130000001583
     },
     {
       "clients": 0,
       "id": "c46e1fc74944",
       "name": "Elsheim_Gateway",
       "online": true,
-      "score": 7955.360000001371
+      "score": 7963.080000001374
     },
     {
       "clients": 0,
       "id": "c46e1ffef56e",
       "name": "Elsheim-Schlossweide",
       "online": true,
-      "score": 7955.100000001907
+      "score": 7962.800000001909
+    },
+    {
+      "clients": 3,
+      "id": "30b5c25679d0",
+      "name": "Freifunk-LOE-123Liquids",
+      "online": true,
+      "score": 7961.890000001306
     },
     {
       "clients": 0,
       "id": "a0f3c14fb41c",
       "name": "Partenheim-WH05",
       "online": true,
-      "score": 7954.150000001151
-    },
-    {
-      "clients": 0,
-      "id": "30b5c25679d0",
-      "name": "Freifunk-LOE-123Liquids",
-      "online": true,
-      "score": 7954.030000001304
+      "score": 7961.850000001154
     },
     {
       "clients": 2,
       "id": "30b5c2c29ba2",
       "name": "30b5c2c29ba2",
       "online": true,
-      "score": 7952.910000001721
+      "score": 7960.750000001725
     },
     {
       "clients": 0,
       "id": "f81a67f94c22",
       "name": "mz-f81a67f94c22",
       "online": true,
-      "score": 7952.730000001405
+      "score": 7960.430000001407
     },
     {
-      "clients": 0,
+      "clients": 2,
       "id": "14cc205a8814",
       "name": "mz-hering-kartoffel",
       "online": true,
-      "score": 7950.320000001515
+      "score": 7958.110000001519
     },
     {
       "clients": 0,
       "id": "30b5c227375a",
       "name": "Kaesekuchen",
       "online": true,
-      "score": 7948.960000001468
+      "score": 7956.670000001471
     },
     {
       "clients": 0,
       "id": "6470029155aa",
       "name": "mz-klosterstr",
       "online": true,
-      "score": 7946.070000001258
+      "score": 7953.770000001261
     },
     {
       "clients": 0,
       "id": "6470026b9b0c",
       "name": "Partenheim-HR-01",
       "online": true,
-      "score": 7945.420000001543
+      "score": 7953.120000001545
     },
     {
-      "clients": 0,
+      "clients": 1,
       "id": "a0f3c148d7f4",
       "name": "mz-klosterstr-3",
       "online": true,
-      "score": 7944.280000001178
+      "score": 7952.040000001182
     },
     {
-      "clients": 0,
+      "clients": 1,
       "id": "14cc203b3896",
       "name": "Partenheim-FA-02",
       "online": true,
-      "score": 7942.1000000018275
+      "score": 7949.830000001831
     },
     {
-      "clients": 0,
+      "clients": 12,
       "id": "6466b3fa614a",
       "name": "Eiscafe-Rizzelli",
       "online": true,
-      "score": 7930.10000000124
+      "score": 7938.240000001242
     },
     {
       "clients": 1,
       "id": "e8de2758f766",
       "name": "mz-athletics-office",
       "online": true,
-      "score": 7926.300000001823
-    },
-    {
-      "clients": 0,
-      "id": "e8de2765a801",
-      "name": "Neustadt-im-Netz",
-      "online": true,
-      "score": 7925.1500000014985
+      "score": 7934.120000001827
     },
     {
       "clients": 1,
-      "id": "30b5c281640c",
-      "name": "mz-bin-burgstr-76",
+      "id": "e8de2765a801",
+      "name": "Neustadt-im-Netz",
       "online": true,
-      "score": 7919.640000001403
+      "score": 7932.990000001502
     },
     {
-      "clients": 0,
+      "clients": 1,
       "id": "30b5c280f240",
       "name": "FF-Wein-WGMa-01",
       "online": true,
-      "score": 7915.070000001338
+      "score": 7922.890000001343
     },
     {
       "clients": 0,
       "id": "90f652ff05da",
       "name": "ttr-Win-Taubentr-12-outdoor",
       "online": true,
-      "score": 7915.03000000155
+      "score": 7922.730000001553
     },
     {
-      "clients": 4,
+      "clients": 0,
+      "id": "30b5c281640c",
+      "name": "mz-bin-burgstr-76",
+      "online": false,
+      "score": 7921.360000001406
+    },
+    {
+      "clients": 2,
       "id": "0c8268a78568",
       "name": "oimel2",
       "online": true,
-      "score": 7912.120000001515
+      "score": 7920.050000001518
     },
     {
       "clients": 3,
       "id": "6872511a454e",
       "name": "holzturm-nslm2-1",
       "online": true,
-      "score": 7909.460000001433
-    },
-    {
-      "clients": 2,
-      "id": "64700252bf4c",
-      "name": "mz-elch",
-      "online": true,
-      "score": 7901.390000001681
+      "score": 7917.340000001435
     },
     {
       "clients": 3,
+      "id": "64700252bf4c",
+      "name": "mz-elch",
+      "online": true,
+      "score": 7909.3400000016845
+    },
+    {
+      "clients": 2,
       "id": "c46e1f86e3d8",
       "name": "MZ-Colmarstr-Roof",
       "online": true,
-      "score": 7897.650000001558
+      "score": 7905.530000001561
     },
     {
-      "clients": 0,
+      "clients": 1,
       "id": "30b5c280f1f8",
       "name": "Wingertsknorze-1",
       "online": true,
-      "score": 7897.110000001485
+      "score": 7904.8600000014885
     },
     {
       "clients": 0,
       "id": "c46e1fc748e2",
       "name": "Freifunk-Nackenheim-3",
       "online": true,
-      "score": 7896.340000001427
+      "score": 7904.04000000143
     },
     {
       "clients": 1,
       "id": "90f65243e1ba",
       "name": "ttr-Win-Goldgrube-14",
       "online": true,
-      "score": 7892.510000001317
+      "score": 7900.280000001321
     },
     {
       "clients": 0,
       "id": "e894f667f4dc",
       "name": "mp-kellerb",
       "online": true,
-      "score": 7892.250000001538
+      "score": 7899.9500000015405
     },
     {
-      "clients": 1,
+      "clients": 4,
       "id": "e894f6682ea0",
       "name": "MZ-Lauterenstr",
       "online": true,
-      "score": 7886.850000001573
+      "score": 7894.7200000015755
     },
     {
       "clients": 0,
       "id": "6466b3b0236c",
       "name": "mz-mlk01",
       "online": true,
-      "score": 7878.340000001743
-    },
-    {
-      "clients": 1,
-      "id": "e894f6f9cdbe",
-      "name": "Partenheim-DM-02",
-      "online": true,
-      "score": 7875.270000001798
-    },
-    {
-      "clients": 1,
-      "id": "647002fc0ffa",
-      "name": "Ober-Olm_FriedKaiStr_01",
-      "online": true,
-      "score": 7873.480000001386
+      "score": 7886.070000001746
     },
     {
       "clients": 2,
+      "id": "e894f6f9cdbe",
+      "name": "Partenheim-DM-02",
+      "online": true,
+      "score": 7883.070000001802
+    },
+    {
+      "clients": 0,
+      "id": "647002fc0ffa",
+      "name": "Ober-Olm_FriedKaiStr_01",
+      "online": true,
+      "score": 7881.180000001388
+    },
+    {
+      "clients": 1,
       "id": "30b5c2567c70",
       "name": "Freifunk-Na-123Liquids",
       "online": true,
-      "score": 7872.920000001633
+      "score": 7880.750000001637
     },
     {
-      "clients": 0,
+      "clients": 1,
       "id": "14cc20ed2098",
       "name": "mz-athletics-baseball",
       "online": true,
-      "score": 7870.200000001243
+      "score": 7877.930000001246
     },
     {
-      "clients": 0,
+      "clients": 4,
       "id": "f4ec38bd7dd8",
       "name": "holzturm-NordWest",
       "online": true,
-      "score": 7869.050000001717
+      "score": 7876.81000000172
     },
     {
       "clients": 7,
       "id": "30b5c23e8ed8",
       "name": "Voldemort1",
       "online": true,
-      "score": 7858.030000000795
+      "score": 7866.230000000795
     },
     {
       "clients": 0,
       "id": "e8de27876894",
       "name": "Partenheim-CK-01",
       "online": true,
-      "score": 7857.710000001406
+      "score": 7865.410000001409
     },
     {
-      "clients": 0,
+      "clients": 2,
       "id": "e894f66828a0",
       "name": "Neustadt-Ortsverwaltung",
       "online": true,
-      "score": 7829.850000001637
+      "score": 7837.640000001642
     },
     {
-      "clients": 0,
+      "clients": 1,
       "id": "30b5c281663a",
       "name": "Freifunk_Daxweiler",
       "online": true,
-      "score": 7822.420000001082
+      "score": 7830.130000001085
     },
     {
       "clients": 1,
       "id": "60e3274a7d72",
       "name": "Mainzer_Str_35",
       "online": true,
-      "score": 7822.170000001277
+      "score": 7829.950000001281
     },
     {
-      "clients": 2,
+      "clients": 3,
       "id": "60e3279403c8",
       "name": "Mz-Wei-A.-Diehl-Str",
       "online": true,
-      "score": 7818.08000000163
-    },
-    {
-      "clients": 1,
-      "id": "30b5c281620c",
-      "name": "iwh-hotspot",
-      "online": true,
-      "score": 7813.710000001236
+      "score": 7825.930000001633
     },
     {
       "clients": 0,
-      "id": "30b5c23848ec",
-      "name": "mz-athletics-softball",
+      "id": "30b5c281620c",
+      "name": "iwh-hotspot",
       "online": true,
-      "score": 7813.230000001192
+      "score": 7821.410000001239
     },
     {
       "clients": 1,
+      "id": "30b5c23848ec",
+      "name": "mz-athletics-softball",
+      "online": true,
+      "score": 7820.940000001195
+    },
+    {
+      "clients": 0,
       "id": "e894f6b6a684",
       "name": "Hof-Ruhgewann-Freifunk",
       "online": true,
-      "score": 7811.480000001677
+      "score": 7819.21000000168
     },
     {
-      "clients": 2,
+      "clients": 1,
       "id": "30b5c25666e9",
       "name": "Riesling",
       "online": true,
-      "score": 7810.390000001433
+      "score": 7818.160000001437
     },
     {
       "clients": 0,
       "id": "30b5c27df9dc",
       "name": "ffbin-adolfkolpingstr1",
       "online": true,
-      "score": 7807.970000001302
+      "score": 7815.670000001304
     },
     {
-      "clients": 1,
+      "clients": 2,
       "id": "a0f3c1748b18",
       "name": "Elsheim-MZ44",
       "online": true,
-      "score": 7791.280000001634
+      "score": 7799.060000001638
     },
     {
       "clients": 1,
       "id": "14cc206ef60a",
       "name": "mz-la-ibr-01-02",
       "online": true,
-      "score": 7782.930000001634
-    },
-    {
-      "clients": 0,
-      "id": "c04a0040753e",
-      "name": "mz-erik-01",
-      "online": false,
-      "score": 7780.900000001388
+      "score": 7790.720000001637
     },
     {
       "clients": 5,
       "id": "e894f6c41494",
       "name": "mz-alteziegelei2",
       "online": true,
-      "score": 7772.610000001325
+      "score": 7780.560000001329
     },
     {
-      "clients": 4,
+      "clients": 0,
+      "id": "c04a0040753e",
+      "name": "mz-erik-01",
+      "online": false,
+      "score": 7774.600000001391
+    },
+    {
+      "clients": 3,
       "id": "30b5c26ea680",
       "name": "30b5c26ea680",
       "online": true,
-      "score": 7765.850000000156
+      "score": 7773.1300000001565
     },
     {
       "clients": 1,
       "id": "14cc20b0e4e6",
       "name": "Ober-Olm_FriedKaiStr_03",
       "online": true,
-      "score": 7762.830000001578
+      "score": 7770.600000001582
     },
     {
-      "clients": 12,
+      "clients": 2,
       "id": "6470024471a8",
       "name": "Partenheim-RS-01",
       "online": true,
-      "score": 7757.290000001703
+      "score": 7765.090000001708
     },
     {
-      "clients": 2,
+      "clients": 3,
       "id": "14cc206f799a",
       "name": "ffbin-saarlandstr104-03",
       "online": true,
-      "score": 7751.850000001663
+      "score": 7759.690000001666
     },
     {
-      "clients": 1,
+      "clients": 3,
       "id": "14cc202b9650",
       "name": "Forum-Theater_unterhaus",
       "online": true,
-      "score": 7734.350000001465
+      "score": 7742.210000001467
     },
     {
-      "clients": 10,
+      "clients": 7,
       "id": "e894f6f31ace",
       "name": "mz-alteziegelei5",
       "online": true,
-      "score": 7724.370000001151
+      "score": 7732.540000001153
     },
     {
-      "clients": 2,
+      "clients": 1,
       "id": "10feede5ea06",
       "name": "Partenheim-PH-01",
       "online": true,
-      "score": 7722.460000001514
+      "score": 7730.190000001518
     },
     {
       "clients": 1,
       "id": "30b5c2edb1ac",
       "name": "mz-la-ibr-01-01",
       "online": true,
-      "score": 7719.440000001626
+      "score": 7727.2400000016305
     },
     {
       "clients": 1,
       "id": "10feed78044a",
       "name": "mz-go-ags23-01",
       "online": true,
-      "score": 7718.470000001371
+      "score": 7726.180000001374
     },
     {
-      "clients": 1,
-      "id": "30b5c2d5f495",
-      "name": "Mollinger-Uplink-Saarlandstr.93",
-      "online": true,
-      "score": 7715.350000001481
-    },
-    {
-      "clients": 0,
+      "clients": 3,
       "id": "14cc20c6b201",
       "name": "Kajo-KJZ-Mainz",
       "online": true,
-      "score": 7715.300000001463
+      "score": 7723.290000001464
     },
     {
-      "clients": 5,
+      "clients": 3,
+      "id": "30b5c2d5f495",
+      "name": "Mollinger-Uplink-Saarlandstr.93",
+      "online": true,
+      "score": 7723.180000001485
+    },
+    {
+      "clients": 0,
       "id": "10feed2b74ee",
       "name": "Partenheim-BW-01",
       "online": true,
-      "score": 7714.190000001444
+      "score": 7721.970000001446
     },
     {
       "clients": 0,
       "id": "a0f3c147dbf6",
       "name": "Ober-Olm_FriedKaiStr_02",
       "online": true,
-      "score": 7713.960000001223
+      "score": 7721.660000001226
     },
     {
       "clients": 0,
       "id": "c04a00063030",
       "name": "lennebergfunk",
       "online": true,
-      "score": 7708.020000001054
+      "score": 7715.720000001056
     },
     {
-      "clients": 6,
+      "clients": 5,
       "id": "e894f6d42612",
       "name": "mz-alteziegelei3",
       "online": true,
-      "score": 7705.560000001329
+      "score": 7713.710000001332
     },
     {
-      "clients": 1,
+      "clients": 4,
       "id": "c04a00dd5446",
       "name": "mz-alteziegelei1",
       "online": true,
-      "score": 7703.16000000138
-    },
-    {
-      "clients": 2,
-      "id": "687251402af1",
-      "name": "ffbin-locom2-1",
-      "online": true,
-      "score": 7690.5300000016005
+      "score": 7711.090000001383
     },
     {
       "clients": 0,
+      "id": "687251402af1",
+      "name": "ffbin-locom2-1",
+      "online": true,
+      "score": 7696.270000001604
+    },
+    {
+      "clients": 1,
       "id": "c04a002cbb20",
       "name": "Soemmeringplatz-5.0",
       "online": true,
-      "score": 7687.8300000015015
+      "score": 7695.560000001505
     },
     {
-      "clients": 1,
+      "clients": 0,
       "id": "c4e984e8f1f0",
       "name": "mz-awf-6305-warehouse",
       "online": true,
-      "score": 7685.850000001068
+      "score": 7693.5900000010715
     },
     {
-      "clients": 1,
+      "clients": 0,
       "id": "c4e9844eb946",
       "name": "ffbin-weinhotel-michel0",
       "online": true,
-      "score": 7683.650000001155
+      "score": 7691.3600000011575
     },
     {
       "clients": 1,
       "id": "a0f3c14faff0",
       "name": "NiederOlm-SM-01",
       "online": true,
-      "score": 7674.780000001897
+      "score": 7682.550000001901
     },
     {
       "clients": 0,
       "id": "a0f3c17a2210",
       "name": "Partenheim-SW-01",
-      "online": false,
-      "score": 7666.640000001529
+      "online": true,
+      "score": 7674.340000001532
     },
     {
       "clients": 0,
       "id": "e8de2759118e",
       "name": "loerzweiler-bb01",
       "online": true,
-      "score": 7652.280000001142
+      "score": 7659.980000001145
     },
     {
       "clients": 1,
       "id": "14cc206fec4c",
       "name": "ffbin-kastellaun-birkenweg-1",
       "online": true,
-      "score": 7637.1500000014
+      "score": 7644.900000001404
     },
     {
       "clients": 0,
       "id": "c4e9847db37b",
       "name": "Freifunk-Schornsheim-1",
       "online": true,
-      "score": 7635.340000001596
+      "score": 7643.0700000015995
     },
     {
-      "clients": 1,
+      "clients": 0,
       "id": "44d9e723b4b4",
       "name": "ffbin-weinhotel-michel5",
       "online": true,
-      "score": 7632.100000001264
+      "score": 7639.800000001266
     },
     {
-      "clients": 1,
+      "clients": 0,
       "id": "68725138592f",
       "name": "DRK-OV-Bingen-Loco1",
       "online": true,
-      "score": 7595.160000001187
+      "score": 7602.8700000011895
     },
     {
-      "clients": 2,
+      "clients": 4,
       "id": "f4f26d22a354",
       "name": "Fuenfter",
       "online": true,
-      "score": 7565.7300000011355
+      "score": 7573.7400000011385
     },
     {
       "clients": 0,
       "id": "30b5c280f1d6",
       "name": "FF-Wein-WGMa-04",
       "online": true,
-      "score": 7502.990000001232
-    },
-    {
-      "clients": 0,
-      "id": "f4f26d227cf6",
-      "name": "Dritter",
-      "online": false,
-      "score": 7477.370000001213
+      "score": 7510.700000001235
     },
     {
       "clients": 0,
       "id": "e894f6f56fee",
       "name": "ffbin1-Germaniablick.de",
       "online": true,
-      "score": 7474.280000001125
+      "score": 7481.990000001128
     },
     {
-      "clients": 5,
+      "clients": 4,
       "id": "687251221275",
       "name": "mz-Mettbroetchen_03",
       "online": true,
-      "score": 7471.2500000015625
+      "score": 7479.230000001565
     },
     {
-      "clients": 2,
+      "clients": 0,
+      "id": "f4f26d227cf6",
+      "name": "Dritter",
+      "online": false,
+      "score": 7471.070000001216
+    },
+    {
+      "clients": 1,
       "id": "30b5c2811426",
       "name": "woell-ErnstLudwig-18",
       "online": true,
-      "score": 7457.570000001305
+      "score": 7465.420000001308
     },
     {
       "clients": 0,
       "id": "f8d111804806",
       "name": "mz-g27-2",
       "online": true,
-      "score": 7435.19000000137
+      "score": 7442.890000001373
     },
     {
       "clients": 0,
       "id": "c4e984b5efb6",
       "name": "KemptenOne",
       "online": true,
-      "score": 7430.420000001423
-    },
-    {
-      "clients": 0,
-      "id": "e894f6d42abe",
-      "name": "Cronopios",
-      "online": false,
-      "score": 7428.520000001161
+      "score": 7438.130000001426
     },
     {
       "clients": 0,
       "id": "30b5c280e54a",
       "name": "Gimbsheim-DP-01",
       "online": true,
-      "score": 7418.750000001171
-    },
-    {
-      "clients": 5,
-      "id": "30b5c2383887",
-      "name": "Mettbroetchen_01",
-      "online": true,
-      "score": 7410.030000001553
-    },
-    {
-      "clients": 9,
-      "id": "dc9fdb6f608c",
-      "name": "mz-Holzstr1-3",
-      "online": true,
-      "score": 7407.020000000908
+      "score": 7426.450000001174
     },
     {
       "clients": 0,
-      "id": "f4f26d2298e8",
-      "name": "Zweiter",
+      "id": "e894f6d42abe",
+      "name": "Cronopios",
       "online": false,
-      "score": 7406.730000001261
+      "score": 7422.2200000011635
     },
     {
-      "clients": 1,
+      "clients": 0,
+      "id": "30b5c2383887",
+      "name": "Mettbroetchen_01",
+      "online": true,
+      "score": 7417.800000001557
+    },
+    {
+      "clients": 7,
+      "id": "dc9fdb6f608c",
+      "name": "mz-Holzstr1-3",
+      "online": true,
+      "score": 7415.270000000911
+    },
+    {
+      "clients": 0,
       "id": "c04a008d244e",
       "name": "petersstrasse",
       "online": true,
-      "score": 7396.290000001203
+      "score": 7404.010000001206
     },
     {
       "clients": 0,
       "id": "30b5c2bd71fa",
       "name": "ffbin-pfarrer-heberer-str-1",
       "online": true,
-      "score": 7394.210000001301
+      "score": 7401.910000001303
+    },
+    {
+      "clients": 0,
+      "id": "f4f26d2298e8",
+      "name": "Zweiter",
+      "online": false,
+      "score": 7400.430000001264
     },
     {
       "clients": 0,
       "id": "c46e1fc9e136",
       "name": "Spiesheim-KR01",
       "online": true,
-      "score": 7386.170000001421
+      "score": 7393.870000001423
     },
     {
-      "clients": 4,
+      "clients": 1,
       "id": "6872511a5457",
       "name": "bbmz-uk-nslm2-2",
       "online": true,
-      "score": 7377.1300000013025
+      "score": 7384.990000001307
     },
     {
-      "clients": 2,
+      "clients": 1,
       "id": "a0f3c14fb724",
       "name": "tigerente",
       "online": true,
-      "score": 7375.990000001338
+      "score": 7383.940000001341
     },
     {
       "clients": 0,
       "id": "a0f3c14fb6e4",
       "name": "Partenheim-FR-02",
       "online": true,
-      "score": 7344.010000001465
+      "score": 7351.710000001468
     },
     {
       "clients": 1,
       "id": "30b5c2812558",
       "name": "Josefsstrasse35",
       "online": true,
-      "score": 7335.400000001507
+      "score": 7343.1600000015105
     },
     {
       "clients": 1,
       "id": "30b5c2c682ae",
       "name": "ttr-Win-Taubentr-12",
       "online": true,
-      "score": 7333.960000001686
+      "score": 7341.72000000169
     },
     {
-      "clients": 3,
+      "clients": 1,
       "id": "f8d111804a24",
       "name": "mz-g27-1",
       "online": true,
-      "score": 7328.130000001488
+      "score": 7335.920000001493
     },
     {
-      "clients": 0,
+      "clients": 1,
       "id": "02000a250103",
       "name": "aubergine",
       "online": true,
-      "score": 7306.9000000007845
+      "score": 7313.920000000785
     },
     {
-      "clients": 2,
+      "clients": 7,
       "id": "a0f3c148cfa2",
       "name": "janosch",
       "online": true,
-      "score": 7293.360000001077
+      "score": 7301.480000001081
     },
     {
-      "clients": 3,
+      "clients": 1,
       "id": "10feedcd6e60",
       "name": "mp-lasagne",
       "online": true,
-      "score": 7292.580000001381
+      "score": 7300.370000001385
     },
     {
       "clients": 0,
       "id": "30b5c2c27168",
       "name": "mz-Draiser-Strasse",
       "online": true,
-      "score": 7289.740000001249
+      "score": 7297.440000001252
     },
     {
       "clients": 0,
       "id": "02000a250101",
       "name": "glueckskeks",
       "online": true,
-      "score": 7276.9600000003975
+      "score": 7283.980000000398
     },
     {
       "clients": 0,
       "id": "c46e1ffed8e2",
       "name": "JuzBingen",
       "online": true,
-      "score": 7268.78000000098
+      "score": 7276.480000000983
     },
     {
-      "clients": 8,
+      "clients": 5,
       "id": "c4e984814b4f",
       "name": "photoglobe.de",
       "online": true,
-      "score": 7265.5400000012405
+      "score": 7273.630000001243
     },
     {
       "clients": 1,
       "id": "02000a2500e7",
       "name": "wasserfloh",
       "online": true,
-      "score": 7260.050000001109
-    },
-    {
-      "clients": 2,
-      "id": "30b5c2c29c68",
-      "name": "iwh-hotspot-2",
-      "online": true,
-      "score": 7251.42000000132
-    },
-    {
-      "clients": 1,
-      "id": "14cc2062f0cc",
-      "name": "Goerz_Siedlung_1",
-      "online": true,
-      "score": 7232.120000001392
+      "score": 7267.12000000111
     },
     {
       "clients": 0,
+      "id": "30b5c2c29c68",
+      "name": "iwh-hotspot-2",
+      "online": true,
+      "score": 7259.160000001322
+    },
+    {
+      "clients": 0,
+      "id": "14cc2062f0cc",
+      "name": "Goerz_Siedlung_1",
+      "online": true,
+      "score": 7239.8500000013955
+    },
+    {
+      "clients": 1,
       "id": "02000a250007",
       "name": "spinat",
       "online": true,
-      "score": 7229.390000000663
+      "score": 7236.420000000664
     },
     {
       "clients": 0,
       "id": "52540039f7a0",
       "name": "at_the_loampits",
       "online": false,
-      "score": 7228.320000001935
+      "score": 7222.020000001938
     },
     {
       "clients": 0,
       "id": "14cc2031f04a",
       "name": "Freifunk-Nackenheim-1",
       "online": true,
-      "score": 7205.900000000883
-    },
-    {
-      "clients": 0,
-      "id": "74ea3ae05bac",
-      "name": "Offenheim1-Dachstuhl",
-      "online": false,
-      "score": 7198.740000001387
+      "score": 7213.600000000885
     },
     {
       "clients": 0,
       "id": "68725138559e",
       "name": "ffbin-evkirche-turm-so",
       "online": true,
-      "score": 7188.600000000859
+      "score": 7196.3000000008615
+    },
+    {
+      "clients": 0,
+      "id": "74ea3ae05bac",
+      "name": "Offenheim1-Dachstuhl",
+      "online": false,
+      "score": 7192.440000001389
     },
     {
       "clients": 1,
       "id": "647002b5cffa",
       "name": "Partenheim-MA-01",
       "online": true,
-      "score": 7181.2700000014
+      "score": 7188.980000001403
     },
     {
       "clients": 0,
       "id": "30b5c2cbb60c",
       "name": "Zornheim_pj_01",
       "online": true,
-      "score": 7128.710000000992
+      "score": 7136.410000000995
     },
     {
-      "clients": 3,
+      "clients": 1,
       "id": "647002f396d2",
       "name": "rollfunk",
       "online": true,
-      "score": 7126.950000000646
+      "score": 7134.020000000647
     },
     {
       "clients": 0,
       "id": "30b5c2c2951e",
       "name": "ffbin-muesa-talstr",
       "online": true,
-      "score": 7123.330000001312
+      "score": 7131.030000001315
     },
     {
-      "clients": 2,
+      "clients": 0,
       "id": "c46e1f31857e",
       "name": "Kaiserstrasse55",
       "online": true,
-      "score": 7123.280000001544
+      "score": 7130.980000001547
     },
     {
       "clients": 0,
       "id": "10feede5c688",
       "name": "CDU_Hennweiler_Roof",
       "online": true,
-      "score": 7118.240000001081
+      "score": 7125.940000001084
+    },
+    {
+      "clients": 0,
+      "id": "60e3279f4c0a",
+      "name": "ffbin-kgmbadsob-02",
+      "online": true,
+      "score": 7109.620000001093
     },
     {
       "clients": 0,
       "id": "c04a00eed046",
       "name": "mz-playground-zero",
       "online": false,
-      "score": 7103.550000001477
+      "score": 7097.25000000148
     },
     {
-      "clients": 1,
-      "id": "60e3279f4c0a",
-      "name": "ffbin-kgmbadsob-02",
-      "online": true,
-      "score": 7101.70000000109
-    },
-    {
-      "clients": 18,
+      "clients": 20,
       "id": "60e32730551c",
       "name": "malteser_luw_1",
       "online": true,
-      "score": 7068.3000000007
+      "score": 7077.120000000701
     },
     {
-      "clients": 0,
+      "clients": 1,
       "id": "14cc20b0f076",
       "name": "Elsheim_Engpass",
       "online": true,
-      "score": 7065.110000001224
+      "score": 7072.830000001227
     },
     {
       "clients": 1,
       "id": "e8de27443a50",
       "name": "Antjes_FeWo",
       "online": true,
-      "score": 7047.97000000104
+      "score": 7055.730000001044
     },
     {
-      "clients": 2,
+      "clients": 0,
       "id": "90f652ff0596",
       "name": "ttr-Win-Goldgrube-13-outdoor",
       "online": true,
-      "score": 7040.970000001185
+      "score": 7048.7400000011885
     },
     {
       "clients": 0,
       "id": "30b5c2ae33aa",
       "name": "mz-go-ebs-1",
       "online": true,
-      "score": 7017.670000001187
+      "score": 7025.3700000011895
+    },
+    {
+      "clients": 0,
+      "id": "14cc20a5984e",
+      "name": "Freifunk-Waschkuebel",
+      "online": true,
+      "score": 7008.010000001027
     },
     {
       "clients": 0,
       "id": "30b5c2c28038",
       "name": "Opoloo-Freifunk",
       "online": false,
-      "score": 7009.550000001353
-    },
-    {
-      "clients": 1,
-      "id": "14cc20a5984e",
-      "name": "Freifunk-Waschkuebel",
-      "online": true,
-      "score": 7000.290000001024
+      "score": 7003.250000001355
     },
     {
       "clients": 2,
       "id": "60e327c72b06",
       "name": "Hunsrueckblick",
       "online": true,
-      "score": 6995.190000001046
+      "score": 7003.010000001051
     },
     {
       "clients": 0,
       "id": "0418d6e7a730",
       "name": "ffbin-weinhotel-michel4",
       "online": true,
-      "score": 6979.490000000303
+      "score": 6986.500000000303
     },
     {
       "clients": 1,
       "id": "30b5c2d5fedf",
       "name": "ffbin-waschbaer-01",
       "online": true,
-      "score": 6961.640000001257
+      "score": 6967.420000001261
     },
     {
-      "clients": 1,
+      "clients": 0,
       "id": "44d9e7598653",
       "name": "ffbin-weinhotel-michel3",
       "online": true,
-      "score": 6956.730000000367
+      "score": 6963.760000000367
     },
     {
-      "clients": 0,
+      "clients": 3,
       "id": "c46e1fc72462",
       "name": "Elsheim_Neugasse",
-      "online": false,
-      "score": 6954.36000000127
-    },
-    {
-      "clients": 9,
-      "id": "6872510a2ece",
-      "name": "Nake",
       "online": true,
-      "score": 6940.400000001038
-    },
-    {
-      "clients": 0,
-      "id": "44d9e75987c9",
-      "name": "ffbin-weinhotel-michel2",
-      "online": true,
-      "score": 6939.720000000167
+      "score": 6950.0900000012725
     },
     {
       "clients": 2,
+      "id": "6872510a2ece",
+      "name": "Nake",
+      "online": true,
+      "score": 6948.500000001041
+    },
+    {
+      "clients": 1,
+      "id": "44d9e75987c9",
+      "name": "ffbin-weinhotel-michel2",
+      "online": true,
+      "score": 6946.730000000167
+    },
+    {
+      "clients": 3,
       "id": "90f652dc2ab8",
       "name": "Wasserweck",
       "online": true,
-      "score": 6937.530000001365
+      "score": 6945.420000001367
     },
     {
       "clients": 0,
       "id": "60e3279f5864",
       "name": "ffbin-kgmbadsob-01",
       "online": true,
-      "score": 6937.120000000849
+      "score": 6944.960000000852
+    },
+    {
+      "clients": 7,
+      "id": "dc9fdb2e5b79",
+      "name": "Mz-Frauenlob2",
+      "online": true,
+      "score": 6929.980000001401
     },
     {
       "clients": 0,
       "id": "02000a250017",
       "name": "lotuswurzel",
       "online": false,
-      "score": 6936.260000001077
-    },
-    {
-      "clients": 4,
-      "id": "dc9fdb2e5b79",
-      "name": "Mz-Frauenlob2",
-      "online": true,
-      "score": 6921.760000001398
+      "score": 6929.260000001077
     },
     {
       "clients": 0,
       "id": "90f652dc2e90",
       "name": "meinecouch_freewifi",
       "online": true,
-      "score": 6913.590000000961
+      "score": 6921.320000000964
     },
     {
-      "clients": 11,
+      "clients": 6,
       "id": "6872510a2f6b",
       "name": "vonNeumann",
       "online": true,
-      "score": 6905.360000001075
+      "score": 6913.560000001078
     },
     {
-      "clients": 3,
+      "clients": 4,
       "id": "647002be7e8e",
       "name": "MZ-Frauenlob",
       "online": true,
-      "score": 6902.390000001577
+      "score": 6910.3200000015795
     },
     {
-      "clients": 1,
+      "clients": 0,
       "id": "44d9e759864f",
       "name": "ffbin-weinhotel-michel1",
       "online": true,
-      "score": 6868.0500000003
+      "score": 6875.090000000301
     },
     {
-      "clients": 0,
+      "clients": 1,
       "id": "e894f6f572fe",
       "name": "ffbin2-Germaniablick.de",
       "online": true,
-      "score": 6838.090000001232
-    },
-    {
-      "clients": 0,
-      "id": "f4f26d22a092",
-      "name": "Vierter",
-      "online": false,
-      "score": 6837.81000000124
+      "score": 6845.860000001236
     },
     {
       "clients": 2,
       "id": "f4f26d228a98",
       "name": "Erster",
       "online": true,
-      "score": 6837.320000001208
-    },
-    {
-      "clients": 1,
-      "id": "a0f3c14faff2",
-      "name": "Bell",
-      "online": true,
-      "score": 6835.560000001166
+      "score": 6845.150000001212
     },
     {
       "clients": 0,
-      "id": "02000a250100",
-      "name": "zwiebel",
+      "id": "a0f3c14faff2",
+      "name": "Bell",
+      "online": true,
+      "score": 6843.31000000117
+    },
+    {
+      "clients": 0,
+      "id": "f4f26d22a092",
+      "name": "Vierter",
       "online": false,
-      "score": 6819.370000000383
+      "score": 6831.510000001243
     },
     {
       "clients": 1,
       "id": "14cc20936008",
       "name": "mp-pasta",
       "online": true,
-      "score": 6817.3600000010765
+      "score": 6825.380000001079
     },
     {
-      "clients": 1,
+      "clients": 2,
       "id": "14cc206f798c",
       "name": "ffbin-kastellaun-birkenweg-2",
       "online": true,
-      "score": 6809.370000001017
+      "score": 6817.390000001021
+    },
+    {
+      "clients": 0,
+      "id": "02000a250100",
+      "name": "zwiebel",
+      "online": false,
+      "score": 6812.370000000383
     },
     {
       "clients": 0,
       "id": "c46e1fdf18b2",
       "name": "mz-grossberghang-a",
       "online": false,
-      "score": 6798.390000001285
+      "score": 6792.090000001288
     },
     {
       "clients": 0,
       "id": "6466b3879d74",
       "name": "Waldthausenstrasse10",
       "online": true,
-      "score": 6724.560000000685
+      "score": 6732.270000000688
     },
     {
-      "clients": 3,
+      "clients": 2,
       "id": "60e327b850b9",
       "name": "ffbin-muesa-rathauscafe",
       "online": true,
-      "score": 6714.4400000008545
+      "score": 6720.250000000858
     },
     {
-      "clients": 3,
+      "clients": 2,
       "id": "e894f6682816",
       "name": "Kiosk-Berghuber",
       "online": true,
-      "score": 6692.7000000009875
+      "score": 6700.640000000991
     },
     {
-      "clients": 5,
+      "clients": 8,
       "id": "30b5c23e7f00",
       "name": "meg-mainz",
       "online": true,
-      "score": 6685.4900000007765
+      "score": 6693.63000000078
     },
     {
       "clients": 0,
       "id": "f8d1117f49be",
       "name": "CDU_Hennweiler_Home",
       "online": false,
-      "score": 6667.980000001262
+      "score": 6661.6800000012645
     },
     {
       "clients": 0,
       "id": "30b5c2826035",
       "name": "Offenheim1RE",
       "online": false,
-      "score": 6657.6800000009225
-    },
-    {
-      "clients": 0,
-      "id": "f4f26d22a38c",
-      "name": "Siebter",
-      "online": false,
-      "score": 6613.620000000767
+      "score": 6651.380000000925
     },
     {
       "clients": 3,
       "id": "a0f3c13d1f9c",
       "name": "Knuth",
       "online": true,
-      "score": 6610.820000000989
+      "score": 6618.650000000993
     },
     {
       "clients": 0,
+      "id": "f4f26d22a38c",
+      "name": "Siebter",
+      "online": false,
+      "score": 6607.320000000769
+    },
+    {
+      "clients": 1,
       "id": "10feed9bf406",
       "name": "FF_Weiland_Security",
       "online": true,
-      "score": 6590.4300000008425
+      "score": 6598.1500000008455
     },
     {
       "clients": 0,
       "id": "647002be1b90",
       "name": "mz-erik-02",
       "online": false,
-      "score": 6568.210000001678
+      "score": 6561.910000001681
     },
     {
       "clients": 0,
       "id": "f4ec38f0c90e",
       "name": "netkladde-Freifunk",
       "online": false,
-      "score": 6548.030000001185
+      "score": 6541.730000001187
     },
     {
       "clients": 0,
       "id": "c46e1f2d6884",
       "name": "WG-Gaeste",
       "online": true,
-      "score": 6533.2400000009575
+      "score": 6540.94000000096
     },
     {
       "clients": 0,
       "id": "30b5c2ced3f9",
       "name": "Ober-Olm_Kirito",
       "online": true,
-      "score": 6473.020000000035
-    },
-    {
-      "clients": 1,
-      "id": "30b5c2383cfe",
-      "name": "mz-k12-101",
-      "online": true,
-      "score": 6467.770000000849
+      "score": 6480.020000000035
     },
     {
       "clients": 0,
-      "id": "10feed2b70b4",
-      "name": "NiederOlm-SM-02",
-      "online": false,
-      "score": 6424.100000001342
+      "id": "30b5c2383cfe",
+      "name": "mz-k12-101",
+      "online": true,
+      "score": 6475.480000000852
     },
     {
       "clients": 1,
       "id": "d85d4cf47e91",
       "name": "sief_Backhausgasse-5-1",
       "online": true,
-      "score": 6414.700000000723
+      "score": 6422.480000000727
     },
     {
       "clients": 0,
+      "id": "10feed2b70b4",
+      "name": "NiederOlm-SM-02",
+      "online": false,
+      "score": 6417.800000001344
+    },
+    {
+      "clients": 1,
       "id": "e8de275fcaf6",
       "name": "Partenheim-FA-01",
       "online": true,
-      "score": 6387.520000001337
-    },
-    {
-      "clients": 3,
-      "id": "e894f678b878",
-      "name": "Spiesemer-Wingertsknorze",
-      "online": true,
-      "score": 6379.22000000128
-    },
-    {
-      "clients": 3,
-      "id": "60e32793aa72",
-      "name": "ttr-kh-Seeber-Flur-17",
-      "online": true,
-      "score": 6325.160000001286
+      "score": 6395.270000001341
     },
     {
       "clients": 0,
+      "id": "e894f678b878",
+      "name": "Spiesemer-Wingertsknorze",
+      "online": true,
+      "score": 6386.980000001284
+    },
+    {
+      "clients": 4,
+      "id": "60e32793aa72",
+      "name": "ttr-kh-Seeber-Flur-17",
+      "online": true,
+      "score": 6333.1100000012875
+    },
+    {
+      "clients": 1,
       "id": "14cc206ece18",
       "name": "mz-go-ags23-02",
       "online": true,
-      "score": 6324.050000000936
+      "score": 6329.760000000939
     },
     {
-      "clients": 5,
+      "clients": 6,
       "id": "60e32776cc4a",
       "name": "ffbin-waschbaer-03",
       "online": true,
-      "score": 6299.670000000706
+      "score": 6307.58000000071
     },
     {
       "clients": 0,
       "id": "a0f3c1492e70",
       "name": "Belgweiler01",
       "online": true,
-      "score": 6299.070000000534
+      "score": 6306.770000000536
     },
     {
       "clients": 1,
       "id": "68725140e643",
       "name": "68725140e643",
       "online": true,
-      "score": 6266.840000000963
+      "score": 6274.640000000968
+    },
+    {
+      "clients": 11,
+      "id": "10feed9bf3ce",
+      "name": "GPH",
+      "online": true,
+      "score": 6259.850000000135
     },
     {
       "clients": 0,
       "id": "10feed7d96d4",
       "name": "GlobohobbitB",
       "online": false,
-      "score": 6259.330000000848
-    },
-    {
-      "clients": 0,
-      "id": "10feed9bf3ce",
-      "name": "GPH",
-      "online": true,
-      "score": 6252.110000000135
-    },
-    {
-      "clients": 12,
-      "id": "14cc2046b93e",
-      "name": "malteser_wstr_1_2",
-      "online": true,
-      "score": 6231.360000000909
-    },
-    {
-      "clients": 0,
-      "id": "b0487ac5d8e2",
-      "name": "Oberon_Bretzenheim",
-      "online": true,
-      "score": 6198.710000001328
+      "score": 6253.03000000085
     },
     {
       "clients": 20,
+      "id": "14cc2046b93e",
+      "name": "malteser_wstr_1_2",
+      "online": true,
+      "score": 6240.110000000911
+    },
+    {
+      "clients": 2,
+      "id": "b0487ac5d8e2",
+      "name": "Oberon_Bretzenheim",
+      "online": true,
+      "score": 6206.5400000013315
+    },
+    {
+      "clients": 12,
       "id": "e8de27939486",
       "name": "malteser_wstr_eg_2",
       "online": true,
-      "score": 6089.5900000009115
+      "score": 6098.000000000916
     },
     {
-      "clients": 0,
+      "clients": 1,
       "id": "e8de27f5f3e2",
       "name": "malteser_wstr_eg_1",
       "online": true,
-      "score": 6079.670000001308
+      "score": 6087.480000001311
     },
     {
       "clients": 0,
       "id": "02000a250102",
       "name": "zuckerwatte",
       "online": true,
-      "score": 6047.630000000219
+      "score": 6054.66000000022
     },
     {
       "clients": 1,
       "id": "6466b38c37e5",
       "name": "Praxis-Dr-Best",
       "online": true,
-      "score": 6022.910000000848
+      "score": 6030.730000000853
     },
     {
       "clients": 0,
       "id": "a0f3c148d6be",
       "name": "Partenheim-RS-02",
       "online": false,
-      "score": 5988.750000001453
+      "score": 5984.460000001456
     },
     {
       "clients": 0,
       "id": "c46e1ffe4418",
       "name": "Balu112-Malteser",
       "online": true,
-      "score": 5915.100000000502
+      "score": 5922.800000000505
     },
     {
-      "clients": 0,
+      "clients": 4,
       "id": "e894f667b0e0",
       "name": "foto-gosselin_Freifunk",
       "online": true,
-      "score": 5909.820000001288
+      "score": 5917.670000001291
     },
     {
       "clients": 0,
       "id": "14cc208732dc",
       "name": "ffbin11-Germaniablick.de",
       "online": true,
-      "score": 5898.540000000561
+      "score": 5906.240000000564
+    },
+    {
+      "clients": 4,
+      "id": "6470025c0a5a",
+      "name": "Piraten-am-Nordhafen",
+      "online": true,
+      "score": 5899.770000001083
     },
     {
       "clients": 0,
       "id": "f81a675817a4",
       "name": "freifunk-ffm-west-2",
       "online": false,
-      "score": 5892.530000001215
+      "score": 5886.230000001217
     },
     {
-      "clients": 3,
-      "id": "6470025c0a5a",
-      "name": "Piraten-am-Nordhafen",
-      "online": true,
-      "score": 5891.84000000108
-    },
-    {
-      "clients": 1,
+      "clients": 0,
       "id": "e894f6787416",
       "name": "RingeLAN-BIN",
       "online": true,
-      "score": 5871.160000000291
+      "score": 5878.160000000291
     },
     {
       "clients": 4,
       "id": "e8de277d203a",
       "name": "malteser_wstr_eg_4",
       "online": true,
-      "score": 5867.280000000914
+      "score": 5875.250000000917
     },
     {
       "clients": 0,
       "id": "6466b3fa3c50",
       "name": "Schwanheim-SL-03",
       "online": true,
-      "score": 5818.270000001071
+      "score": 5825.9700000010735
     },
     {
       "clients": 0,
       "id": "647002da5686",
       "name": "Kemptentwo",
       "online": true,
-      "score": 5808.790000000539
+      "score": 5816.510000000542
     },
     {
-      "clients": 3,
+      "clients": 1,
       "id": "14cc20e3936e",
       "name": "14cc20e3936e",
       "online": true,
-      "score": 5804.130000000003
+      "score": 5809.250000000003
     },
     {
-      "clients": 8,
+      "clients": 4,
       "id": "30b5c2d99950",
       "name": "FFAN-Nackenheim-2",
       "online": true,
-      "score": 5796.640000000382
-    },
-    {
-      "clients": 0,
-      "id": "f4f26d6d1bb3",
-      "name": "Balu112-Freifunk",
-      "online": false,
-      "score": 5768.680000000735
+      "score": 5804.800000000386
     },
     {
       "clients": 3,
       "id": "14cc20857cd8",
       "name": "Holzturm-Master",
       "online": true,
-      "score": 5760.100000000466
+      "score": 5768.020000000467
+    },
+    {
+      "clients": 0,
+      "id": "f4f26d6d1bb3",
+      "name": "Balu112-Freifunk",
+      "online": false,
+      "score": 5762.380000000738
     },
     {
       "clients": 1,
       "id": "60e3279431ea",
       "name": "60e3279431ea",
       "online": true,
-      "score": 5733.090000001108
+      "score": 5740.850000001112
     },
     {
       "clients": 0,
       "id": "c46e1f317f5a",
       "name": "Partenheim-AH-02",
-      "online": true,
-      "score": 5726.770000000422
+      "online": false,
+      "score": 5730.490000000425
     },
     {
       "clients": 0,
       "id": "c46e1f66a5d0",
       "name": "freiland_deutschland-budenheim",
       "online": false,
-      "score": 5715.0100000007915
+      "score": 5708.710000000794
     },
     {
       "clients": 0,
       "id": "68725148b8b3",
       "name": "ffbin-horrweiler-weinbergstr",
       "online": true,
-      "score": 5692.5800000004565
+      "score": 5700.3000000004595
     },
     {
-      "clients": 8,
+      "clients": 3,
       "id": "30b5c22ace1c",
       "name": "ffbin-kgmbadsob-03",
       "online": true,
-      "score": 5687.210000000719
+      "score": 5695.480000000723
     },
     {
       "clients": 0,
       "id": "f8d1116062d0",
       "name": "freiland-deutschland_kupferberg",
       "online": false,
-      "score": 5678.260000000546
-    },
-    {
-      "clients": 0,
-      "id": "10feed4ff638",
-      "name": "FF-Wein-WGMa-02",
-      "online": true,
-      "score": 5645.74000000038
-    },
-    {
-      "clients": 2,
-      "id": "74ea3afd6ee8",
-      "name": "DonaldTrump",
-      "online": true,
-      "score": 5628.020000000535
-    },
-    {
-      "clients": 0,
-      "id": "6466b3fcf8b4",
-      "name": "PetKlHarg",
-      "online": true,
-      "score": 5619.790000000666
+      "score": 5671.9600000005485
     },
     {
       "clients": 1,
+      "id": "10feed4ff638",
+      "name": "FF-Wein-WGMa-02",
+      "online": true,
+      "score": 5653.480000000383
+    },
+    {
+      "clients": 3,
+      "id": "74ea3afd6ee8",
+      "name": "DonaldTrump",
+      "online": true,
+      "score": 5631.880000000538
+    },
+    {
+      "clients": 1,
+      "id": "6466b3fcf8b4",
+      "name": "PetKlHarg",
+      "online": true,
+      "score": 5627.520000000669
+    },
+    {
+      "clients": 0,
       "id": "30b5c2cb4f94",
       "name": "mz-Draiser-Strasse-2",
       "online": true,
-      "score": 5604.2800000003535
+      "score": 5611.980000000356
     },
     {
       "clients": 0,
       "id": "e8de27bc88ae",
       "name": "mz-bibabutzemann",
       "online": false,
-      "score": 5587.990000000867
-    },
-    {
-      "clients": 0,
-      "id": "90f65283254f",
-      "name": "mz-rumpelstilzen",
-      "online": false,
-      "score": 5580.320000000976
+      "score": 5581.69000000087
     },
     {
       "clients": 0,
       "id": "00199950242f",
       "name": "ffbin-evkirche-offloader",
       "online": true,
-      "score": 5569.900000000324
-    },
-    {
-      "clients": 0,
-      "id": "6470025c1588",
-      "name": "CDU_Hennweiler_Yard",
-      "online": false,
-      "score": 5566.7400000006155
+      "score": 5577.600000000327
     },
     {
       "clients": 2,
       "id": "30b5c2c29d7e",
       "name": "frauannl-freifunk",
       "online": true,
-      "score": 5566.70000000061
+      "score": 5574.500000000615
+    },
+    {
+      "clients": 0,
+      "id": "90f65283254f",
+      "name": "mz-rumpelstilzen",
+      "online": false,
+      "score": 5574.020000000978
     },
     {
       "clients": 1,
       "id": "e894f6a22d86",
       "name": "Danzigerstrasse",
       "online": true,
-      "score": 5566.200000000817
+      "score": 5573.9700000008215
+    },
+    {
+      "clients": 0,
+      "id": "6470025c1588",
+      "name": "CDU_Hennweiler_Yard",
+      "online": false,
+      "score": 5560.440000000618
     },
     {
       "clients": 0,
       "id": "0019995fadcc",
       "name": "malteser_offloader_ebh",
       "online": true,
-      "score": 5496.000000000027
+      "score": 5503.70000000003
     },
     {
-      "clients": 7,
+      "clients": 6,
       "id": "e894f6f32155",
       "name": "mz-alteziegelei4",
       "online": true,
-      "score": 5470.690000000167
+      "score": 5478.130000000168
     },
     {
       "clients": 0,
       "id": "c4e9847de2a6",
       "name": "ttr-Win-Test-3",
       "online": false,
-      "score": 5435.260000000612
+      "score": 5428.960000000615
     },
     {
-      "clients": 9,
+      "clients": 5,
       "id": "6470028f3c7a",
       "name": "MKT-Spaetburgunder",
       "online": true,
-      "score": 5407.840000000268
+      "score": 5415.9800000002715
     },
     {
       "clients": 0,
       "id": "10feed2b708a",
       "name": "freifunk-rgd-mnhdt25",
       "online": true,
-      "score": 5405.510000000093
+      "score": 5410.510000000093
     },
     {
       "clients": 0,
       "id": "02030400f0f0",
       "name": "Partenheim-Zentrale",
       "online": false,
-      "score": 5394.240000000588
+      "score": 5387.940000000591
     },
     {
       "clients": 0,
       "id": "60e327c7aa3a",
       "name": "ffbin-saarlandstr-dieterheim",
-      "online": true,
-      "score": 5382.270000000325
+      "online": false,
+      "score": 5377.980000000328
     },
     {
       "clients": 0,
       "id": "60e327ed97a4",
       "name": "FF-AMENK-DE",
       "online": true,
-      "score": 5365.810000000229
+      "score": 5373.510000000231
     },
     {
       "clients": 0,
       "id": "30b5c2b041f2",
       "name": "Rathenaustr1",
       "online": false,
-      "score": 5330.850000000714
+      "score": 5323.850000000714
     },
     {
-      "clients": 2,
+      "clients": 1,
       "id": "6466b3afe6f8",
       "name": "freifunk-rgd-mnhdt27",
       "online": true,
-      "score": 5310.860000000453
+      "score": 5315.910000000454
+    },
+    {
+      "clients": 14,
+      "id": "e8de27fe6bd6",
+      "name": "malteser_wstr_1_1",
+      "online": true,
+      "score": 5296.870000000817
     },
     {
       "clients": 0,
       "id": "f4f26d976090",
       "name": "Balu112-Freifunk_2",
       "online": false,
-      "score": 5302.300000000592
-    },
-    {
-      "clients": 15,
-      "id": "e8de27fe6bd6",
-      "name": "malteser_wstr_1_1",
-      "online": true,
-      "score": 5288.320000000815
+      "score": 5296.000000000595
     },
     {
       "clients": 0,
       "id": "60e327cef3d2",
       "name": "TuS-Buedesheim-Jugendraum",
       "online": true,
-      "score": 5262.380000000283
+      "score": 5270.0800000002855
     },
     {
-      "clients": 3,
+      "clients": 4,
       "id": "c04a00eed24c",
       "name": "VR-Riesling",
       "online": true,
-      "score": 5238.800000000317
+      "score": 5246.81000000032
     },
     {
       "clients": 0,
       "id": "f4f26d407b2e",
       "name": "Weingut-Merz",
       "online": true,
-      "score": 5199.740000000234
+      "score": 5207.440000000237
     },
     {
       "clients": 1,
       "id": "e894f667df74",
       "name": "Vereinshaus-Walluf",
       "online": true,
-      "score": 5194.6200000005965
+      "score": 5202.4300000006015
     },
     {
-      "clients": 1,
+      "clients": 0,
       "id": "c4e984f0a4a8",
       "name": "ffbac-langstr-01",
       "online": true,
-      "score": 5155.080000000327
+      "score": 5162.820000000331
     },
     {
       "clients": 0,
       "id": "c4e984e8f01f",
       "name": "Freifunk-KVMB",
       "online": true,
-      "score": 5113.090000000177
+      "score": 5120.800000000179
     },
     {
       "clients": 0,
       "id": "30b5c2e317a8",
       "name": "Elsheim-Schu15",
       "online": true,
-      "score": 5074.7800000003
+      "score": 5082.540000000304
     },
     {
-      "clients": 0,
+      "clients": 1,
       "id": "30b5c2c28176",
       "name": "Forum_Transparenz",
-      "online": false,
-      "score": 5069.350000000357
+      "online": true,
+      "score": 5075.09000000036
     },
     {
       "clients": 2,
       "id": "c4e984f0a354",
       "name": "ffbac-langstr-02",
       "online": true,
-      "score": 5056.800000000325
+      "score": 5064.560000000329
     },
     {
       "clients": 1,
       "id": "02000a250104",
       "name": "suesskartoffel",
       "online": true,
-      "score": 5050.450000000633
+      "score": 5057.520000000634
     },
     {
-      "clients": 1,
+      "clients": 0,
       "id": "30b5c20e8fc6",
       "name": "AuxMum2",
       "online": true,
-      "score": 5041.850000000162
+      "score": 5049.560000000165
     },
     {
-      "clients": 8,
+      "clients": 19,
       "id": "6872511a4632",
       "name": "PeterJordan-NSLM2-Hof",
       "online": true,
-      "score": 5023.719999999968
+      "score": 5032.1899999999705
     },
     {
       "clients": 0,
       "id": "c4e984fcf868",
       "name": "Villingen-SL-01",
       "online": true,
-      "score": 5017.730000000096
+      "score": 5025.4300000000985
     },
     {
       "clients": 0,
       "id": "60e3272a637e",
       "name": "ZehnterGS",
       "online": false,
-      "score": 5009.240000000247
+      "score": 5002.94000000025
     },
     {
       "clients": 0,
       "id": "60e3279fa9ca",
       "name": "Sommerloch-1",
       "online": true,
-      "score": 4991.630000000255
+      "score": 4999.330000000257
     },
     {
       "clients": 0,
       "id": "10feedafbca0",
       "name": "sunfunk",
       "online": false,
-      "score": 4989.470000000078
+      "score": 4982.470000000078
     },
     {
-      "clients": 1,
+      "clients": 2,
       "id": "30b5c2e01c20",
       "name": "Rapunzel",
       "online": true,
-      "score": 4974.190000000618
+      "score": 4981.970000000622
     },
     {
       "clients": 0,
       "id": "c4e984f09c62",
       "name": "ffbac-brunnenstr-01",
       "online": true,
-      "score": 4942.460000000285
-    },
-    {
-      "clients": 0,
-      "id": "60e3272a62e8",
-      "name": "neunter",
-      "online": false,
-      "score": 4940.370000000214
-    },
-    {
-      "clients": 0,
-      "id": "60e3272a6366",
-      "name": "ElfterGS",
-      "online": false,
-      "score": 4939.81000000016
-    },
-    {
-      "clients": 0,
-      "id": "14cc205a9ac8",
-      "name": "bikinibottom_freifunk_ober-olm",
-      "online": false,
-      "score": 4939.550000000847
+      "score": 4950.200000000288
     },
     {
       "clients": 7,
       "id": "30b5c20d8c96",
       "name": "VR-Silvaner",
       "online": true,
-      "score": 4930.0100000001885
+      "score": 4938.170000000191
     },
     {
-      "clients": 6,
+      "clients": 0,
+      "id": "60e3272a62e8",
+      "name": "neunter",
+      "online": false,
+      "score": 4934.070000000216
+    },
+    {
+      "clients": 0,
+      "id": "60e3272a6366",
+      "name": "ElfterGS",
+      "online": false,
+      "score": 4933.510000000162
+    },
+    {
+      "clients": 0,
+      "id": "14cc205a9ac8",
+      "name": "bikinibottom_freifunk_ober-olm",
+      "online": false,
+      "score": 4933.2500000008495
+    },
+    {
+      "clients": 2,
       "id": "6466b38a5636",
       "name": "MKT-Dornfelder",
       "online": true,
-      "score": 4915.680000000172
+      "score": 4923.550000000177
     },
     {
-      "clients": 3,
+      "clients": 0,
       "id": "60e327ee2efe",
       "name": "Damm1",
       "online": true,
-      "score": 4912.240000000177
+      "score": 4919.250000000177
     },
     {
-      "clients": 3,
+      "clients": 2,
       "id": "90f652f26be8",
       "name": "MKT-Trollinger",
       "online": true,
-      "score": 4900.560000000193
+      "score": 4908.330000000197
     },
     {
       "clients": 0,
       "id": "e894f662df40",
       "name": "Tilsiter",
       "online": true,
-      "score": 4884.150000000051
+      "score": 4891.850000000053
     },
     {
-      "clients": 0,
+      "clients": 4,
       "id": "d85d4c9bf348",
       "name": "Balu112-Malteser_2",
       "online": true,
-      "score": 4876.26000000004
+      "score": 4884.210000000042
     },
     {
       "clients": 0,
       "id": "f4f26d229bd0",
       "name": "Sechster",
       "online": true,
-      "score": 4868.769999999968
-    },
-    {
-      "clients": 0,
-      "id": "60e327edc29c",
-      "name": "GorchFock05",
-      "online": false,
-      "score": 4861.130000000256
+      "score": 4876.46999999997
     },
     {
       "clients": 0,
       "id": "c04a0038aaae",
       "name": "Belgweiler02",
       "online": true,
-      "score": 4855.64000000003
+      "score": 4863.340000000033
     },
     {
-      "clients": 2,
+      "clients": 4,
       "id": "60e327ee2f1a",
       "name": "Damm3",
       "online": true,
-      "score": 4851.420000000252
+      "score": 4858.650000000251
     },
     {
-      "clients": 1,
+      "clients": 2,
       "id": "a0f3c174a6e4",
       "name": "MKT-Merlot",
       "online": true,
-      "score": 4849.210000000208
+      "score": 4857.030000000213
     },
     {
       "clients": 0,
-      "id": "10feed3b46ae",
-      "name": "VR-Grauburgunder",
+      "id": "60e327edc29c",
+      "name": "GorchFock05",
       "online": false,
-      "score": 4849.180000000201
+      "score": 4854.830000000258
     },
     {
-      "clients": 2,
+      "clients": 3,
+      "id": "10feed3b46ae",
+      "name": "VR-Grauburgunder",
+      "online": true,
+      "score": 4848.920000000204
+    },
+    {
+      "clients": 4,
       "id": "647002ba0d64",
       "name": "genBug",
       "online": true,
-      "score": 4833.860000000118
-    },
-    {
-      "clients": 2,
-      "id": "f81a674cb054",
-      "name": "genHead",
-      "online": true,
-      "score": 4831.310000000176
+      "score": 4841.220000000119
     },
     {
       "clients": 0,
-      "id": "60e3272a62f6",
-      "name": "ZwoelfterGS",
-      "online": false,
-      "score": 4808.340000000096
+      "id": "f81a674cb054",
+      "name": "genHead",
+      "online": true,
+      "score": 4838.440000000177
     },
     {
       "clients": 0,
       "id": "60e327ee2ed0",
       "name": "Damm2",
       "online": true,
-      "score": 4803.750000000071
+      "score": 4810.750000000071
+    },
+    {
+      "clients": 0,
+      "id": "60e3272a62f6",
+      "name": "ZwoelfterGS",
+      "online": false,
+      "score": 4802.040000000098
     },
     {
       "clients": 0,
       "id": "f4f26d3fc6de",
       "name": "MzEb-Evang1",
       "online": true,
-      "score": 4779.730000000014
+      "score": 4787.440000000017
     },
     {
       "clients": 1,
       "id": "30b5c280f1ea",
       "name": "FF-Wein-WGMa-03",
       "online": true,
-      "score": 4744.66000000007
+      "score": 4752.470000000074
     },
     {
-      "clients": 1,
+      "clients": 0,
       "id": "60e327e76c68",
       "name": "MZ-Heiligkreuz40-A",
       "online": true,
-      "score": 4708.460000000108
+      "score": 4716.220000000112
     },
     {
       "clients": 1,
       "id": "c8d3a35c744c",
       "name": "Arielle",
       "online": true,
-      "score": 4693.4500000003445
+      "score": 4701.230000000349
     },
     {
       "clients": 0,
       "id": "940c6dee6034",
       "name": "oflloader_switch_malteser_ebh",
       "online": true,
-      "score": 4691.999999999696
-    },
-    {
-      "clients": 0,
-      "id": "60e327edd9e4",
-      "name": "MzEb-RheinhessenBraeu3",
-      "online": true,
-      "score": 4672.700000000115
+      "score": 4699.699999999699
     },
     {
       "clients": 4,
       "id": "6466b354beda",
       "name": "VR-Weissburgunder",
       "online": true,
-      "score": 4672.570000000209
+      "score": 4680.490000000212
     },
     {
-      "clients": 12,
+      "clients": 1,
+      "id": "60e327edd9e4",
+      "name": "MzEb-RheinhessenBraeu3",
+      "online": true,
+      "score": 4680.480000000119
+    },
+    {
+      "clients": 47,
       "id": "e894f6d46bda",
       "name": "Tritonplatz",
       "online": true,
-      "score": 4665.459999999967
+      "score": 4675.449999999972
     },
     {
-      "clients": 0,
+      "clients": 1,
       "id": "60e327edae08",
       "name": "MzEb-RheinhessenBraeu2",
       "online": true,
-      "score": 4657.670000000081
+      "score": 4665.410000000084
     },
     {
-      "clients": 0,
+      "clients": 1,
       "id": "60e327ee606c",
       "name": "MzEb-RheinhessenBraeu1",
       "online": true,
-      "score": 4653.200000000053
+      "score": 4660.920000000056
+    },
+    {
+      "clients": 9,
+      "id": "68725138cbea",
+      "name": "MZ-Heikr40-DachUni",
+      "online": true,
+      "score": 4638.060000000022
     },
     {
       "clients": 0,
       "id": "30b5c2d99b04",
       "name": "FFAN-Nackenheim-2-1",
       "online": false,
-      "score": 4631.470000000178
-    },
-    {
-      "clients": 21,
-      "id": "68725138cbea",
-      "name": "MZ-Heikr40-DachUni",
-      "online": true,
-      "score": 4629.6400000000185
-    },
-    {
-      "clients": 2,
-      "id": "30b5c2c6c35e",
-      "name": "ffbin-saarlandstr104-04",
-      "online": true,
-      "score": 4614.509999999972
+      "score": 4624.470000000178
     },
     {
       "clients": 1,
-      "id": "60e327beaf96",
-      "name": "Silvaner",
+      "id": "30b5c2c6c35e",
+      "name": "ffbin-saarlandstr104-04",
       "online": true,
-      "score": 4610.910000000069
+      "score": 4622.259999999976
     },
     {
       "clients": 0,
+      "id": "60e327beaf96",
+      "name": "Silvaner",
+      "online": true,
+      "score": 4618.660000000073
+    },
+    {
+      "clients": 1,
       "id": "24a43ca3404d",
       "name": "turmuplink",
       "online": true,
-      "score": 4600.850000000107
+      "score": 4608.670000000111
     },
     {
       "clients": 0,
       "id": "e894f66a4eaa",
       "name": "Ingelheim-Bahnhofstr59",
       "online": true,
-      "score": 4586.289999999962
-    },
-    {
-      "clients": 0,
-      "id": "d85d4cae3c86",
-      "name": "Freifunk-Nackenheim-6-1",
-      "online": false,
-      "score": 4549.670000001222
+      "score": 4593.9999999999645
     },
     {
       "clients": 0,
       "id": "baaba5f2f789",
       "name": "spundekaes",
       "online": true,
-      "score": 4543.01
+      "score": 4550.01
     },
     {
-      "clients": 3,
+      "clients": 0,
+      "id": "d85d4cae3c86",
+      "name": "Freifunk-Nackenheim-6-1",
+      "online": false,
+      "score": 4543.370000001225
+    },
+    {
+      "clients": 4,
       "id": "60e327beab52",
       "name": "Freifunk-FlashGordon",
       "online": true,
-      "score": 4525.160000000119
+      "score": 4533.140000000121
     },
     {
       "clients": 0,
       "id": "30b5c2d9b40e",
       "name": "ffbin-martinstr",
-      "online": true,
-      "score": 4523.779999999996
+      "online": false,
+      "score": 4525.479999999999
     },
     {
       "clients": 0,
       "id": "60e327ceb9ec",
       "name": "ffbac-borbachstr-01",
       "online": true,
-      "score": 4500.619999999926
+      "score": 4504.319999999929
     },
     {
-      "clients": 0,
+      "clients": 1,
       "id": "a42bb0d869f8",
       "name": "MzEb-RheinhessenBraeu-Up",
       "online": true,
-      "score": 4495.32999999998
+      "score": 4503.069999999983
     },
     {
       "clients": 1,
       "id": "68725142b3dd",
       "name": "ffbin-horrweiler-feuerwehr",
       "online": true,
-      "score": 4407.949999999957
+      "score": 4415.67999999996
     },
     {
-      "clients": 0,
-      "id": "c4e984fcf622",
-      "name": "ttr-Win-Test-2",
-      "online": false,
-      "score": 4407.280000000789
-    },
-    {
-      "clients": 1,
+      "clients": 2,
       "id": "60e32776bf7a",
       "name": "nachbarschaftshilfe2",
       "online": true,
-      "score": 4406.700000000092
+      "score": 4414.490000000096
     },
     {
       "clients": 0,
       "id": "30b5c2813004",
       "name": "BobsBurgers",
       "online": true,
-      "score": 4403.510000000006
+      "score": 4411.220000000008
     },
     {
-      "clients": 2,
+      "clients": 5,
       "id": "30b5c2ed3872",
       "name": "forseti",
       "online": true,
-      "score": 4399.98000000002
+      "score": 4407.9000000000215
     },
     {
-      "clients": 2,
+      "clients": 0,
+      "id": "c4e984fcf622",
+      "name": "ttr-Win-Test-2",
+      "online": false,
+      "score": 4400.980000000792
+    },
+    {
+      "clients": 0,
       "id": "60e327e6fdfc",
       "name": "MzEb-WeingutBecker-Up",
       "online": true,
-      "score": 4362.079999999968
+      "score": 4369.809999999971
     },
     {
       "clients": 0,
       "id": "60e327be76d4",
       "name": "Portugieser",
       "online": true,
-      "score": 4358.989999999943
+      "score": 4366.689999999946
+    },
+    {
+      "clients": 2,
+      "id": "60e327368ce4",
+      "name": "nachbarschaftshilfe1",
+      "online": true,
+      "score": 4364.060000000021
     },
     {
       "clients": 0,
       "id": "60e327942b56",
       "name": "Partenheim-HW-01",
       "online": true,
-      "score": 4356.22999999991
+      "score": 4363.929999999913
     },
     {
       "clients": 0,
-      "id": "60e327368ce4",
-      "name": "nachbarschaftshilfe1",
-      "online": true,
-      "score": 4356.2200000000175
-    },
-    {
-      "clients": 1,
       "id": "60e327be94fc",
       "name": "Chardonnay",
       "online": true,
-      "score": 4356.110000000005
+      "score": 4363.820000000008
     },
     {
-      "clients": 1,
+      "clients": 0,
       "id": "60e327c79b56",
       "name": "ffbin-JanLin",
       "online": true,
-      "score": 4349.740000000047
+      "score": 4357.490000000051
     },
     {
-      "clients": 8,
+      "clients": 13,
       "id": "60e327fb41fb",
       "name": "Backmuhlstr",
       "online": true,
-      "score": 4346.810000000017
+      "score": 4354.410000000018
     },
     {
-      "clients": 2,
+      "clients": 1,
       "id": "f4f26d4055f0",
       "name": "Galli_frei",
       "online": true,
-      "score": 4319.830000000045
+      "score": 4327.590000000049
     },
     {
       "clients": 0,
       "id": "f4f26d3ff942",
       "name": "MzEb-DarmstaedterHof2",
       "online": true,
-      "score": 4310.549999999934
+      "score": 4318.259999999937
     },
     {
-      "clients": 0,
-      "id": "f4f26d3fabfc",
-      "name": "kurdi",
-      "online": false,
-      "score": 4296.23000000001
-    },
-    {
-      "clients": 0,
+      "clients": 1,
       "id": "60e3279acf6a",
       "name": "Restaurant-benzoliver",
       "online": true,
-      "score": 4294.389999999908
+      "score": 4302.119999999911
     },
     {
       "clients": 0,
       "id": "525400d23058",
       "name": "ttr-Win-offloader-2",
       "online": true,
-      "score": 4294.099999999823
+      "score": 4301.799999999826
     },
     {
-      "clients": 3,
+      "clients": 0,
+      "id": "f4f26d3fabfc",
+      "name": "kurdi",
+      "online": false,
+      "score": 4289.930000000012
+    },
+    {
+      "clients": 4,
       "id": "a0f3c1462e20",
       "name": "PeterJordan-Master",
       "online": true,
-      "score": 4280.889999999626
+      "score": 4288.839999999628
     },
     {
-      "clients": 1,
+      "clients": 3,
       "id": "e894f668c986",
       "name": "Nampfdudel",
       "online": true,
-      "score": 4260.509999999971
+      "score": 4268.339999999975
     },
     {
-      "clients": 1,
+      "clients": 3,
       "id": "6466b32abb1e",
       "name": "loerzweiler-rheinstr-24-1",
       "online": true,
-      "score": 4238.979999999979
+      "score": 4246.759999999982
     },
     {
       "clients": 0,
       "id": "60e327e766e8",
       "name": "AirBorg01",
       "online": true,
-      "score": 4232.149999999865
+      "score": 4239.859999999868
     },
     {
-      "clients": 1,
+      "clients": 0,
       "id": "60e327b7bedc",
       "name": "Freifunk-ErbacherStr",
       "online": true,
-      "score": 4230.740000000038
+      "score": 4238.4400000000405
     },
     {
       "clients": 1,
       "id": "a0f3c1820598",
       "name": "klein-winternheim-sternwarte",
       "online": true,
-      "score": 4203.44000000008
+      "score": 4211.210000000084
     },
     {
       "clients": 0,
       "id": "c46e1fd665f4",
       "name": "Weingut-Welker-Emmerich-2",
       "online": true,
-      "score": 4193.909999999847
+      "score": 4201.63999999985
     },
     {
       "clients": 0,
       "id": "30b5c2ee7d0a",
       "name": "ffbin4-Germaniablick.de",
       "online": true,
-      "score": 4187.419999999793
+      "score": 4195.119999999795
     },
     {
       "clients": 0,
       "id": "f4f26dd516de",
       "name": "MzEb-DarmstaedterHof-Up",
       "online": true,
-      "score": 4175.139999999886
+      "score": 4182.859999999889
     },
     {
-      "clients": 0,
+      "clients": 2,
       "id": "f4f26d5f0848",
       "name": "ffbac-oberstr-01",
       "online": true,
-      "score": 4155.02999999986
-    },
-    {
-      "clients": 0,
-      "id": "647002a60aaa",
-      "name": "mz-Hindenburgstrasse45",
-      "online": false,
-      "score": 4148.149999999797
+      "score": 4162.799999999863
     },
     {
       "clients": 0,
       "id": "60e327be883c",
       "name": "WeilandSecurity2",
       "online": true,
-      "score": 4135.259999999845
-    },
-    {
-      "clients": 2,
-      "id": "60e327e76ed0",
-      "name": "FFAN-Nackenheim-3-0",
-      "online": true,
-      "score": 4134.049999999939
+      "score": 4142.959999999847
     },
     {
       "clients": 0,
+      "id": "647002a60aaa",
+      "name": "mz-Hindenburgstrasse45",
+      "online": false,
+      "score": 4141.849999999799
+    },
+    {
+      "clients": 0,
+      "id": "60e327e76ed0",
+      "name": "FFAN-Nackenheim-3-0",
+      "online": true,
+      "score": 4141.819999999942
+    },
+    {
+      "clients": 1,
       "id": "30b5c222d0c2",
       "name": "Physiotherapie-Imhof",
       "online": true,
-      "score": 4101.289999999837
+      "score": 4109.059999999841
     },
     {
       "clients": 0,
       "id": "54e6fcccdee6",
       "name": "FreifunkFoodsharingDenis",
       "online": true,
-      "score": 4083.5799999998603
+      "score": 4091.3399999998605
     },
     {
-      "clients": 0,
+      "clients": 7,
       "id": "60e327e73956",
       "name": "MzEb-DaRocco-Up",
       "online": true,
-      "score": 4079.4799999998704
+      "score": 4087.4299999998702
     },
     {
-      "clients": 0,
+      "clients": 1,
       "id": "60e327b7be34",
       "name": "ffbin-martinsstr-kruemelchen7",
       "online": true,
-      "score": 4076.689999999898
+      "score": 4084.439999999898
     },
     {
       "clients": 0,
       "id": "30b5c2ed1ef8",
       "name": "PetKlHarg1-Kirchstr",
       "online": true,
-      "score": 4072.8899999998325
+      "score": 4080.6299999998328
     },
     {
       "clients": 1,
       "id": "30b5c2229f3e",
       "name": "ffbin-sponsheim-kahp01",
       "online": true,
-      "score": 4032.079999999892
-    },
-    {
-      "clients": 0,
-      "id": "f4f26d3ff2d6",
-      "name": "Freifunk_Gartenstrasse",
-      "online": false,
-      "score": 3997.329999999887
+      "score": 4039.859999999893
     },
     {
       "clients": 0,
       "id": "14cc20b0e920",
       "name": "ffbin-elise",
       "online": false,
-      "score": 3995.459999999764
+      "score": 3995.1699999997636
     },
     {
-      "clients": 1,
+      "clients": 0,
+      "id": "f4f26d3ff2d6",
+      "name": "Freifunk_Gartenstrasse",
+      "online": false,
+      "score": 3990.329999999887
+    },
+    {
+      "clients": 2,
       "id": "60e32776abc0",
       "name": "Borngasse_Freifunk",
       "online": true,
-      "score": 3960.0199999999404
+      "score": 3967.809999999941
     },
     {
       "clients": 1,
       "id": "e894f62a8e6e",
       "name": "WilliWolf12WZ841",
       "online": true,
-      "score": 3943.369999999824
+      "score": 3949.099999999824
     },
     {
-      "clients": 3,
+      "clients": 1,
       "id": "60e327e73b32",
       "name": "MzEb-Toengeshof-Up",
       "online": true,
-      "score": 3939.099999999971
+      "score": 3946.8999999999714
     },
     {
       "clients": 0,
       "id": "60e327edd6ce",
       "name": "Karl",
       "online": true,
-      "score": 3937.409999999799
+      "score": 3945.109999999798
     },
     {
       "clients": 0,
       "id": "e8de277fd53e",
       "name": "ffmz-Bad_Kreuznach01",
       "online": true,
-      "score": 3934.5499999998397
+      "score": 3942.249999999839
     },
     {
-      "clients": 1,
+      "clients": 2,
       "id": "60e327b7bdae",
       "name": "ffbin-ingelheim-mittelheimerstr13",
       "online": true,
-      "score": 3921.069999999778
+      "score": 3928.819999999778
     },
     {
-      "clients": 1,
+      "clients": 0,
       "id": "647002f8951a",
       "name": "WilliWolf12Draussen",
       "online": true,
-      "score": 3911.0499999997974
+      "score": 3918.7799999997974
     },
     {
       "clients": 1,
       "id": "525400d49403",
       "name": "MioMate",
       "online": true,
-      "score": 3903.7600000001753
+      "score": 3910.800000000176
     },
     {
-      "clients": 2,
+      "clients": 1,
       "id": "60e327ee1c68",
       "name": "Cave_Canem",
       "online": true,
-      "score": 3902.1499999998823
+      "score": 3909.9199999998827
     },
     {
-      "clients": 15,
+      "clients": 0,
       "id": "10feede666e8",
       "name": "WH-Rotling",
-      "online": true,
-      "score": 3877.7799999996964
+      "online": false,
+      "score": 3877.829999999696
     },
     {
       "clients": 0,
       "id": "647002df496c",
       "name": "WilliWolf12Dsl-1043",
       "online": false,
-      "score": 3867.7399999999147
+      "score": 3861.439999999914
     },
     {
       "clients": 1,
       "id": "10feedeb7874",
       "name": "Hausarztpraxis-Gimbsheim",
       "online": true,
-      "score": 3792.8500000000076
+      "score": 3800.890000000007
     },
     {
       "clients": 0,
       "id": "e894f6e37832",
       "name": "mz-BurgLayen-Riesling",
       "online": true,
-      "score": 3776.329999999776
+      "score": 3784.0299999997756
     },
     {
       "clients": 0,
       "id": "60e32732c186",
       "name": "Freifunk_Wolf_VR1",
       "online": true,
-      "score": 3766.509999999855
+      "score": 3774.2099999998545
     },
     {
-      "clients": 2,
+      "clients": 1,
       "id": "a42bb0d86c3a",
       "name": "MzEb-Ehrenmal-Up941",
       "online": true,
-      "score": 3732.3999999998705
+      "score": 3740.1299999998705
     },
     {
       "clients": 1,
       "id": "68725142c5c3",
       "name": "MZ-Heikr40-DachOmni",
       "online": true,
-      "score": 3712.1099999999174
+      "score": 3719.9499999999175
     },
     {
       "clients": 0,
       "id": "30b5c2b04d46",
       "name": "RWE_Ockenheim",
       "online": true,
-      "score": 3703.8399999998533
+      "score": 3711.5399999998526
     },
     {
-      "clients": 1,
+      "clients": 2,
       "id": "60e3272a6228",
       "name": "ZDGH01",
       "online": true,
-      "score": 3703.0299999998165
+      "score": 3710.759999999816
     },
     {
       "clients": 0,
       "id": "30b5c2c8961c",
       "name": "ffbin-schultheiskolleistr",
       "online": true,
-      "score": 3685.2999999998374
+      "score": 3692.9999999998367
     },
     {
-      "clients": 1,
+      "clients": 4,
       "id": "30b5c2e01b68",
       "name": "walhalla",
       "online": true,
-      "score": 3682.269999999853
-    },
-    {
-      "clients": 0,
-      "id": "60e3272a5488",
-      "name": "VierzehnterGS",
-      "online": false,
-      "score": 3678.5799999997853
-    },
-    {
-      "clients": 0,
-      "id": "60e3272a61f4",
-      "name": "GRDGH01",
-      "online": false,
-      "score": 3678.16999999982
+      "score": 3690.0699999998533
     },
     {
       "clients": 0,
       "id": "0019995b9598",
       "name": "oimel-offloader",
       "online": true,
-      "score": 3674.0999999997916
+      "score": 3681.799999999791
     },
     {
-      "clients": 0,
+      "clients": 2,
       "id": "30b5c281409c",
       "name": "Wingertsknorze-2",
       "online": true,
-      "score": 3671.3199999998833
+      "score": 3679.059999999883
+    },
+    {
+      "clients": 0,
+      "id": "60e3272a5488",
+      "name": "VierzehnterGS",
+      "online": false,
+      "score": 3672.2799999997846
+    },
+    {
+      "clients": 0,
+      "id": "60e3272a61f4",
+      "name": "GRDGH01",
+      "online": false,
+      "score": 3671.8699999998194
     },
     {
       "clients": 0,
       "id": "e894f63f4b2e",
       "name": "FF-Aarbg-Mb-1",
       "online": true,
-      "score": 3638.3999999999087
+      "score": 3646.099999999908
     },
     {
       "clients": 0,
       "id": "60e327edda58",
       "name": "ffbac-bluecherstr-01",
       "online": true,
-      "score": 3600.9099999998193
+      "score": 3608.629999999819
+    },
+    {
+      "clients": 0,
+      "id": "6466b3879dd4",
+      "name": "mz-roemerw",
+      "online": true,
+      "score": 3598.4899999997583
     },
     {
       "clients": 0,
       "id": "60e3272a635c",
       "name": "DreizehnterGS",
       "online": false,
-      "score": 3599.1299999998087
-    },
-    {
-      "clients": 2,
-      "id": "6466b3879dd4",
-      "name": "mz-roemerw",
-      "online": true,
-      "score": 3590.7699999997585
+      "score": 3592.829999999808
     },
     {
       "clients": 0,
       "id": "30b5c23e91ea",
       "name": "Gimbsheim-DP-00",
       "online": true,
-      "score": 3525.96
+      "score": 3532.96
     },
     {
-      "clients": 2,
+      "clients": 4,
       "id": "60e3274a81a7",
       "name": "60e3274a81a7",
       "online": true,
-      "score": 3524.459999999658
+      "score": 3530.409999999658
     },
     {
-      "clients": 0,
+      "clients": 1,
       "id": "10feed89f1c0",
       "name": "mz-Breidenbacherstr",
       "online": true,
-      "score": 3497.6999999998766
+      "score": 3505.4199999998764
     },
     {
-      "clients": 6,
+      "clients": 8,
       "id": "60e327e7947c",
       "name": "FFAN-Nackenheim-3-1",
       "online": true,
-      "score": 3484.3699999998385
+      "score": 3492.439999999838
     },
     {
       "clients": 0,
       "id": "30b5c20ec362",
       "name": "Gruendelbach01-Uplink",
       "online": true,
-      "score": 3473.239999999945
+      "score": 3480.9399999999446
     },
     {
       "clients": 0,
       "id": "30b5c28165b0",
       "name": "navanet.hotspot",
       "online": true,
-      "score": 3450.699999999871
+      "score": 3458.4099999998707
     },
     {
-      "clients": 1,
+      "clients": 0,
       "id": "10feedcdc67e",
       "name": "Baerenbach-10feedcdc67e",
       "online": true,
-      "score": 3449.009999999641
+      "score": 3456.739999999641
     },
     {
       "clients": 1,
       "id": "6872514c4b8a",
       "name": "Weinhaus Philipps-Muehle",
       "online": true,
-      "score": 3414.799999999895
+      "score": 3422.629999999895
     },
     {
-      "clients": 3,
+      "clients": 1,
       "id": "f4f26d3ff976",
       "name": "MzEb-DarmstaedterHof1",
       "online": true,
-      "score": 3403.119999999865
+      "score": 3410.879999999865
     },
     {
-      "clients": 0,
+      "clients": 2,
       "id": "f4f26dff473a",
       "name": "Leibniz-Freifunk",
       "online": true,
-      "score": 3389.709999999926
-    },
-    {
-      "clients": 0,
-      "id": "60e3272a61ac",
-      "name": "achter",
-      "online": false,
-      "score": 3381.1299999997127
+      "score": 3397.499999999926
     },
     {
       "clients": 0,
       "id": "60e327e738f2",
       "name": "Gruendelbach03",
       "online": true,
-      "score": 3377.869999999842
+      "score": 3385.5799999998417
+    },
+    {
+      "clients": 0,
+      "id": "60e3272a61ac",
+      "name": "achter",
+      "online": false,
+      "score": 3374.829999999712
     },
     {
       "clients": 0,
       "id": "30b5c2c2e342",
       "name": "30b5c2c2e342",
       "online": true,
-      "score": 3364.4199999998095
+      "score": 3372.119999999809
+    },
+    {
+      "clients": 0,
+      "id": "60e327e784f4",
+      "name": "Laubenheim-Spritzenhaus",
+      "online": true,
+      "score": 3346.9499999998807
     },
     {
       "clients": 0,
       "id": "f4f26d8ec702",
       "name": "ffhx_Freifunk_AlterGutshof2",
       "online": false,
-      "score": 3346.549999999818
-    },
-    {
-      "clients": 2,
-      "id": "60e327e784f4",
-      "name": "Laubenheim-Spritzenhaus",
-      "online": true,
-      "score": 3339.209999999881
+      "score": 3340.249999999817
     },
     {
       "clients": 0,
       "id": "f4f26d5f0698",
       "name": "ffb_PetKlHarg01",
       "online": true,
-      "score": 3281.4899999998897
+      "score": 3289.189999999889
     },
     {
       "clients": 0,
       "id": "60e327ee5f54",
       "name": "Har0ld",
       "online": true,
-      "score": 3275.799999999889
+      "score": 3283.509999999889
     },
     {
-      "clients": 12,
+      "clients": 16,
       "id": "60e327d6159c",
       "name": "juv_goho_6410a",
       "online": true,
-      "score": 3263.439999999846
+      "score": 3272.069999999845
     },
     {
       "clients": 0,
       "id": "30b5c2b0c9d0",
       "name": "Horbruch_Sportplatz1",
       "online": true,
-      "score": 3258.9999999999077
+      "score": 3266.699999999907
     },
     {
       "clients": 0,
       "id": "6872514482ce",
       "name": "Horbruch_Sportplatz2",
       "online": true,
-      "score": 3246.199999999877
+      "score": 3253.8999999998764
     },
     {
       "clients": 0,
       "id": "f4f26d85a1ce",
       "name": "SPRH01",
       "online": true,
-      "score": 3175.139999999887
+      "score": 3182.9199999998873
     },
     {
       "clients": 0,
       "id": "10feed4fe39a",
       "name": "Wingertsknorze-0",
       "online": false,
-      "score": 3154.9199999997736
+      "score": 3148.619999999773
     },
     {
       "clients": 0,
       "id": "60e3279f573a",
       "name": "60e3279f573a",
       "online": true,
-      "score": 3139.0200000000004
+      "score": 3146.0200000000004
     },
     {
       "clients": 0,
       "id": "60e327ee545c",
       "name": "RWE006-Lutzerath-Roemerstrasse-14",
       "online": true,
-      "score": 3133.5799999998753
-    },
-    {
-      "clients": 0,
-      "id": "6872514c4c76",
-      "name": "Gruendelbach01-Pico",
-      "online": false,
-      "score": 3122.199999999852
+      "score": 3141.2799999998747
     },
     {
       "clients": 0,
       "id": "a0f3c1bd4e46",
       "name": "Kemptentwoandahalf",
       "online": true,
-      "score": 3119.619999999865
+      "score": 3127.319999999864
     },
     {
-      "clients": 8,
+      "clients": 6,
       "id": "60e327ee50a4",
       "name": "MZ-kaiserbopp",
       "online": true,
-      "score": 3110.679999999859
+      "score": 3119.0499999998583
     },
     {
       "clients": 1,
       "id": "68725148bac9",
       "name": "68725148bac9",
       "online": true,
-      "score": 3109.4600000000924
+      "score": 3116.510000000093
+    },
+    {
+      "clients": 0,
+      "id": "6872514c4c76",
+      "name": "Gruendelbach01-Pico",
+      "online": false,
+      "score": 3115.8999999998514
     },
     {
       "clients": 0,
       "id": "60e327cf3cdc",
       "name": "ff-donald-duck",
       "online": true,
-      "score": 3107.2099999997063
+      "score": 3112.9099999997056
     },
     {
-      "clients": 1,
+      "clients": 0,
       "id": "60e327ed86e6",
       "name": "MzEb-DaRocco-3",
-      "online": true,
-      "score": 3090.6399999998625
+      "online": false,
+      "score": 3092.3799999998623
     },
     {
       "clients": 0,
       "id": "ec086b615b20",
       "name": "Versoehnungskirche2",
       "online": true,
-      "score": 3056.459999999864
+      "score": 3064.2399999998643
     },
     {
-      "clients": 0,
+      "clients": 1,
       "id": "60e327edcb46",
       "name": "ttr-Win-Goldgrube-13",
       "online": true,
-      "score": 3042.7399999998197
+      "score": 3050.49999999982
     },
     {
       "clients": 1,
       "id": "000db9414714",
       "name": "Eltville-Freibad",
       "online": true,
-      "score": 3019.489999999867
+      "score": 3027.259999999868
     },
     {
       "clients": 0,
       "id": "60e327be7aa6",
       "name": "Versoehnungskirche1",
       "online": true,
-      "score": 2990.209999999864
+      "score": 2997.939999999864
     },
     {
       "clients": 0,
       "id": "f4f26d3e9244",
       "name": "ffbac-niederheimbach-02",
       "online": true,
-      "score": 2979.5799999998653
+      "score": 2987.2999999998647
     },
     {
       "clients": 4,
       "id": "02430500a0a9",
       "name": "Waldhausen-Master",
       "online": true,
-      "score": 2956.679999999833
-    },
-    {
-      "clients": 0,
-      "id": "a42bb0b0f982",
-      "name": "RWE0209-Lutzerath-Triererstr-36",
-      "online": true,
-      "score": 2946.9799999998704
-    },
-    {
-      "clients": 0,
-      "id": "b0487af67a60",
-      "name": "Harxheim-Ost",
-      "online": true,
-      "score": 2934.939999999849
-    },
-    {
-      "clients": 1,
-      "id": "6872513e9ded",
-      "name": "Mz-Wei-A.-Diehl-Str.-Loco",
-      "online": true,
-      "score": 2908.779999999905
+      "score": 2964.659999999832
     },
     {
       "clients": 2,
+      "id": "a42bb0b0f982",
+      "name": "RWE0209-Lutzerath-Triererstr-36",
+      "online": true,
+      "score": 2954.71999999987
+    },
+    {
+      "clients": 1,
+      "id": "b0487af67a60",
+      "name": "Harxheim-Ost",
+      "online": true,
+      "score": 2942.669999999849
+    },
+    {
+      "clients": 3,
+      "id": "6872513e9ded",
+      "name": "Mz-Wei-A.-Diehl-Str.-Loco",
+      "online": true,
+      "score": 2916.5899999999056
+    },
+    {
+      "clients": 1,
       "id": "c4e984f0a2e6",
       "name": "ff-niederheimbach-01",
       "online": true,
-      "score": 2858.749999999887
+      "score": 2866.5499999998874
     },
     {
       "clients": 0,
       "id": "6466b3e83e2d",
       "name": "FFMZ-BTHNRSTR-01",
       "online": true,
-      "score": 2858.5699999998715
+      "score": 2866.269999999871
     },
     {
       "clients": 0,
       "id": "60e327e73714",
       "name": "Melone",
       "online": true,
-      "score": 2825.5699999999015
+      "score": 2833.279999999901
     },
     {
-      "clients": 0,
+      "clients": 2,
       "id": "30b5c281606c",
       "name": "KV-HG-Freifunk",
       "online": true,
-      "score": 2822.8399999998783
+      "score": 2830.729999999878
     },
     {
-      "clients": 1,
+      "clients": 2,
       "id": "e8de27d617ae",
       "name": "Busch-Freifunk",
       "online": true,
-      "score": 2802.7099999999077
+      "score": 2810.5099999999074
     },
     {
-      "clients": 0,
+      "clients": 1,
       "id": "60e327edfae6",
       "name": "PH-UG",
       "online": true,
-      "score": 2789.779999999911
+      "score": 2797.499999999911
     },
     {
-      "clients": 4,
+      "clients": 11,
       "id": "6872514c6d50",
       "name": "schlossbiergarten2",
       "online": true,
-      "score": 2752.319999999814
+      "score": 2760.709999999814
     },
     {
       "clients": 0,
       "id": "30b5c280f1b6",
       "name": "Bergelfen-Freifunk",
       "online": true,
-      "score": 2749.7099999998713
+      "score": 2757.4099999998707
     },
     {
       "clients": 0,
       "id": "10feede6e1a8",
       "name": "KFZ-Kranz",
       "online": false,
-      "score": 2698.849999999881
+      "score": 2692.5499999998806
     },
     {
       "clients": 0,
       "id": "60e327ed87ac",
       "name": "MzEb-DrakeSportz-Up",
       "online": true,
-      "score": 2681.899999999901
+      "score": 2689.6099999999005
     },
     {
-      "clients": 6,
+      "clients": 1,
       "id": "60e327edd480",
       "name": "MzEb-DaRocco-2",
       "online": true,
-      "score": 2665.569999999821
+      "score": 2673.299999999821
     },
     {
-      "clients": 2,
+      "clients": 0,
       "id": "14cc206ef5fe",
       "name": "FreifunkSIM",
       "online": true,
-      "score": 2655.329999999877
+      "score": 2663.0999999998767
     },
     {
       "clients": 0,
       "id": "6470024ed68c",
       "name": "ffbin-saarlandstr104-01",
       "online": false,
-      "score": 2645.569999999909
+      "score": 2639.2699999999086
     },
     {
-      "clients": 1,
+      "clients": 9,
       "id": "6872514c6c75",
       "name": "schlossbiergarten1",
       "online": true,
-      "score": 2628.2299999998045
+      "score": 2636.559999999804
     },
     {
       "clients": 7,
       "id": "c0a0bbf0eaf0",
       "name": "PH-OG2",
       "online": true,
-      "score": 2611.139999999761
+      "score": 2619.289999999761
     },
     {
       "clients": 0,
       "id": "f4f26dff3096",
       "name": "Freifunk-Weingut-Stefan-Bauer",
       "online": true,
-      "score": 2571.2899999999004
+      "score": 2579.0199999999
     },
     {
-      "clients": 1,
+      "clients": 5,
       "id": "6872512e1677",
       "name": "ffbin-horrweiler-weingut-huff-doll",
       "online": true,
-      "score": 2529.039999999916
+      "score": 2536.9199999999164
     },
     {
       "clients": 0,
       "id": "30b5c20e96e0",
       "name": "Weingut-Welker-Emmerich-1",
       "online": true,
-      "score": 2497.7899999998413
+      "score": 2505.509999999841
     },
     {
-      "clients": 2,
+      "clients": 5,
       "id": "60e32793c4dc",
       "name": "ttr-Win-Waldstrasse-12A",
       "online": true,
-      "score": 2485.469999999759
+      "score": 2493.289999999759
     },
     {
       "clients": 2,
       "id": "18a6f73de6d6",
       "name": "FF-Aarbgn-Freibad3",
       "online": true,
-      "score": 2457.3999999998914
+      "score": 2465.2599999998906
     },
     {
       "clients": 0,
       "id": "60e327edc982",
       "name": "ttr-Win-Schulstr.1",
       "online": true,
-      "score": 2423.609999999903
+      "score": 2431.309999999902
     },
     {
       "clients": 0,
       "id": "30b5c2c29b18",
       "name": "ffbin-trollbach",
       "online": true,
-      "score": 2421.4699999998793
+      "score": 2429.1699999998787
     },
     {
-      "clients": 2,
+      "clients": 3,
       "id": "60e327ed87be",
       "name": "MzEb-PizzeriaMonaLisa-1",
       "online": true,
-      "score": 2416.389999999853
+      "score": 2424.259999999853
     },
     {
       "clients": 0,
       "id": "30b5c2bd011c",
       "name": "FF-Aarbgn-Freibad1",
       "online": true,
-      "score": 2409.6599999998934
+      "score": 2417.359999999893
     },
     {
-      "clients": 0,
+      "clients": 1,
       "id": "ec086b57f56e",
       "name": "FlyingBrick",
       "online": true,
-      "score": 2400.2099999999086
+      "score": 2407.9799999999095
     },
     {
       "clients": 1,
       "id": "ec086b3fcaca",
       "name": "MZ-Heikr40-Dach",
       "online": true,
-      "score": 2393.2399999999298
+      "score": 2400.9599999999296
     },
     {
       "clients": 0,
       "id": "a0f3c173b74a",
       "name": "AuxMum5-Schul-9-upload",
       "online": true,
-      "score": 2380.759999999901
+      "score": 2388.4599999999004
     },
     {
       "clients": 0,
       "id": "0002b322a2eb",
       "name": "FF-Aarbg-Freibad",
       "online": true,
-      "score": 2367.5999999998985
+      "score": 2375.299999999898
     },
     {
-      "clients": 0,
+      "clients": 4,
       "id": "ec086b4fcc4e",
       "name": "bildschoen13",
       "online": true,
-      "score": 2346.7899999999045
+      "score": 2354.669999999905
     },
     {
       "clients": 0,
       "id": "e894f6624e04",
       "name": "Freifunk_Mainz_by_Wolf",
       "online": false,
-      "score": 2345.0299999997987
-    },
-    {
-      "clients": 0,
-      "id": "02000a2500a1",
-      "name": "ingwer",
-      "online": false,
-      "score": 2306.3200000000415
+      "score": 2338.729999999798
     },
     {
       "clients": 0,
       "id": "b0487aca34e0",
       "name": "wallhausen-1",
       "online": true,
-      "score": 2299.9099999999107
+      "score": 2307.60999999991
     },
     {
-      "clients": 2,
+      "clients": 1,
+      "id": "02000a2500a1",
+      "name": "ingwer",
+      "online": true,
+      "score": 2305.350000000042
+    },
+    {
+      "clients": 1,
       "id": "10feede5eca8",
       "name": "Paarweck",
       "online": true,
-      "score": 2294.239999999908
+      "score": 2301.999999999908
     },
     {
       "clients": 0,
       "id": "e894f64b5fd6",
       "name": "AuxMum3",
       "online": true,
-      "score": 2265.769999999909
+      "score": 2273.4699999999084
+    },
+    {
+      "clients": 1,
+      "id": "c46e1f2d8398",
+      "name": "BaLueAdm",
+      "online": true,
+      "score": 2256.299999999872
     },
     {
       "clients": 0,
       "id": "60e327c72af8",
       "name": "Sportheim-FK-Ludwigshoehe",
       "online": false,
-      "score": 2261.409999999528
-    },
-    {
-      "clients": 2,
-      "id": "c46e1f2d8398",
-      "name": "BaLueAdm",
-      "online": true,
-      "score": 2248.539999999872
-    },
-    {
-      "clients": 0,
-      "id": "f4f26d6d4078",
-      "name": "PlankeNord",
-      "online": false,
-      "score": 2244.3799999998873
+      "score": 2255.109999999527
     },
     {
       "clients": 0,
       "id": "f4f26dff3280",
       "name": "BFH1",
       "online": true,
-      "score": 2238.239999999913
+      "score": 2245.9399999999123
     },
     {
       "clients": 0,
       "id": "c4e984ef1efe",
       "name": "AuxMum1",
       "online": true,
-      "score": 2231.6499999998905
+      "score": 2239.34999999989
+    },
+    {
+      "clients": 0,
+      "id": "f4f26d6d4078",
+      "name": "PlankeNord",
+      "online": false,
+      "score": 2238.0799999998867
     },
     {
       "clients": 0,
       "id": "60e327cf08f8",
       "name": "ffbin_Roter_Klotz_Kempten",
       "online": true,
-      "score": 2218.469999999913
+      "score": 2226.1699999999123
     },
     {
       "clients": 0,
       "id": "60e327e6fd90",
       "name": "Gruendelbach02",
       "online": false,
-      "score": 2215.77999999988
-    },
-    {
-      "clients": 0,
-      "id": "60e327be6966",
-      "name": "Dornfelder",
-      "online": false,
-      "score": 2207.1199999997593
+      "score": 2209.4799999998795
     },
     {
       "clients": 1,
       "id": "a0f3c174969c",
       "name": "Schoppenstecher-Freifunk",
       "online": true,
-      "score": 2193.099999999909
+      "score": 2200.8899999999094
     },
     {
-      "clients": 1,
-      "id": "c46e1f86d808",
-      "name": "AuxMum4-Schul-9",
-      "online": true,
-      "score": 2177.2699999999013
+      "clients": 0,
+      "id": "60e327be6966",
+      "name": "Dornfelder",
+      "online": false,
+      "score": 2200.8199999997587
     },
     {
       "clients": 3,
+      "id": "c46e1f86d808",
+      "name": "AuxMum4-Schul-9",
+      "online": true,
+      "score": 2185.189999999902
+    },
+    {
+      "clients": 10,
       "id": "f4f26d85a59e",
       "name": "Kloster-Jakobsberg",
       "online": true,
-      "score": 2165.1399999999107
+      "score": 2173.2499999999104
     },
     {
       "clients": 1,
       "id": "60e327ed9ba6",
       "name": "MzEb-Relaystation",
       "online": true,
-      "score": 2124.3299999998885
+      "score": 2132.0799999998885
     },
     {
-      "clients": 0,
+      "clients": 1,
       "id": "6872510a2e2b",
       "name": "PeterJordan-Turnhalle-nslm2-EG",
       "online": true,
-      "score": 2114.9899999994655
+      "score": 2122.8499999994656
     },
     {
       "clients": 0,
       "id": "90f652ffac17",
       "name": "90f652ffac17",
       "online": true,
-      "score": 2099.089999999999
+      "score": 2106.1199999999994
     },
     {
       "clients": 1,
       "id": "c4e984bc7068",
       "name": "mz-go-jdf",
       "online": true,
-      "score": 2081.3399999999065
+      "score": 2089.0599999999063
     },
     {
-      "clients": 1,
+      "clients": 2,
       "id": "e894f6682880",
       "name": "Friseursalon-Ibrahim",
       "online": true,
-      "score": 2056.349999999912
+      "score": 2064.2799999999115
     },
     {
       "clients": 0,
       "id": "f4f26de84f14",
       "name": "f4f26de84f14",
       "online": true,
-      "score": 2029.7999999999265
+      "score": 2037.4999999999259
     },
     {
       "clients": 0,
       "id": "ec086bb52bc2",
       "name": "ffhx_Harxheim-Mitte2",
       "online": true,
-      "score": 2008.999999999931
+      "score": 2016.6999999999305
     },
     {
       "clients": 0,
       "id": "408d5c60e5fc",
       "name": "Freifunk-Rheingau-Event",
       "online": true,
-      "score": 2007.05
+      "score": 2014.05
     },
     {
-      "clients": 4,
+      "clients": 5,
       "id": "c0a0bbf0ed3a",
       "name": "PH-EG",
       "online": true,
-      "score": 1991.1799999998977
-    },
-    {
-      "clients": 0,
-      "id": "54e6fcaf227e",
-      "name": "hechtsheim2309",
-      "online": true,
-      "score": 1983.709999999932
+      "score": 1999.2299999998968
     },
     {
       "clients": 2,
+      "id": "54e6fcaf227e",
+      "name": "hechtsheim2309",
+      "online": true,
+      "score": 1991.4299999999314
+    },
+    {
+      "clients": 0,
       "id": "f4f26de84bde",
       "name": "FF_WeilandSecurity4",
       "online": true,
-      "score": 1978.5299999999334
+      "score": 1986.2299999999327
     },
     {
       "clients": 0,
       "id": "60e327942d7c",
       "name": "Dornfelder2",
       "online": true,
-      "score": 1974.2899999999297
+      "score": 1981.989999999929
     },
     {
       "clients": 0,
       "id": "ec086bf14a7e",
       "name": "Chattenring_53",
       "online": true,
-      "score": 1965.8599999999126
-    },
-    {
-      "clients": 0,
-      "id": "60e327be9540",
-      "name": "Kerner",
-      "online": false,
-      "score": 1911.7399999998738
+      "score": 1973.559999999912
     },
     {
       "clients": 0,
       "id": "60e327beb37e",
       "name": "Bacchus",
       "online": true,
-      "score": 1909.4899999998431
+      "score": 1917.1899999998425
     },
     {
-      "clients": 0,
+      "clients": 1,
       "id": "14cc20ba684e",
       "name": "schlossbiergarten_offloader_ersatz",
       "online": true,
-      "score": 1902.2699999999325
+      "score": 1910.0799999999317
+    },
+    {
+      "clients": 0,
+      "id": "60e327be9540",
+      "name": "Kerner",
+      "online": false,
+      "score": 1905.4399999998732
     },
     {
       "clients": 0,
       "id": "f4f26dd5b356",
       "name": "WeilandSecurity6",
       "online": true,
-      "score": 1867.4899999999436
+      "score": 1875.189999999943
     },
     {
       "clients": 0,
       "id": "f4f26d3e9f44",
       "name": "FEWOANTJE",
       "online": true,
-      "score": 1847.5199999999395
+      "score": 1855.2199999999389
     },
     {
       "clients": 0,
       "id": "f4f26df2c378",
       "name": "WeilandSecurity7",
       "online": true,
-      "score": 1840.909999999943
+      "score": 1848.6099999999424
     },
     {
       "clients": 0,
       "id": "e894f678c6b6",
       "name": "CDU_Hennweiler_Test",
       "online": true,
-      "score": 1825.0899999999392
+      "score": 1832.7999999999386
     },
     {
       "clients": 1,
       "id": "f4f26df2c60e",
       "name": "WeilandSecurity10",
       "online": true,
-      "score": 1817.7699999999443
+      "score": 1825.5199999999436
     },
     {
-      "clients": 1,
+      "clients": 0,
       "id": "a42bb0ca885e",
       "name": "Arnolds-Freifunk",
       "online": true,
-      "score": 1816.9199999999362
+      "score": 1824.6799999999355
     },
     {
       "clients": 0,
       "id": "000db941db5c",
       "name": "MKT-Master",
       "online": true,
-      "score": 1808.8600000000001
+      "score": 1815.8600000000001
     },
     {
-      "clients": 0,
+      "clients": 1,
       "id": "f4f26df2c518",
       "name": "WeilandSecurity11",
       "online": true,
-      "score": 1791.1699999999448
+      "score": 1798.8999999999442
     },
     {
       "clients": 0,
       "id": "60e3274a9248",
       "name": "BrotPosten",
       "online": true,
-      "score": 1777.7699999999484
+      "score": 1785.5099999999477
+    },
+    {
+      "clients": 1,
+      "id": "60e327ed9928",
+      "name": "MzEb-Ehrenmal2",
+      "online": true,
+      "score": 1774.7899999999122
     },
     {
       "clients": 0,
       "id": "14cc203b1ccc",
       "name": "Time4Wonder-No2",
       "online": false,
-      "score": 1777.6499999998632
-    },
-    {
-      "clients": 0,
-      "id": "60e327ed9928",
-      "name": "MzEb-Ehrenmal2",
-      "online": true,
-      "score": 1767.0699999999129
+      "score": 1771.3499999998626
     },
     {
       "clients": 0,
       "id": "f4f26d85a1c8",
       "name": "SPRH02",
       "online": false,
-      "score": 1737.1199999998619
+      "score": 1738.8899999998612
     },
     {
-      "clients": 5,
+      "clients": 6,
       "id": "f4f26d66cf2a",
       "name": "MZ-Heiligkreuz40-B",
       "online": true,
-      "score": 1724.8699999999303
+      "score": 1732.6999999999296
     },
     {
       "clients": 0,
       "id": "f4f26dd5fd6e",
       "name": "Freifunk-Eppelsheim-01",
       "online": true,
-      "score": 1708.8699999999553
+      "score": 1716.5799999999547
+    },
+    {
+      "clients": 2,
+      "id": "14cc2070a06e",
+      "name": "Stadtteiltreff",
+      "online": true,
+      "score": 1708.9699999999543
     },
     {
       "clients": 0,
       "id": "90f652dc347e",
       "name": "Harxheim-Mitte",
       "online": true,
-      "score": 1703.44999999995
+      "score": 1707.1499999999494
     },
     {
-      "clients": 1,
-      "id": "14cc2070a06e",
-      "name": "Stadtteiltreff",
-      "online": true,
-      "score": 1701.249999999955
-    },
-    {
-      "clients": 1,
-      "id": "ec086b2b9e82",
-      "name": "Balue106",
-      "online": true,
-      "score": 1691.439999999953
-    },
-    {
-      "clients": 2,
+      "clients": 7,
       "id": "6872512accc6",
       "name": "malteser_ebh_eg_1",
       "online": true,
-      "score": 1691.3399999994351
-    },
-    {
-      "clients": 5,
-      "id": "6872512ac8fa",
-      "name": "malteser_ebh_eg_2",
-      "online": true,
-      "score": 1690.1499999994503
+      "score": 1699.4399999994341
     },
     {
       "clients": 0,
+      "id": "ec086b2b9e82",
+      "name": "Balue106",
+      "online": true,
+      "score": 1699.2199999999523
+    },
+    {
+      "clients": 4,
+      "id": "6872512ac8fa",
+      "name": "malteser_ebh_eg_2",
+      "online": true,
+      "score": 1698.2399999994495
+    },
+    {
+      "clients": 1,
       "id": "ec086b2b9b88",
       "name": "BaLue108",
       "online": true,
-      "score": 1660.9099999999496
+      "score": 1668.689999999949
     },
     {
-      "clients": 9,
+      "clients": 10,
       "id": "0023cd182efc",
       "name": "genNode",
       "online": true,
-      "score": 1646.7599999999059
+      "score": 1655.009999999905
     },
     {
       "clients": 0,
       "id": "a42bb0d71dae",
       "name": "Erstes-Gewaechs",
       "online": true,
-      "score": 1641.6599999999414
+      "score": 1649.3599999999408
     },
     {
-      "clients": 1,
+      "clients": 0,
       "id": "ec086b693146",
       "name": "FF_WeilandSecurity15",
       "online": true,
-      "score": 1607.1499999999571
+      "score": 1614.9099999999564
     },
     {
       "clients": 0,
       "id": "60e3275003fd",
       "name": "MzEb-Ehrenmal-Up",
       "online": false,
-      "score": 1589.919999999901
+      "score": 1583.6199999999003
     },
     {
       "clients": 0,
       "id": "c04a006d0b5c",
       "name": "Waldhausen-Master-HSpare",
       "online": true,
-      "score": 1565.789999999969
+      "score": 1573.4899999999684
     },
     {
-      "clients": 2,
+      "clients": 3,
       "id": "a42bb0a22f86",
       "name": "BahnhofWiesgartenZwerch-Freifunk",
       "online": true,
-      "score": 1556.8099999999652
+      "score": 1564.6599999999644
     },
     {
       "clients": 0,
       "id": "10feed32aeb0",
       "name": "Gruendelbach01",
       "online": true,
-      "score": 1554.8599999999615
+      "score": 1562.5599999999608
     },
     {
-      "clients": 2,
+      "clients": 4,
       "id": "ec086b692214",
       "name": "FF_WeilandSecurity14",
       "online": true,
-      "score": 1549.2199999999525
-    },
-    {
-      "clients": 13,
-      "id": "c46e1f87b3ae",
-      "name": "WH-Weissherbst",
-      "online": true,
-      "score": 1534.3799999999783
+      "score": 1557.0299999999518
     },
     {
       "clients": 0,
       "id": "a42bb0ca7958",
       "name": "FreifunkDRK01",
       "online": true,
-      "score": 1530.9599999999707
+      "score": 1538.65999999997
     },
     {
       "clients": 0,
       "id": "10feed40a082",
       "name": "Caritas-Zentrum-Delbrel",
-      "online": false,
-      "score": 1528.6299999996675
+      "online": true,
+      "score": 1536.3799999996668
     },
     {
       "clients": 0,
+      "id": "c46e1f87b3ae",
+      "name": "WH-Weissherbst",
+      "online": false,
+      "score": 1534.3299999999774
+    },
+    {
+      "clients": 1,
       "id": "ec086b7864ee",
       "name": "Schatzkammer-Freifunk",
       "online": true,
-      "score": 1481.669999999974
+      "score": 1489.3899999999733
+    },
+    {
+      "clients": 1,
+      "id": "30b5c2c29b6e",
+      "name": "Herberge_Bingen",
+      "online": true,
+      "score": 1415.229999999838
     },
     {
       "clients": 0,
-      "id": "30b5c2c29b6e",
-      "name": "Herberge_Bingen",
-      "online": false,
-      "score": 1411.4699999998386
-    },
-    {
-      "clients": 3,
       "id": "a42bb0d3a04a",
       "name": "mz-go-ags23-03",
       "online": true,
-      "score": 1405.9899999999793
+      "score": 1413.7199999999787
     },
     {
       "clients": 0,
       "id": "e894f6a1faba",
       "name": "e894f6a1faba",
       "online": false,
-      "score": 1402.4200000000947
+      "score": 1395.4200000000947
     },
     {
       "clients": 0,
       "id": "f4f26dff16ce",
       "name": "MainzDrei",
       "online": false,
-      "score": 1373.4499999999239
+      "score": 1367.1499999999232
     },
     {
       "clients": 0,
       "id": "f4f26df1846a",
       "name": "FFWeilandTest",
       "online": true,
-      "score": 1324.119999999986
+      "score": 1331.8199999999854
     },
     {
-      "clients": 1,
+      "clients": 0,
       "id": "a42bb0ca778e",
       "name": "FreifunkDRK02",
       "online": true,
-      "score": 1320.4899999999907
+      "score": 1328.20999999999
     },
     {
       "clients": 0,
       "id": "647002fc0d32",
       "name": "Bretzenheim-WilliWolfStr14",
       "online": false,
-      "score": 1320.4899999997656
+      "score": 1314.189999999765
     },
     {
-      "clients": 0,
+      "clients": 1,
       "id": "f4f26d85a66e",
       "name": "test",
       "online": true,
-      "score": 1294.719999999993
+      "score": 1301.749999999993
     },
     {
       "clients": 0,
       "id": "f4f26ddce530",
       "name": "FF-Aarbg-Mb-2",
       "online": true,
-      "score": 1277.8899999999949
+      "score": 1285.5899999999942
     },
     {
       "clients": 0,
       "id": "60e327b7bcec",
       "name": "ffbin-horrweiler-weinbergstr-2",
       "online": true,
-      "score": 1255.0799999998858
+      "score": 1262.7799999998851
     },
     {
       "clients": 6,
       "id": "6872512aca26",
       "name": "malteser_ebh_2_1",
       "online": true,
-      "score": 1252.2299999997551
+      "score": 1260.2599999997542
     },
     {
-      "clients": 1,
+      "clients": 0,
       "id": "f4f26d3e9bbe",
       "name": "fdm-duo",
       "online": true,
-      "score": 1216.8499999999967
+      "score": 1224.579999999996
     },
     {
       "clients": 1,
       "id": "10feedc37826",
       "name": "weingut-lorsbach",
       "online": true,
-      "score": 1150.0200000000007
+      "score": 1157.77
     },
     {
-      "clients": 0,
+      "clients": 2,
       "id": "6872512ac8d3",
       "name": "malteser_ebh_1_1",
       "online": true,
-      "score": 1130.889999999892
+      "score": 1138.8699999998912
+    },
+    {
+      "clients": 0,
+      "id": "6872512acb28",
+      "name": "malteser_ebh_2_2",
+      "online": true,
+      "score": 1100.52999999992
+    },
+    {
+      "clients": 3,
+      "id": "c46e1fe8f9dc",
+      "name": "Altstadt-SPD",
+      "online": true,
+      "score": 1091.7399999999654
     },
     {
       "clients": 0,
       "id": "10feed9c274a",
       "name": "Jusos",
       "online": false,
-      "score": 1094.549999999981
-    },
-    {
-      "clients": 4,
-      "id": "6872512acb28",
-      "name": "malteser_ebh_2_2",
-      "online": true,
-      "score": 1092.6899999999207
-    },
-    {
-      "clients": 1,
-      "id": "c46e1fe8f9dc",
-      "name": "Altstadt-SPD",
-      "online": true,
-      "score": 1083.8499999999663
+      "score": 1088.2499999999804
     },
     {
       "clients": 0,
       "id": "30b5c2d5f1b3",
       "name": "Mz-Bretzenheim-DalheimerStr",
       "online": true,
-      "score": 1079.4900000000066
+      "score": 1087.200000000006
     },
     {
       "clients": 0,
       "id": "940c6debab7a",
       "name": "zottelkopp",
       "online": false,
-      "score": 1077.7399999998174
+      "score": 1071.4399999998168
     },
     {
-      "clients": 2,
+      "clients": 0,
       "id": "14cc20635db0",
       "name": "mz-langenbeckstr",
       "online": true,
-      "score": 1050.340000000008
+      "score": 1058.0600000000074
     },
     {
-      "clients": 2,
+      "clients": 4,
       "id": "6872514c4c74",
       "name": "ffbin-schultheiskolleistr-pico",
       "online": true,
-      "score": 1047.2300000000077
+      "score": 1055.090000000007
     },
     {
       "clients": 0,
       "id": "e894f6682882",
       "name": "Metzgerei-Beim-Peter",
       "online": false,
-      "score": 1021.169999999919
+      "score": 1014.8699999999192
     },
     {
-      "clients": 6,
+      "clients": 4,
       "id": "6872512ac91e",
       "name": "malteser_ebh_1_2",
       "online": true,
-      "score": 1006.07
+      "score": 1014.02
     },
     {
-      "clients": 0,
+      "clients": 3,
       "id": "f4f26ddcee88",
       "name": "Stoppelhopser",
       "online": true,
-      "score": 1000.2100000000096
+      "score": 1007.9800000000097
     },
     {
-      "clients": 2,
+      "clients": 3,
       "id": "02d504c191db",
       "name": "turmwarp",
       "online": true,
-      "score": 991.200000000002
+      "score": 999.070000000002
     },
     {
-      "clients": 8,
+      "clients": 3,
       "id": "e894f678f0dc",
       "name": "PeterJordan-Malteser",
       "online": true,
-      "score": 987.8800000000183
+      "score": 996.0400000000185
     },
     {
-      "clients": 1,
+      "clients": 0,
       "id": "18a6f73fb30a",
       "name": "VersoehnungskircheKindergarten",
       "online": true,
-      "score": 942.9400000000096
+      "score": 950.7000000000097
     },
     {
-      "clients": 1,
+      "clients": 0,
       "id": "a42bb0ca92b8",
       "name": "Weingut_Wolf_Hof",
       "online": true,
-      "score": 942.380000000015
+      "score": 950.0900000000152
     },
     {
       "clients": 0,
       "id": "54e6fc9a7414",
       "name": "RuneNode-02",
       "online": true,
-      "score": 893.069999999997
+      "score": 900.069999999997
     },
     {
       "clients": 0,
       "id": "ec086b7877c8",
       "name": "Hochstetten-Dhaun",
       "online": true,
-      "score": 882.8400000000088
+      "score": 890.540000000009
     },
     {
-      "clients": 1,
+      "clients": 0,
       "id": "a42bb0d39fc0",
       "name": "schwabenheim-sts45-01",
       "online": true,
-      "score": 850.6800000000105
+      "score": 858.3800000000107
     },
     {
       "clients": 0,
       "id": "020f0a00f258",
       "name": "Holzstr-offloader",
       "online": true,
-      "score": 843.5000000000152
+      "score": 851.2000000000154
     },
     {
       "clients": 0,
       "id": "30b5c2b36642",
       "name": "mz-melibokus",
       "online": false,
-      "score": 841.4599999999205
+      "score": 835.1599999999206
     },
     {
       "clients": 0,
       "id": "b0487ac5d308",
       "name": "Jakobsbrunnen_OCK",
       "online": true,
-      "score": 821.8700000000107
+      "score": 829.5700000000109
     },
     {
       "clients": 0,
       "id": "60e327cedca6",
       "name": "Damm4",
       "online": false,
-      "score": 811.1099999999956
+      "score": 804.1099999999956
     },
     {
-      "clients": 11,
+      "clients": 12,
       "id": "74ea3af22c20",
       "name": "PeterJordan-2",
       "online": true,
-      "score": 792.7600000000116
+      "score": 801.2100000000119
+    },
+    {
+      "clients": 2,
+      "id": "000db941d8a4",
+      "name": "Hallgarten-Freibad",
+      "online": true,
+      "score": 777.2300000000029
     },
     {
       "clients": 0,
       "id": "024d0542b435",
       "name": "Elsheim_Linden_Gateway",
       "online": false,
-      "score": 771.9399999999524
+      "score": 765.6399999999526
     },
     {
-      "clients": 3,
-      "id": "000db941d8a4",
-      "name": "Hallgarten-Freibad",
-      "online": true,
-      "score": 769.3800000000028
-    },
-    {
-      "clients": 6,
+      "clients": 14,
       "id": "6872510a2c86",
       "name": "mz-peng-turnhalle-m2-1",
       "online": true,
-      "score": 745.8000000000087
+      "score": 754.0700000000089
     },
     {
       "clients": 0,
       "id": "90f652f61cde",
       "name": "90f652f61cde",
       "online": true,
-      "score": 744.6700000000084
+      "score": 752.3700000000085
     },
     {
       "clients": 0,
       "id": "30b5c223122a",
       "name": "ffbin5-Germaniablick.de",
       "online": true,
-      "score": 743.8000000000525
+      "score": 751.5000000000526
     },
     {
       "clients": 0,
       "id": "18a6f78b9a84",
       "name": "Laubencrime",
       "online": true,
-      "score": 740.3700000000085
+      "score": 748.0700000000087
     },
     {
       "clients": 0,
       "id": "e894f696f1ee",
       "name": "lichtundtinte.de",
       "online": true,
-      "score": 739.8100000000079
+      "score": 747.520000000008
     },
     {
       "clients": 0,
       "id": "c46e1f416694",
       "name": "Destiny",
       "online": true,
-      "score": 696.1300000000078
+      "score": 703.830000000008
     },
     {
-      "clients": 1,
+      "clients": 0,
       "id": "a42bb0ca87c8",
       "name": "Friseur-Haarscharf.com",
       "online": true,
-      "score": 688.8200000000079
+      "score": 696.520000000008
     },
     {
       "clients": 0,
       "id": "14cc2046e45a",
       "name": "ASB-Master",
       "online": false,
-      "score": 677.4600000000091
+      "score": 684.2400000000094
     },
     {
       "clients": 0,
       "id": "60e32793ff7e",
       "name": "Koenigstaedten-BS-II",
       "online": true,
-      "score": 664.9400000000066
+      "score": 672.6400000000068
     },
     {
       "clients": 1,
       "id": "322545bf10ae",
       "name": "RuneNodes",
       "online": true,
-      "score": 663.6599999999968
+      "score": 671.4299999999969
     },
     {
       "clients": 5,
       "id": "647002be7ec2",
       "name": "PeterJordan-Wanderknoten",
       "online": true,
-      "score": 652.9200000000098
+      "score": 660.8600000000098
     },
     {
       "clients": 0,
       "id": "363163663364",
       "name": "RuneUplink",
       "online": true,
-      "score": 642.2100000000005
+      "score": 649.2100000000005
     },
     {
-      "clients": 3,
+      "clients": 1,
       "id": "687251448329",
       "name": "Burgunder",
       "online": true,
-      "score": 619.8900000000025
+      "score": 627.7600000000025
     },
     {
       "clients": 0,
       "id": "a0f3c1655008",
       "name": "mz-master_III",
       "online": false,
-      "score": 618.2999999999606
+      "score": 611.9999999999608
     },
     {
-      "clients": 3,
+      "clients": 1,
       "id": "6872513c78a3",
       "name": "ASB_NSLM2",
       "online": true,
-      "score": 601.5600000000034
+      "score": 609.4300000000034
     },
     {
       "clients": 0,
       "id": "c04a000b9048",
       "name": "Partenheim-SA-01",
       "online": true,
-      "score": 593.8700000000035
+      "score": 601.6000000000037
     },
     {
       "clients": 1,
       "id": "18a6f7c0f59c",
       "name": "BaLue602",
       "online": true,
-      "score": 537.8800000000035
+      "score": 545.7100000000036
     },
     {
       "clients": 0,
       "id": "18a6f7bc1f28",
       "name": "BaLue601",
       "online": true,
-      "score": 507.2200000000031
+      "score": 514.9900000000032
     },
     {
       "clients": 0,
       "id": "ec086b6931d4",
       "name": "Hinterweg",
       "online": true,
-      "score": 502.22000000000406
-    },
-    {
-      "clients": 0,
-      "id": "f4f26d4064e2",
-      "name": "Freifunk_Wolf_VR",
-      "online": false,
-      "score": 501.4100000000194
+      "score": 509.9200000000042
     },
     {
       "clients": 1,
       "id": "e894f633a0dc",
       "name": "AuxMum6-Bahnhof19A",
       "online": true,
-      "score": 500.5600000000022
+      "score": 508.3300000000023
     },
     {
-      "clients": 7,
+      "clients": 0,
+      "id": "f4f26d4064e2",
+      "name": "Freifunk_Wolf_VR",
+      "online": false,
+      "score": 495.11000000001957
+    },
+    {
+      "clients": 9,
       "id": "f8d111bf9418",
       "name": "PeterJordan-I",
       "online": true,
-      "score": 458.5999999999998
+      "score": 466.2199999999997
     },
     {
       "clients": 0,
       "id": "a0f3c15b50a4",
       "name": "riesling_city",
       "online": true,
-      "score": 453.3600000000032
+      "score": 461.06000000000336
     },
     {
       "clients": 0,
       "id": "ec086b6135da",
       "name": "Schoppenstecher-1-Freifunk",
       "online": true,
-      "score": 429.29000000000235
+      "score": 436.9900000000025
     },
     {
-      "clients": 3,
+      "clients": 4,
       "id": "ec086b7cca30",
       "name": "ffhx_Rathaus",
       "online": true,
-      "score": 421.2
+      "score": 429.10000000000014
     },
     {
       "clients": 0,
       "id": "647002edf0ca",
       "name": "Unverpackt",
       "online": false,
-      "score": 419.02000000000294
+      "score": 412.7200000000031
     },
     {
       "clients": 0,
       "id": "647002f20c2c",
       "name": "Antiquariat-Soemmeringplatz",
       "online": false,
-      "score": 418.0500000001084
+      "score": 411.75000000010857
     },
     {
-      "clients": 0,
+      "clients": 2,
       "id": "60e3272a635e",
       "name": "WERathaus01",
       "online": true,
-      "score": 400.3899999999997
+      "score": 408.18999999999977
     },
     {
       "clients": 0,
       "id": "00199960f8a6",
       "name": "MZ-Heikr40",
       "online": true,
-      "score": 387.15000000000174
+      "score": 394.8500000000019
     },
     {
-      "clients": 0,
+      "clients": 1,
       "id": "18a6f77a37f2",
       "name": "RuneNode-01",
       "online": true,
-      "score": 381.2599999999994
+      "score": 388.34999999999934
     },
     {
       "clients": 0,
       "id": "f4f26de8689e",
       "name": "Schoppenstecher-2-Freifunk",
       "online": true,
-      "score": 379.12999999999926
-    },
-    {
-      "clients": 0,
-      "id": "60e32760143e",
-      "name": "CoolFunk",
-      "online": false,
-      "score": 377.82999999999026
+      "score": 386.12999999999926
     },
     {
       "clients": 1,
       "id": "18a6f76ef082",
       "name": "Kirn_Dhaunerstr-2",
       "online": true,
-      "score": 374.86
+      "score": 382.6600000000001
     },
     {
       "clients": 0,
       "id": "60e32736b18e",
       "name": "ttr-Win-Test-1",
       "online": true,
-      "score": 373.4700000000007
+      "score": 377.17000000000087
     },
     {
       "clients": 0,
+      "id": "60e32760143e",
+      "name": "CoolFunk",
+      "online": false,
+      "score": 371.5299999999904
+    },
+    {
+      "clients": 1,
       "id": "f4f26d3fc73c",
       "name": "MzEb-Ehrenmal3",
       "online": true,
-      "score": 351.40000000000066
+      "score": 359.1300000000008
     },
     {
       "clients": 0,
       "id": "e894f6bf417d",
       "name": "der-fuersorger",
       "online": true,
-      "score": 307.69000000000193
+      "score": 315.4000000000021
     },
     {
       "clients": 0,
       "id": "f81a67518d5c",
       "name": "mz-klosterstr-2",
       "online": false,
-      "score": 306.00000000000244
+      "score": 299.7000000000026
     },
     {
       "clients": 0,
       "id": "60e32781816c",
       "name": "mz-Bretzenheim-HiBi40",
       "online": false,
-      "score": 305.82000000001244
+      "score": 299.5200000000126
     },
     {
       "clients": 0,
       "id": "ec086b6f8ca0",
       "name": "No_1_Undenheim",
       "online": true,
-      "score": 268.9799999999992
+      "score": 276.6799999999994
     },
     {
-      "clients": 1,
+      "clients": 0,
       "id": "f4f26d3ff980",
       "name": "Freifunk-Hof-Imbusch",
       "online": true,
-      "score": 263.4900000000112
+      "score": 271.19000000001137
     },
     {
       "clients": 0,
       "id": "60e327726582",
       "name": "lazertis-test-4300",
       "online": true,
-      "score": 261.17999999999927
+      "score": 268.8799999999994
     },
     {
       "clients": 0,
       "id": "001999700664",
       "name": "lazertis-test-offl",
       "online": true,
-      "score": 245.01
+      "score": 252.01
     },
     {
       "clients": 0,
       "id": "18a6f77a26fe",
       "name": "Kirn_Dhaunerstr-1",
       "online": true,
-      "score": 242.48999999999907
-    },
-    {
-      "clients": 0,
-      "id": "c4e984f7a13f",
-      "name": "rosa-luxemburg",
-      "online": false,
-      "score": 241.6400000000306
+      "score": 250.18999999999903
     },
     {
       "clients": 0,
       "id": "f4f26dd5b0e8",
       "name": "Freifunk-Bootshaus",
       "online": true,
-      "score": 240.1299999999991
+      "score": 247.82999999999905
+    },
+    {
+      "clients": 0,
+      "id": "c4e984f7a13f",
+      "name": "rosa-luxemburg",
+      "online": false,
+      "score": 235.34000000003056
     },
     {
       "clients": 0,
       "id": "ec086b746e14",
       "name": "Win-Waldhilbersheimer-Str-31",
-      "online": true,
-      "score": 219.390000000002
+      "online": false,
+      "score": 213.09000000000196
     },
     {
       "clients": 0,
       "id": "e8de27d6228e",
       "name": "freifunk-rgd-mnhdt25a",
       "online": false,
-      "score": 187.01
+      "score": 180.01
     },
     {
       "clients": 2,
       "id": "021508410210",
       "name": "Partenheim-Zentrale",
       "online": true,
-      "score": 155.5699999999997
+      "score": 163.40999999999974
     },
     {
-      "clients": 1,
+      "clients": 0,
       "id": "14cc2062f20a",
       "name": "Wingertsknorze-3",
-      "online": true,
-      "score": 135.5599999999994
+      "online": false,
+      "score": 131.26999999999936
     },
     {
       "clients": 0,
       "id": "ec086b614334",
       "name": "GaestehausJasmin",
       "online": true,
-      "score": 74.23000000000003
+      "score": 81.92999999999999
     },
     {
-      "clients": 13,
+      "clients": 12,
       "id": "10feed783458",
       "name": "FFMZ-RLP-01",
       "online": true,
-      "score": 63.450000000000074
+      "score": 71.79000000000002
     },
     {
       "clients": 0,
       "id": "18a6f7c0ef46",
       "name": "BaLue603",
-      "online": true,
-      "score": 52.33000000000004
+      "online": false,
+      "score": 54.07000000000005
     },
     {
-      "clients": 0,
+      "clients": 5,
       "id": "60e327bdbc0a",
       "name": "ESPRESSO-KID",
-      "online": false,
-      "score": 41.13000000000159
+      "online": true,
+      "score": 47.12000000000159
     },
     {
       "clients": 0,
       "id": "30b5c280dc7e",
       "name": "robobakt01",
-      "online": true,
-      "score": 38.129999999999995
+      "online": false,
+      "score": 31.129999999999995
     },
     {
       "clients": 0,
       "id": "c46e1fc70d0e",
       "name": "Time4Wonder-No1",
       "online": false,
-      "score": 30.340000000029157
+      "score": 24.040000000029167
     },
     {
       "clients": 0,
       "id": "30b5c2dffbf6",
       "name": "ffmzMatze123",
-      "online": true,
-      "score": 25.0
+      "online": false,
+      "score": 18.0
     },
     {
       "clients": 0,
       "id": "f4f26d49fa46",
       "name": "ffmz-wohu14",
       "online": false,
-      "score": 19.76999999999999
-    },
-    {
-      "clients": 0,
-      "id": "6466b3164ab4",
-      "name": "Baerenbach-6466b3164ab4",
-      "online": false,
-      "score": 9.1
-    },
-    {
-      "clients": 0,
-      "id": "60e3274a8a44",
-      "name": "jl_kontrastfilm",
-      "online": false,
-      "score": 9.1
-    },
-    {
-      "clients": 0,
-      "id": "6470023d7e92",
-      "name": "jl-wildesleben",
-      "online": false,
-      "score": 9.1
-    },
-    {
-      "clients": 0,
-      "id": "f4f26d404dca",
-      "name": "DGCN",
-      "online": false,
-      "score": 9.1
-    },
-    {
-      "clients": 0,
-      "id": "60e327cf32f2",
-      "name": "FF_WeilandSecurity13",
-      "online": false,
-      "score": 9.1
-    },
-    {
-      "clients": 0,
-      "id": "e894f62a8ee4",
-      "name": "BDKJ-BJA-Mainz",
-      "online": false,
-      "score": 9.1
-    },
-    {
-      "clients": 0,
-      "id": "30b5c281278e",
-      "name": "UteOstein",
-      "online": false,
-      "score": 9.1
-    },
-    {
-      "clients": 0,
-      "id": "6872513ca8e6",
-      "name": "ffmz-nsm2loco-1",
-      "online": false,
-      "score": 9.0
-    },
-    {
-      "clients": 0,
-      "id": "c04a0038eadc",
-      "name": "ffbin-stgoar-03",
-      "online": false,
-      "score": 9.0
+      "score": 13.469999999999995
     },
     {
       "clients": 0,
       "id": "c46e1f871f1e",
       "name": "Caritas-Zentrum-Delbrel-2",
       "online": false,
-      "score": 8.619999999999987
+      "score": 12.429999999999982
     },
     {
       "clients": 0,
-      "id": "30b5c2c6cfa0",
-      "name": "Freifunk-Nackenheim-5",
-      "online": false,
-      "score": 8.2
-    },
-    {
-      "clients": 0,
-      "id": "647002edf2ce",
-      "name": "FfMo2",
-      "online": false,
-      "score": 8.2
-    },
-    {
-      "clients": 0,
-      "id": "ec086baafe36",
-      "name": "Weingut-Schenk-Freifunk",
-      "online": false,
-      "score": 8.2
-    },
-    {
-      "clients": 0,
-      "id": "90f6523c80a2",
-      "name": "FreifunkOYA",
-      "online": false,
-      "score": 8.2
-    },
-    {
-      "clients": 0,
-      "id": "ec086b6f8bd0",
-      "name": "Weingut-Schenk-Freifunk-Garten",
-      "online": false,
-      "score": 8.2
-    },
-    {
-      "clients": 0,
-      "id": "30b5c2bd70aa",
-      "name": "ffbin-stgoar-02",
-      "online": false,
-      "score": 8.0
-    },
-    {
-      "clients": 0,
-      "id": "c46e1fdf0626",
-      "name": "SV-78-Bodenheim",
-      "online": false,
-      "score": 8.0
-    },
-    {
-      "clients": 0,
-      "id": "60e327b7bf42",
-      "name": "ffbin-stgoar-01",
-      "online": false,
-      "score": 8.0
-    },
-    {
-      "clients": 0,
-      "id": "10feed846260",
-      "name": "Roxheim-1",
-      "online": false,
-      "score": 7.610000000000095
-    },
-    {
-      "clients": 0,
-      "id": "30b5c20ec546",
-      "name": "StreetfoodFestivalUplink",
-      "online": false,
-      "score": 7.299999999999999
-    },
-    {
-      "clients": 0,
-      "id": "30b5c2863f90",
-      "name": "PetKlHarg_Kirchstr",
-      "online": false,
-      "score": 7.299999999999999
-    },
-    {
-      "clients": 0,
-      "id": "60e327e70b5e",
-      "name": "ffb_Boos1",
-      "online": false,
-      "score": 7.299999999999999
-    },
-    {
-      "clients": 0,
-      "id": "30b5c2e3217a",
-      "name": "MKL-Knoten02",
-      "online": false,
-      "score": 7.299999999999999
-    },
-    {
-      "clients": 0,
-      "id": "f4f26de89846",
-      "name": "Rio2Sven",
-      "online": false,
-      "score": 7.0
-    },
-    {
-      "clients": 0,
-      "id": "60e32781eaec",
-      "name": "Gimbsheim-DP-02",
-      "online": false,
-      "score": 7.0
-    },
-    {
-      "clients": 0,
-      "id": "0019995f8580",
-      "name": "ffbin-altenbamberg-offloader-02",
-      "online": false,
-      "score": 7.0
-    },
-    {
-      "clients": 0,
-      "id": "e894f6f31e73",
-      "name": "Vereinshaus-Walluf-2",
-      "online": false,
-      "score": 6.399999999999999
-    },
-    {
-      "clients": 0,
-      "id": "f4f26d6a95e8",
-      "name": "ffhx_Freifunk_RueDePrincesse",
-      "online": false,
-      "score": 6.399999999999999
-    },
-    {
-      "clients": 0,
-      "id": "c0a0bbf0ab0c",
-      "name": "JeanPaul-1",
-      "online": false,
-      "score": 6.0
-    },
-    {
-      "clients": 0,
-      "id": "c4e984d52312",
-      "name": "Mitchs-Testrouter1",
-      "online": false,
-      "score": 6.0
-    },
-    {
-      "clients": 0,
-      "id": "60e327c779ba",
-      "name": "60e327c779ba",
-      "online": false,
-      "score": 5.8499999999999925
-    },
-    {
-      "clients": 0,
-      "id": "6466b38a55b6",
-      "name": "ffmz-Freifunk_WeingutFriess",
-      "online": false,
-      "score": 5.499999999999998
-    },
-    {
-      "clients": 0,
-      "id": "30b5c2c29c34",
-      "name": "ffbin-eisel-1",
-      "online": false,
-      "score": 5.499999999999998
-    },
-    {
-      "clients": 0,
-      "id": "f4f26d5f2e10",
-      "name": "Schreiber",
-      "online": false,
-      "score": 5.499999999999998
-    },
-    {
-      "clients": 0,
-      "id": "f4f26d402f30",
-      "name": "ffbin-Mainzerstr",
-      "online": false,
-      "score": 5.499999999999998
-    },
-    {
-      "clients": 0,
-      "id": "b827ebfc00f5",
-      "name": "b827ebfc00f5",
-      "online": false,
-      "score": 5.0
-    },
-    {
-      "clients": 0,
-      "id": "14cc204d4e4c",
-      "name": "lalo-hase-01",
-      "online": false,
-      "score": 4.599999999999998
+      "id": "30b5c20e96c0",
+      "name": "Sonne",
+      "online": true,
+      "score": 12.089999999999991
     },
     {
       "clients": 0,
       "id": "647002a60a2a",
       "name": "Krokodil",
       "online": false,
-      "score": 4.599999999999998
+      "score": 9.1
     },
     {
       "clients": 0,
-      "id": "30b5c20e96c0",
-      "name": "Sonne",
+      "id": "14cc204d4e4c",
+      "name": "lalo-hase-01",
       "online": false,
-      "score": 4.329999999999995
+      "score": 9.1
     },
     {
       "clients": 0,
-      "id": "f81a672ef51c",
-      "name": "Roxheim-2",
+      "id": "c4e984d52312",
+      "name": "Mitchs-Testrouter1",
       "online": false,
-      "score": 4.039999999999999
+      "score": 9.0
     },
     {
       "clients": 0,
-      "id": "c46e1f8793de",
-      "name": "mz-oberstadt2",
+      "id": "c0a0bbf0ab0c",
+      "name": "JeanPaul-1",
       "online": false,
-      "score": 4.0
+      "score": 9.0
     },
     {
       "clients": 0,
       "id": "e894f6422930",
       "name": "Nikolaus5-Freifunk",
       "online": false,
-      "score": 3.649999999999995
+      "score": 8.2
     },
     {
       "clients": 0,
-      "id": "c0a0bbf0b484",
-      "name": "Paule",
+      "id": "f81a672ef51c",
+      "name": "Roxheim-2",
       "online": false,
-      "score": 3.0
+      "score": 8.0
     },
     {
       "clients": 0,
-      "id": "ec086bb9ee1e",
-      "name": "Gau-Algesheim-Reisemobil",
+      "id": "b827ebfc00f5",
+      "name": "b827ebfc00f5",
       "online": false,
-      "score": 3.0
+      "score": 8.0
     },
     {
       "clients": 0,
-      "id": "f4f26d6d41d0",
-      "name": "ffmz-cpe210-2",
+      "id": "c46e1f8793de",
+      "name": "mz-oberstadt2",
       "online": false,
-      "score": 3.0
-    },
-    {
-      "clients": 0,
-      "id": "30b5c2815c24",
-      "name": "Essenheim_mobil2",
-      "online": false,
-      "score": 3.0
-    },
-    {
-      "clients": 0,
-      "id": "14cc208741d6",
-      "name": "ffbin-testding",
-      "online": false,
-      "score": 2.0
-    },
-    {
-      "clients": 0,
-      "id": "f4f26de8226c",
-      "name": "Freifunk-Eppelsheim-05",
-      "online": false,
-      "score": 1.8999999999999977
+      "score": 7.0
     },
     {
       "clients": 0,
       "id": "10feed3b332c",
       "name": "Baerenbach-10feed3b332c",
       "online": false,
-      "score": 1.8999999999999977
+      "score": 6.399999999999999
     },
     {
       "clients": 0,
-      "id": "60e327edb104",
-      "name": "MzEb-Ehrenmal-Up2",
+      "id": "f4f26de8226c",
+      "name": "Freifunk-Eppelsheim-05",
       "online": false,
-      "score": 0.9999999999999978
+      "score": 6.399999999999999
+    },
+    {
+      "clients": 0,
+      "id": "f4f26d6d41d0",
+      "name": "ffmz-cpe210-2",
+      "online": false,
+      "score": 6.0
+    },
+    {
+      "clients": 0,
+      "id": "30b5c2815c24",
+      "name": "Essenheim_mobil2",
+      "online": false,
+      "score": 6.0
+    },
+    {
+      "clients": 0,
+      "id": "c0a0bbf0b484",
+      "name": "Paule",
+      "online": false,
+      "score": 6.0
+    },
+    {
+      "clients": 0,
+      "id": "ec086bb9ee1e",
+      "name": "Gau-Algesheim-Reisemobil",
+      "online": false,
+      "score": 6.0
     },
     {
       "clients": 0,
       "id": "ec086baaff3e",
       "name": "Weingut-Schenk-Freifunk-Wiese-Vorne",
       "online": false,
-      "score": 0.9999999999999978
+      "score": 5.499999999999998
     },
     {
       "clients": 0,
       "id": "ec086b7cca26",
       "name": "ffhx_Freifunk_Weingut_Ressler_Hof",
       "online": false,
-      "score": 0.9999999999999978
+      "score": 5.499999999999998
+    },
+    {
+      "clients": 0,
+      "id": "60e327edb104",
+      "name": "MzEb-Ehrenmal-Up2",
+      "online": false,
+      "score": 5.499999999999998
     },
     {
       "clients": 0,
       "id": "e8de2762a7e8",
       "name": "rheinallee-frauenlobstr",
       "online": false,
-      "score": 0.9999999999999978
+      "score": 5.499999999999998
     },
     {
       "clients": 0,
-      "id": "f4f26dff3058",
-      "name": "Freifunk-Eppelsheim-04",
+      "id": "14cc208741d6",
+      "name": "ffbin-testding",
       "online": false,
-      "score": 0.09999999999999787
-    },
-    {
-      "clients": 0,
-      "id": "ec086b7cbf44",
-      "name": "Freifunk_Weinstube",
-      "online": false,
-      "score": 0.09999999999999787
+      "score": 5.0
     },
     {
       "clients": 0,
       "id": "f4f26dd5e4f0",
       "name": "Freifunk-Eppelsheim-02",
       "online": false,
+      "score": 4.599999999999998
+    },
+    {
+      "clients": 0,
+      "id": "f4f26dff3058",
+      "name": "Freifunk-Eppelsheim-04",
+      "online": false,
+      "score": 4.599999999999998
+    },
+    {
+      "clients": 0,
+      "id": "ec086b7cbf44",
+      "name": "Freifunk_Weinstube",
+      "online": false,
+      "score": 4.599999999999998
+    },
+    {
+      "clients": 0,
+      "id": "647002852642",
+      "name": "Ruemmelsheim-Silvanerweg2",
+      "online": false,
+      "score": 3.6999999999999975
+    },
+    {
+      "clients": 0,
+      "id": "10feed8a53c2",
+      "name": "ffbin_pfadfinder_gutenbergstr",
+      "online": false,
+      "score": 3.6999999999999975
+    },
+    {
+      "clients": 0,
+      "id": "ec086b6fb1e4",
+      "name": "Weingut-Schenk-Freifunk-Wiese-Hinten",
+      "online": false,
+      "score": 3.6999999999999975
+    },
+    {
+      "clients": 0,
+      "id": "ec086b7cc9fc",
+      "name": "ffhx_Freifunk_Weingut_Ressler_Stube",
+      "online": false,
+      "score": 3.6999999999999975
+    },
+    {
+      "clients": 0,
+      "id": "ec086baafed4",
+      "name": "Weingut-Schenk-Freifunk-Garten-2",
+      "online": false,
+      "score": 3.6999999999999975
+    },
+    {
+      "clients": 0,
+      "id": "f4f26d54f050",
+      "name": "rheintaler",
+      "online": false,
+      "score": 3.0
+    },
+    {
+      "clients": 0,
+      "id": "c46e1fc701fc",
+      "name": "rathenaustr6",
+      "online": false,
+      "score": 3.0
+    },
+    {
+      "clients": 0,
+      "id": "6466b3164ab4",
+      "name": "Baerenbach-6466b3164ab4",
+      "online": false,
+      "score": 2.7999999999999976
+    },
+    {
+      "clients": 0,
+      "id": "60e3274a8a44",
+      "name": "jl_kontrastfilm",
+      "online": false,
+      "score": 2.7999999999999976
+    },
+    {
+      "clients": 0,
+      "id": "6470023d7e92",
+      "name": "jl-wildesleben",
+      "online": false,
+      "score": 2.7999999999999976
+    },
+    {
+      "clients": 0,
+      "id": "60e327cf32f2",
+      "name": "FF_WeilandSecurity13",
+      "online": false,
+      "score": 2.7999999999999976
+    },
+    {
+      "clients": 0,
+      "id": "f4f26d404dca",
+      "name": "DGCN",
+      "online": false,
+      "score": 2.7999999999999976
+    },
+    {
+      "clients": 0,
+      "id": "e894f62a8ee4",
+      "name": "BDKJ-BJA-Mainz",
+      "online": false,
+      "score": 2.7999999999999976
+    },
+    {
+      "clients": 0,
+      "id": "30b5c281278e",
+      "name": "UteOstein",
+      "online": false,
+      "score": 2.7999999999999976
+    },
+    {
+      "clients": 0,
+      "id": "c04a0038eadc",
+      "name": "ffbin-stgoar-03",
+      "online": false,
+      "score": 2.0
+    },
+    {
+      "clients": 0,
+      "id": "6872513ca8e6",
+      "name": "ffmz-nsm2loco-1",
+      "online": false,
+      "score": 2.0
+    },
+    {
+      "clients": 0,
+      "id": "30b5c2c6cfa0",
+      "name": "Freifunk-Nackenheim-5",
+      "online": false,
+      "score": 1.8999999999999977
+    },
+    {
+      "clients": 0,
+      "id": "647002edf2ce",
+      "name": "FfMo2",
+      "online": false,
+      "score": 1.8999999999999977
+    },
+    {
+      "clients": 0,
+      "id": "90f6523c80a2",
+      "name": "FreifunkOYA",
+      "online": false,
+      "score": 1.8999999999999977
+    },
+    {
+      "clients": 0,
+      "id": "ec086baafe36",
+      "name": "Weingut-Schenk-Freifunk",
+      "online": false,
+      "score": 1.8999999999999977
+    },
+    {
+      "clients": 0,
+      "id": "ec086b6f8bd0",
+      "name": "Weingut-Schenk-Freifunk-Garten",
+      "online": false,
+      "score": 1.8999999999999977
+    },
+    {
+      "clients": 0,
+      "id": "10feed846260",
+      "name": "Roxheim-1",
+      "online": false,
+      "score": 1.3100000000000938
+    },
+    {
+      "clients": 0,
+      "id": "60e327b7bf42",
+      "name": "ffbin-stgoar-01",
+      "online": false,
+      "score": 1.0
+    },
+    {
+      "clients": 0,
+      "id": "c46e1fdf0626",
+      "name": "SV-78-Bodenheim",
+      "online": false,
+      "score": 1.0
+    },
+    {
+      "clients": 0,
+      "id": "30b5c2bd70aa",
+      "name": "ffbin-stgoar-02",
+      "online": false,
+      "score": 1.0
+    },
+    {
+      "clients": 0,
+      "id": "30b5c20ec546",
+      "name": "StreetfoodFestivalUplink",
+      "online": false,
+      "score": 0.9999999999999978
+    },
+    {
+      "clients": 0,
+      "id": "30b5c2863f90",
+      "name": "PetKlHarg_Kirchstr",
+      "online": false,
+      "score": 0.9999999999999978
+    },
+    {
+      "clients": 0,
+      "id": "30b5c2e3217a",
+      "name": "MKL-Knoten02",
+      "online": false,
+      "score": 0.9999999999999978
+    },
+    {
+      "clients": 0,
+      "id": "60e327e70b5e",
+      "name": "ffb_Boos1",
+      "online": false,
+      "score": 0.9999999999999978
+    },
+    {
+      "clients": 0,
+      "id": "f4f26d6a95e8",
+      "name": "ffhx_Freifunk_RueDePrincesse",
+      "online": false,
+      "score": 0.09999999999999787
+    },
+    {
+      "clients": 0,
+      "id": "e894f6f31e73",
+      "name": "Vereinshaus-Walluf-2",
+      "online": false,
       "score": 0.09999999999999787
     }
   ],
-  "updated_at": "2016-09-29T07:23:02.314328",
+  "updated_at": "2016-09-29T14:23:01.954150",
   "version": "0.9a8"
 }
