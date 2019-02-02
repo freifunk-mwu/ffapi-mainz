@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "clients": 110,
+      "clients": 149,
       "id": "0019997cf414",
       "name": {
         "hardware": {
@@ -68,7 +68,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 34945.01000000002
+      "score": 34952.24000000002
     },
     {
       "clients": 1,
@@ -142,10 +142,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 26488.88999999607
+      "score": 26491.919999996066
     },
     {
-      "clients": 17,
+      "clients": 8,
       "id": "e894f6d46bda",
       "name": {
         "hardware": {
@@ -211,7 +211,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 25027.200000001838
+      "score": 25030.51000000184
     },
     {
       "clients": 0,
@@ -280,10 +280,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 23177.300000000945
+      "score": 23180.300000000945
     },
     {
-      "clients": 10,
+      "clients": 8,
       "id": "a42bb0ca7958",
       "name": {
         "hardware": {
@@ -350,7 +350,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 21644.179999999746
+      "score": 21647.42999999975
     },
     {
       "clients": 1,
@@ -416,10 +416,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 21414.75999999819
+      "score": 21417.789999998186
     },
     {
-      "clients": 0,
+      "clients": 1,
       "id": "a42bb0ca778e",
       "name": {
         "hardware": {
@@ -486,7 +486,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 21026.520000000135
+      "score": 21029.530000000133
     },
     {
       "clients": 7,
@@ -569,7 +569,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 18380.9599999989
+      "score": 18384.1699999989
     },
     {
       "clients": 0,
@@ -641,7 +641,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 15261.030000005381
+      "score": 15258.030000005381
     },
     {
       "clients": 0,
@@ -695,7 +695,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 15160.0
+      "score": 15163.0
     },
     {
       "clients": 2,
@@ -762,7 +762,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 13223.770000002814
+      "score": 13226.850000002816
     },
     {
       "clients": 5,
@@ -832,7 +832,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 12354.310000000996
+      "score": 12357.480000000995
     },
     {
       "clients": 0,
@@ -902,7 +902,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 11756.450000001623
+      "score": 11753.450000001623
     },
     {
       "clients": 1,
@@ -976,7 +976,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 11492.260000002007
+      "score": 11495.290000002007
     },
     {
       "clients": 0,
@@ -1033,7 +1033,7 @@
         "vpn": true
       },
       "online": true,
-      "score": 10181.0
+      "score": 10184.0
     },
     {
       "clients": 0,
@@ -1090,7 +1090,7 @@
         "vpn": true
       },
       "online": true,
-      "score": 8038.0
+      "score": 8041.0
     },
     {
       "clients": 0,
@@ -1147,7 +1147,7 @@
         "vpn": true
       },
       "online": true,
-      "score": 7528.0
+      "score": 7531.0
     },
     {
       "clients": 1,
@@ -1218,10 +1218,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 5031.310000000629
+      "score": 5034.3400000006295
     },
     {
-      "clients": 10,
+      "clients": 0,
       "id": "687251643275",
       "name": {
         "hardware": {
@@ -1284,7 +1284,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 3765.8900000000367
+      "score": 3768.8900000000367
     },
     {
       "clients": 0,
@@ -1341,7 +1341,7 @@
         "vpn": true
       },
       "online": true,
-      "score": 3287.0
+      "score": 3290.0
     },
     {
       "clients": 0,
@@ -1396,7 +1396,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 2492.0
+      "score": 2495.0
     },
     {
       "clients": 0,
@@ -1453,7 +1453,7 @@
         "vpn": true
       },
       "online": true,
-      "score": 1991.0
+      "score": 1994.0
     },
     {
       "clients": 0,
@@ -1508,7 +1508,151 @@
         "vpn": false
       },
       "online": true,
-      "score": 729.0
+      "score": 732.0
+    },
+    {
+      "clients": 0,
+      "id": "001999f72f75",
+      "name": {
+        "hardware": {
+          "model": "FUJITSU FUTRO S700",
+          "nproc": 1
+        },
+        "hostname": "FFAN-kathPfarrzentrum-StGereon-Offloader",
+        "location": {
+          "latitude": 49.91564068,
+          "longitude": 8.34421545
+        },
+        "network": {
+          "addresses": [
+            "fe80::219:99ff:fef7:2f75",
+            "2a03:2260:11a:a100:219:99ff:fef7:2f75",
+            "2a03:2260:11a:1700:219:99ff:fef7:2f75",
+            "2a03:2260:11a:700:219:99ff:fef7:2f75",
+            "2a03:2260:11a:e700:219:99ff:fef7:2f75",
+            "2a03:2260:11a:6500:219:99ff:fef7:2f75",
+            "fd37:b4dc:4b1e::219:99ff:fef7:2f75"
+          ],
+          "mac": "00:19:99:f7:2f:75",
+          "mesh": {
+            "bat0": {
+              "interfaces": {
+                "other": [
+                  "00:19:99:f7:2f:04",
+                  "2a:71:c2:f6:d1:d3"
+                ],
+                "tunnel": [
+                  "2a:71:c2:f6:d1:d7"
+                ]
+              }
+            }
+          },
+          "mesh_interfaces": null
+        },
+        "node_id": "001999f72f75",
+        "owner": null,
+        "software": {
+          "autoupdater": {
+            "branch": "stable",
+            "enabled": true
+          },
+          "babeld": {},
+          "batman-adv": {
+            "compat": 15,
+            "version": "2018.1"
+          },
+          "fastd": {
+            "enabled": true,
+            "version": "v18"
+          },
+          "firmware": {
+            "base": "gluon-v2018.1.1",
+            "release": "2018.1.1+mwu1"
+          },
+          "status-page": {
+            "api": 0
+          }
+        },
+        "system": {
+          "domain_code": "ffmz",
+          "site_code": "ffmz"
+        },
+        "vpn": false
+      },
+      "online": false,
+      "score": 9.0
+    },
+    {
+      "clients": 0,
+      "id": "00156d72101a",
+      "name": {
+        "hardware": {
+          "model": "Ubiquiti NanoStation M2",
+          "nproc": 1
+        },
+        "hostname": "KGV Hartenberg A5",
+        "location": {
+          "latitude": 50.0122,
+          "longitude": 8.2378
+        },
+        "network": {
+          "addresses": [
+            "fe80::215:6dff:fe72:101a",
+            "2a03:2260:11a:1700:215:6dff:fe72:101a",
+            "2a03:2260:11a:6500:215:6dff:fe72:101a",
+            "2a03:2260:11a:a100:215:6dff:fe72:101a",
+            "2a03:2260:11a:e700:215:6dff:fe72:101a",
+            "fd37:b4dc:4b1e:0:215:6dff:fe72:101a",
+            "2a03:2260:11a:700:215:6dff:fe72:101a"
+          ],
+          "mac": "00:15:6d:72:10:1a",
+          "mesh": {
+            "bat0": {
+              "interfaces": {
+                "other": [
+                  "56:e9:7b:0c:3b:f3",
+                  "56:e9:7b:0c:3b:f0",
+                  "56:e9:7b:0c:3b:f4"
+                ],
+                "tunnel": [
+                  "56:e9:7b:0c:3b:f7"
+                ]
+              }
+            }
+          },
+          "mesh_interfaces": null
+        },
+        "node_id": "00156d72101a",
+        "owner": null,
+        "software": {
+          "autoupdater": {
+            "branch": "stable",
+            "enabled": true
+          },
+          "babeld": {},
+          "batman-adv": {
+            "compat": 15,
+            "version": "2016.2"
+          },
+          "fastd": {
+            "enabled": true,
+            "version": "v18"
+          },
+          "firmware": {
+            "base": "gluon-v2016.2.6",
+            "release": "2016.2.6+mwu1"
+          },
+          "status-page": {
+            "api": 1
+          }
+        },
+        "system": {
+          "site_code": "ffmz"
+        },
+        "vpn": false
+      },
+      "online": false,
+      "score": 8.0
     },
     {
       "clients": 0,
@@ -1583,7 +1727,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 9.0
+      "score": 6.0
     },
     {
       "clients": 0,
@@ -1656,153 +1800,9 @@
         "vpn": false
       },
       "online": false,
-      "score": 7.0
-    },
-    {
-      "clients": 0,
-      "id": "001999f72f75",
-      "name": {
-        "hardware": {
-          "model": "FUJITSU FUTRO S700",
-          "nproc": 1
-        },
-        "hostname": "FFAN-kathPfarrzentrum-StGereon-Offloader",
-        "location": {
-          "latitude": 49.91564068,
-          "longitude": 8.34421545
-        },
-        "network": {
-          "addresses": [
-            "fe80::219:99ff:fef7:2f75",
-            "2a03:2260:11a:a100:219:99ff:fef7:2f75",
-            "2a03:2260:11a:1700:219:99ff:fef7:2f75",
-            "2a03:2260:11a:700:219:99ff:fef7:2f75",
-            "2a03:2260:11a:e700:219:99ff:fef7:2f75",
-            "2a03:2260:11a:6500:219:99ff:fef7:2f75",
-            "fd37:b4dc:4b1e::219:99ff:fef7:2f75"
-          ],
-          "mac": "00:19:99:f7:2f:75",
-          "mesh": {
-            "bat0": {
-              "interfaces": {
-                "other": [
-                  "00:19:99:f7:2f:04",
-                  "2a:71:c2:f6:d1:d3"
-                ],
-                "tunnel": [
-                  "2a:71:c2:f6:d1:d7"
-                ]
-              }
-            }
-          },
-          "mesh_interfaces": null
-        },
-        "node_id": "001999f72f75",
-        "owner": null,
-        "software": {
-          "autoupdater": {
-            "branch": "stable",
-            "enabled": true
-          },
-          "babeld": {},
-          "batman-adv": {
-            "compat": 15,
-            "version": "2018.1"
-          },
-          "fastd": {
-            "enabled": true,
-            "version": "v18"
-          },
-          "firmware": {
-            "base": "gluon-v2018.1.1",
-            "release": "2018.1.1+mwu1"
-          },
-          "status-page": {
-            "api": 0
-          }
-        },
-        "system": {
-          "domain_code": "ffmz",
-          "site_code": "ffmz"
-        },
-        "vpn": false
-      },
-      "online": false,
-      "score": 2.0
-    },
-    {
-      "clients": 0,
-      "id": "00156d72101a",
-      "name": {
-        "hardware": {
-          "model": "Ubiquiti NanoStation M2",
-          "nproc": 1
-        },
-        "hostname": "KGV Hartenberg A5",
-        "location": {
-          "latitude": 50.0122,
-          "longitude": 8.2378
-        },
-        "network": {
-          "addresses": [
-            "fe80::215:6dff:fe72:101a",
-            "2a03:2260:11a:1700:215:6dff:fe72:101a",
-            "2a03:2260:11a:6500:215:6dff:fe72:101a",
-            "2a03:2260:11a:a100:215:6dff:fe72:101a",
-            "2a03:2260:11a:e700:215:6dff:fe72:101a",
-            "fd37:b4dc:4b1e:0:215:6dff:fe72:101a",
-            "2a03:2260:11a:700:215:6dff:fe72:101a"
-          ],
-          "mac": "00:15:6d:72:10:1a",
-          "mesh": {
-            "bat0": {
-              "interfaces": {
-                "other": [
-                  "56:e9:7b:0c:3b:f3",
-                  "56:e9:7b:0c:3b:f0",
-                  "56:e9:7b:0c:3b:f4"
-                ],
-                "tunnel": [
-                  "56:e9:7b:0c:3b:f7"
-                ]
-              }
-            }
-          },
-          "mesh_interfaces": null
-        },
-        "node_id": "00156d72101a",
-        "owner": null,
-        "software": {
-          "autoupdater": {
-            "branch": "stable",
-            "enabled": true
-          },
-          "babeld": {},
-          "batman-adv": {
-            "compat": 15,
-            "version": "2016.2"
-          },
-          "fastd": {
-            "enabled": true,
-            "version": "v18"
-          },
-          "firmware": {
-            "base": "gluon-v2016.2.6",
-            "release": "2016.2.6+mwu1"
-          },
-          "status-page": {
-            "api": 1
-          }
-        },
-        "system": {
-          "site_code": "ffmz"
-        },
-        "vpn": false
-      },
-      "online": false,
-      "score": 1.0
+      "score": 4.0
     }
   ],
-  "updated_at": "2019-02-02T21:23:03.280810",
+  "updated_at": "2019-02-03T00:23:03.417306",
   "version": "0.9a8"
 }
