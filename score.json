@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "clients": 159,
+      "clients": 139,
       "id": "0019997cf414",
       "name": {
         "hardware": {
@@ -68,7 +68,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 35247.35999999998
+      "score": 35263.86999999997
     },
     {
       "clients": 1,
@@ -142,10 +142,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 26617.159999995867
+      "score": 26624.229999995856
     },
     {
-      "clients": 6,
+      "clients": 7,
       "id": "e894f6d46bda",
       "name": {
         "hardware": {
@@ -211,7 +211,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 25173.91000000186
+      "score": 25181.340000001863
     },
     {
       "clients": 0,
@@ -280,7 +280,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 23304.300000000945
+      "score": 23311.300000000945
     },
     {
       "clients": 0,
@@ -350,7 +350,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 21772.149999999725
+      "score": 21779.149999999725
     },
     {
       "clients": 1,
@@ -416,7 +416,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 21543.18999999801
+      "score": 21550.259999997998
     },
     {
       "clients": 0,
@@ -486,7 +486,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 21154.020000000113
+      "score": 21161.020000000113
     },
     {
       "clients": 7,
@@ -569,7 +569,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 18516.849999998863
+      "score": 18524.33999999886
     },
     {
       "clients": 0,
@@ -623,10 +623,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 15287.0
+      "score": 15294.0
     },
     {
-      "clients": 2,
+      "clients": 3,
       "id": "f4ec38bd7dd8",
       "name": {
         "hardware": {
@@ -690,10 +690,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 13354.130000002886
+      "score": 13361.29000000289
     },
     {
-      "clients": 6,
+      "clients": 10,
       "id": "00199967fba4",
       "name": {
         "hardware": {
@@ -760,7 +760,81 @@
         "vpn": false
       },
       "online": true,
-      "score": 12488.310000000996
+      "score": 12495.840000000995
+    },
+    {
+      "clients": 1,
+      "id": "0003ba376190",
+      "name": {
+        "hardware": {
+          "model": "Common KVM processor",
+          "nproc": 1
+        },
+        "hostname": "ABI-Martinskirche",
+        "location": {
+          "altitude": 62,
+          "latitude": 51.74760801,
+          "longitude": 11.98679209
+        },
+        "network": {
+          "addresses": [
+            "fe80::203:baff:fe37:6190",
+            "2a03:2260:11a:a100:203:baff:fe37:6190",
+            "2a03:2260:11a:700:203:baff:fe37:6190",
+            "2a03:2260:11a:e700:203:baff:fe37:6190",
+            "2a03:2260:11a:6500:203:baff:fe37:6190",
+            "2a03:2260:11a:1700:203:baff:fe37:6190",
+            "fd37:b4dc:4b1e:0:203:baff:fe37:6190"
+          ],
+          "mac": "00:03:ba:37:61:90",
+          "mesh": {
+            "bat0": {
+              "interfaces": {
+                "other": [
+                  "3e:6a:e1:46:69:fb",
+                  "00:03:ba:37:61:95",
+                  "00:03:ba:37:61:94",
+                  "00:03:ba:37:61:93",
+                  "00:03:ba:37:61:92"
+                ],
+                "tunnel": [
+                  "3e:6a:e1:46:69:ff"
+                ]
+              }
+            }
+          },
+          "mesh_interfaces": null
+        },
+        "node_id": "0003ba376190",
+        "owner": null,
+        "software": {
+          "autoupdater": {
+            "branch": "stable"
+          },
+          "babeld": {},
+          "batman-adv": {
+            "compat": 15,
+            "version": "2016.2"
+          },
+          "fastd": {
+            "enabled": true,
+            "version": "v18"
+          },
+          "firmware": {
+            "base": "gluon-v2016.2.6",
+            "release": "2016.2.6+mwu1"
+          },
+          "status-page": {
+            "api": 1
+          }
+        },
+        "system": {
+          "site_code": "ffmz"
+        },
+        "vpn": false
+      },
+      "online": true,
+      "score": 11627.600000002036
     },
     {
       "clients": 0,
@@ -830,81 +904,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 11629.450000001623
-    },
-    {
-      "clients": 1,
-      "id": "0003ba376190",
-      "name": {
-        "hardware": {
-          "model": "Common KVM processor",
-          "nproc": 1
-        },
-        "hostname": "ABI-Martinskirche",
-        "location": {
-          "altitude": 62,
-          "latitude": 51.74760801,
-          "longitude": 11.98679209
-        },
-        "network": {
-          "addresses": [
-            "fe80::203:baff:fe37:6190",
-            "2a03:2260:11a:700:203:baff:fe37:6190",
-            "2a03:2260:11a:a100:203:baff:fe37:6190",
-            "2a03:2260:11a:e700:203:baff:fe37:6190",
-            "2a03:2260:11a:6500:203:baff:fe37:6190",
-            "2a03:2260:11a:1700:203:baff:fe37:6190",
-            "fd37:b4dc:4b1e:0:203:baff:fe37:6190"
-          ],
-          "mac": "00:03:ba:37:61:90",
-          "mesh": {
-            "bat0": {
-              "interfaces": {
-                "other": [
-                  "3e:6a:e1:46:69:fb",
-                  "00:03:ba:37:61:95",
-                  "00:03:ba:37:61:94",
-                  "00:03:ba:37:61:93",
-                  "00:03:ba:37:61:92"
-                ],
-                "tunnel": [
-                  "3e:6a:e1:46:69:ff"
-                ]
-              }
-            }
-          },
-          "mesh_interfaces": null
-        },
-        "node_id": "0003ba376190",
-        "owner": null,
-        "software": {
-          "autoupdater": {
-            "branch": "stable"
-          },
-          "babeld": {},
-          "batman-adv": {
-            "compat": 15,
-            "version": "2016.2"
-          },
-          "fastd": {
-            "enabled": true,
-            "version": "v18"
-          },
-          "firmware": {
-            "base": "gluon-v2016.2.6",
-            "release": "2016.2.6+mwu1"
-          },
-          "status-page": {
-            "api": 1
-          }
-        },
-        "system": {
-          "site_code": "ffmz"
-        },
-        "vpn": false
-      },
-      "online": true,
-      "score": 11620.530000002034
+      "score": 11622.450000001623
     },
     {
       "clients": 0,
@@ -961,7 +961,7 @@
         "vpn": true
       },
       "online": true,
-      "score": 10308.0
+      "score": 10315.0
     },
     {
       "clients": 0,
@@ -1018,7 +1018,7 @@
         "vpn": true
       },
       "online": true,
-      "score": 8165.0
+      "score": 8172.0
     },
     {
       "clients": 0,
@@ -1075,7 +1075,7 @@
         "vpn": true
       },
       "online": true,
-      "score": 7655.0
+      "score": 7662.0
     },
     {
       "clients": 1,
@@ -1146,7 +1146,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 5159.580000000657
+      "score": 5166.650000000658
     },
     {
       "clients": 0,
@@ -1212,7 +1212,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 3897.770000000041
+      "score": 3904.770000000041
     },
     {
       "clients": 0,
@@ -1269,7 +1269,7 @@
         "vpn": true
       },
       "online": true,
-      "score": 3414.0
+      "score": 3421.0
     },
     {
       "clients": 0,
@@ -1324,7 +1324,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 2619.0
+      "score": 2626.0
     },
     {
       "clients": 0,
@@ -1381,7 +1381,7 @@
         "vpn": true
       },
       "online": true,
-      "score": 2118.0
+      "score": 2125.0
     },
     {
       "clients": 0,
@@ -1436,7 +1436,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 856.0
+      "score": 863.0
     },
     {
       "clients": 0,
@@ -1505,7 +1505,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 68.60000000000001
+      "score": 61.60000000000001
     },
     {
       "clients": 0,
@@ -1577,9 +1577,82 @@
         "vpn": false
       },
       "online": false,
-      "score": 5.0
+      "score": 8.0
+    },
+    {
+      "clients": 0,
+      "id": "d85d4cd9428a",
+      "name": {
+        "hardware": {
+          "model": "TP-Link TL-WR841N/ND v5",
+          "nproc": 1
+        },
+        "hostname": "Squirrel-Finthen",
+        "location": {
+          "latitude": 49.991832,
+          "longitude": 8.175754
+        },
+        "network": {
+          "addresses": [
+            "fe80::da5d:4cff:fed9:428a",
+            "2a03:2260:11a:700:da5d:4cff:fed9:428a",
+            "2a03:2260:11a:a100:da5d:4cff:fed9:428a",
+            "2a03:2260:11a:e700:da5d:4cff:fed9:428a",
+            "2a03:2260:11a:1700:da5d:4cff:fed9:428a",
+            "2a03:2260:11a:6500:da5d:4cff:fed9:428a",
+            "fd37:b4dc:4b1e::da5d:4cff:fed9:428a"
+          ],
+          "mac": "d8:5d:4c:d9:42:8a",
+          "mesh": {
+            "bat0": {
+              "interfaces": {
+                "other": [
+                  "c6:32:1b:4b:5c:5b"
+                ],
+                "tunnel": [
+                  "c6:32:1b:4b:5c:5f"
+                ],
+                "wireless": [
+                  "c6:32:1b:4b:5c:59"
+                ]
+              }
+            }
+          },
+          "mesh_interfaces": null
+        },
+        "node_id": "d85d4cd9428a",
+        "owner": null,
+        "software": {
+          "autoupdater": {
+            "branch": "stable",
+            "enabled": true
+          },
+          "babeld": {},
+          "batman-adv": {
+            "compat": 15,
+            "version": "2017.2"
+          },
+          "fastd": {
+            "enabled": true,
+            "version": "v18"
+          },
+          "firmware": {
+            "base": "gluon-v2017.1.5",
+            "release": "2017.1.5+mwu1"
+          },
+          "status-page": {
+            "api": 1
+          }
+        },
+        "system": {
+          "site_code": "ffmz"
+        },
+        "vpn": false
+      },
+      "online": false,
+      "score": 3.0
     }
   ],
-  "updated_at": "2019-02-08T00:23:03.539573",
+  "updated_at": "2019-02-08T07:23:03.213706",
   "version": "0.9a8"
 }
