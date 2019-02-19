@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "clients": 165,
+      "clients": 140,
       "id": "0019997cf414",
       "name": {
         "hardware": {
@@ -68,7 +68,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 35882.66999999996
+      "score": 35899.43999999995
     },
     {
       "clients": 1,
@@ -142,10 +142,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 26883.809999995447
+      "score": 26890.879999995435
     },
     {
-      "clients": 6,
+      "clients": 9,
       "id": "e894f6d46bda",
       "name": {
         "hardware": {
@@ -211,7 +211,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 25484.49000000189
+      "score": 25491.960000001895
     },
     {
       "clients": 0,
@@ -280,7 +280,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 23568.300000000945
+      "score": 23575.300000000945
     },
     {
       "clients": 0,
@@ -350,7 +350,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 22034.88999999969
+      "score": 22041.88999999969
     },
     {
       "clients": 1,
@@ -416,7 +416,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 21810.22999999765
+      "score": 21817.29999999764
     },
     {
       "clients": 0,
@@ -486,7 +486,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 21411.070000000054
+      "score": 21418.070000000054
     },
     {
       "clients": 7,
@@ -569,7 +569,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 18799.4099999988
+      "score": 18806.9099999988
     },
     {
       "clients": 0,
@@ -623,7 +623,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 15551.0
+      "score": 15558.0
     },
     {
       "clients": 2,
@@ -690,10 +690,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 13623.970000003008
+      "score": 13631.110000003011
     },
     {
-      "clients": 5,
+      "clients": 9,
       "id": "00199967fba4",
       "name": {
         "hardware": {
@@ -760,7 +760,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 12768.110000000985
+      "score": 12775.500000000982
     },
     {
       "clients": 1,
@@ -779,11 +779,11 @@
         "network": {
           "addresses": [
             "fe80::203:baff:fe37:6190",
+            "2a03:2260:11a:6500:203:baff:fe37:6190",
             "2a03:2260:11a:700:203:baff:fe37:6190",
             "2a03:2260:11a:1700:203:baff:fe37:6190",
-            "2a03:2260:11a:6500:203:baff:fe37:6190",
-            "2a03:2260:11a:e700:203:baff:fe37:6190",
             "2a03:2260:11a:a100:203:baff:fe37:6190",
+            "2a03:2260:11a:e700:203:baff:fe37:6190",
             "fd37:b4dc:4b1e:0:203:baff:fe37:6190"
           ],
           "mac": "00:03:ba:37:61:90",
@@ -834,7 +834,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 11887.170000002092
+      "score": 11894.240000002093
     },
     {
       "clients": 0,
@@ -891,7 +891,7 @@
         "vpn": true
       },
       "online": true,
-      "score": 10572.0
+      "score": 10579.0
     },
     {
       "clients": 0,
@@ -948,7 +948,7 @@
         "vpn": true
       },
       "online": true,
-      "score": 8429.0
+      "score": 8436.0
     },
     {
       "clients": 0,
@@ -1005,7 +1005,7 @@
         "vpn": true
       },
       "online": true,
-      "score": 7919.0
+      "score": 7926.0
     },
     {
       "clients": 1,
@@ -1076,7 +1076,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 5426.220000000714
+      "score": 5433.290000000716
     },
     {
       "clients": 0,
@@ -1142,7 +1142,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 4178.790000000048
+      "score": 4185.790000000048
     },
     {
       "clients": 0,
@@ -1199,7 +1199,7 @@
         "vpn": true
       },
       "online": true,
-      "score": 3678.0
+      "score": 3685.0
     },
     {
       "clients": 0,
@@ -1254,7 +1254,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 2883.0
+      "score": 2890.0
     },
     {
       "clients": 0,
@@ -1311,7 +1311,7 @@
         "vpn": true
       },
       "online": true,
-      "score": 2382.0
+      "score": 2389.0
     },
     {
       "clients": 0,
@@ -1366,7 +1366,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 1120.0
+      "score": 1127.0
     },
     {
       "clients": 0,
@@ -1439,76 +1439,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 6.0
-    },
-    {
-      "clients": 0,
-      "id": "c46e1fdeaaac",
-      "name": {
-        "hardware": {
-          "model": "TP-Link TL-WR841N/ND v9",
-          "nproc": 1
-        },
-        "hostname": "Partenheim-AS-01",
-        "network": {
-          "addresses": [
-            "2a03:2260:11a:1700:c66e:1fff:fede:aaac",
-            "fd37:b4dc:4b1e:0:c66e:1fff:fede:aaac",
-            "2a03:2260:11a:a100:c66e:1fff:fede:aaac",
-            "2a03:2260:11a:700:c66e:1fff:fede:aaac",
-            "2a03:2260:11a:6500:c66e:1fff:fede:aaac",
-            "2a03:2260:11a:e700:c66e:1fff:fede:aaac",
-            "fe80:0:0:0:c66e:1fff:fede:aaac"
-          ],
-          "mac": "c4:6e:1f:de:aa:ac",
-          "mesh": {
-            "bat0": {
-              "interfaces": {
-                "tunnel": [
-                  "c6:72:1f:de:aa:ac"
-                ],
-                "wireless": [
-                  "c6:71:20:de:aa:ac"
-                ]
-              }
-            }
-          },
-          "mesh_interfaces": [
-            "c6:72:1f:de:aa:ac",
-            "c6:71:20:de:aa:ac"
-          ]
-        },
-        "node_id": "c46e1fdeaaac",
-        "owner": null,
-        "software": {
-          "autoupdater": {
-            "branch": "stable",
-            "enabled": true
-          },
-          "babeld": {},
-          "batman-adv": {
-            "compat": 15,
-            "version": "2014.4.0"
-          },
-          "fastd": {
-            "enabled": true,
-            "version": "v17"
-          },
-          "firmware": {
-            "base": "gluon-v2015.1.1",
-            "release": "0.2-stable"
-          },
-          "status-page": {
-            "api": 0
-          }
-        },
-        "system": {
-          "site_code": "ffmz"
-        },
-        "vpn": false
-      },
-      "online": false,
-      "score": 5.0
+      "score": 9.0
     },
     {
       "clients": 0,
@@ -1578,7 +1509,76 @@
         "vpn": false
       },
       "online": false,
-      "score": 5.0
+      "score": 8.0
+    },
+    {
+      "clients": 0,
+      "id": "c46e1fdeaaac",
+      "name": {
+        "hardware": {
+          "model": "TP-Link TL-WR841N/ND v9",
+          "nproc": 1
+        },
+        "hostname": "Partenheim-AS-01",
+        "network": {
+          "addresses": [
+            "2a03:2260:11a:1700:c66e:1fff:fede:aaac",
+            "fd37:b4dc:4b1e:0:c66e:1fff:fede:aaac",
+            "2a03:2260:11a:a100:c66e:1fff:fede:aaac",
+            "2a03:2260:11a:700:c66e:1fff:fede:aaac",
+            "2a03:2260:11a:6500:c66e:1fff:fede:aaac",
+            "2a03:2260:11a:e700:c66e:1fff:fede:aaac",
+            "fe80:0:0:0:c66e:1fff:fede:aaac"
+          ],
+          "mac": "c4:6e:1f:de:aa:ac",
+          "mesh": {
+            "bat0": {
+              "interfaces": {
+                "tunnel": [
+                  "c6:72:1f:de:aa:ac"
+                ],
+                "wireless": [
+                  "c6:71:20:de:aa:ac"
+                ]
+              }
+            }
+          },
+          "mesh_interfaces": [
+            "c6:72:1f:de:aa:ac",
+            "c6:71:20:de:aa:ac"
+          ]
+        },
+        "node_id": "c46e1fdeaaac",
+        "owner": null,
+        "software": {
+          "autoupdater": {
+            "branch": "stable",
+            "enabled": true
+          },
+          "babeld": {},
+          "batman-adv": {
+            "compat": 15,
+            "version": "2014.4.0"
+          },
+          "fastd": {
+            "enabled": true,
+            "version": "v17"
+          },
+          "firmware": {
+            "base": "gluon-v2015.1.1",
+            "release": "0.2-stable"
+          },
+          "status-page": {
+            "api": 0
+          }
+        },
+        "system": {
+          "site_code": "ffmz"
+        },
+        "vpn": false
+      },
+      "online": false,
+      "score": 8.0
     },
     {
       "clients": 0,
@@ -1651,7 +1651,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 3.0
+      "score": 6.0
     },
     {
       "clients": 0,
@@ -1723,7 +1723,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 1.0
+      "score": 4.0
     },
     {
       "clients": 0,
@@ -1798,9 +1798,9 @@
         "vpn": false
       },
       "online": false,
-      "score": 1.0
+      "score": 4.0
     }
   ],
-  "updated_at": "2019-02-19T00:23:03.059490",
+  "updated_at": "2019-02-19T07:23:03.679574",
   "version": "0.9a8"
 }
