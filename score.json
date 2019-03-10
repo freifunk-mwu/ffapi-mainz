@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "clients": 140,
+      "clients": 147,
       "id": "0019997cf414",
       "name": {
         "hardware": {
@@ -68,10 +68,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 36700.449999999975
+      "score": 36717.48999999998
     },
     {
-      "clients": 2,
+      "clients": 1,
       "id": "14cc20857cd8",
       "name": {
         "hardware": {
@@ -142,7 +142,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 27354.619999994724
+      "score": 27361.689999994713
     },
     {
       "clients": 0,
@@ -211,10 +211,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 24034.300000000945
+      "score": 24041.300000000945
     },
     {
-      "clients": 3,
+      "clients": 0,
       "id": "a42bb0ca7958",
       "name": {
         "hardware": {
@@ -281,10 +281,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 22502.539999999626
+      "score": 22509.539999999626
     },
     {
-      "clients": 2,
+      "clients": 1,
       "id": "02d504c191db",
       "name": {
         "hardware": {
@@ -347,7 +347,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 22281.399999996996
+      "score": 22288.479999996987
     },
     {
       "clients": 0,
@@ -417,10 +417,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 21878.29999999994
+      "score": 21885.29999999994
     },
     {
-      "clients": 9,
+      "clients": 7,
       "id": "a42bb0ca87c0",
       "name": {
         "hardware": {
@@ -500,7 +500,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 19298.589999998698
+      "score": 19306.079999998696
     },
     {
       "clients": 0,
@@ -554,7 +554,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 16017.0
+      "score": 16024.0
     },
     {
       "clients": 1,
@@ -621,10 +621,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 14096.260000003138
+      "score": 14103.34000000314
     },
     {
-      "clients": 2,
+      "clients": 5,
       "id": "00199967fba4",
       "name": {
         "hardware": {
@@ -691,7 +691,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 13236.870000001009
+      "score": 13244.080000001011
     },
     {
       "clients": 1,
@@ -765,7 +765,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 12357.850000002194
+      "score": 12364.920000002196
     },
     {
       "clients": 1,
@@ -836,7 +836,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 5896.910000000817
+      "score": 5903.980000000818
     },
     {
       "clients": 0,
@@ -902,7 +902,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 3892.8300000000545
+      "score": 3885.8300000000545
     },
     {
       "clients": 0,
@@ -944,7 +944,8 @@
             "version": "v18-16-g4b8c4f5"
           },
           "firmware": {
-            "base": "Debian"
+            "base": "Debian",
+            "release": "9.8"
           },
           "status-page": {
             "api": 0
@@ -957,7 +958,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 1586.0
+      "score": 1593.0
     },
     {
       "clients": 0,
@@ -1031,7 +1032,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 5.0
+      "score": 8.0
     },
     {
       "clients": 0,
@@ -1101,7 +1102,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 5.0
+      "score": 8.0
     },
     {
       "clients": 0,
@@ -1175,7 +1176,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 2.0
+      "score": 5.0
     },
     {
       "clients": 0,
@@ -1250,7 +1251,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 2.0
+      "score": 5.0
     },
     {
       "clients": 0,
@@ -1325,9 +1326,9 @@
         "vpn": false
       },
       "online": false,
-      "score": 1.0
+      "score": 4.0
     }
   ],
-  "updated_at": "2019-03-10T14:23:03.393495",
+  "updated_at": "2019-03-10T21:23:03.097295",
   "version": "0.9a8"
 }
