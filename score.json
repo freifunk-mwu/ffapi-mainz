@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "clients": 149,
+      "clients": 133,
       "id": "0019997cf414",
       "name": {
         "hardware": {
@@ -68,7 +68,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 37628.929999999964
+      "score": 37645.13999999996
     },
     {
       "clients": 1,
@@ -142,7 +142,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 27752.579999994097
+      "score": 27759.649999994086
     },
     {
       "clients": 0,
@@ -211,7 +211,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 24424.300000000945
+      "score": 24429.300000000945
     },
     {
       "clients": 0,
@@ -281,7 +281,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 22894.809999999543
+      "score": 22901.809999999543
     },
     {
       "clients": 1,
@@ -347,7 +347,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 22682.479999996758
+      "score": 22689.579999996753
     },
     {
       "clients": 2,
@@ -417,7 +417,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 22270.569999999858
+      "score": 22277.70999999986
     },
     {
       "clients": 7,
@@ -500,7 +500,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 19720.29999999859
+      "score": 19727.78999999859
     },
     {
       "clients": 0,
@@ -554,10 +554,10 @@
         "vpn": false
       },
       "online": false,
-      "score": 16157.0
+      "score": 16150.0
     },
     {
-      "clients": 2,
+      "clients": 1,
       "id": "f4ec38bd7dd8",
       "name": {
         "hardware": {
@@ -621,10 +621,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 14497.180000003287
+      "score": 14504.28000000329
     },
     {
-      "clients": 1,
+      "clients": 14,
       "id": "00199967fba4",
       "name": {
         "hardware": {
@@ -691,7 +691,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 13637.540000001034
+      "score": 13644.870000001036
     },
     {
       "clients": 1,
@@ -710,11 +710,11 @@
         "network": {
           "addresses": [
             "fe80::203:baff:fe37:6190",
-            "2a03:2260:11a:a100:203:baff:fe37:6190",
-            "2a03:2260:11a:700:203:baff:fe37:6190",
-            "2a03:2260:11a:6500:203:baff:fe37:6190",
-            "2a03:2260:11a:e700:203:baff:fe37:6190",
             "2a03:2260:11a:1700:203:baff:fe37:6190",
+            "2a03:2260:11a:700:203:baff:fe37:6190",
+            "2a03:2260:11a:e700:203:baff:fe37:6190",
+            "2a03:2260:11a:a100:203:baff:fe37:6190",
+            "2a03:2260:11a:6500:203:baff:fe37:6190",
             "fd37:b4dc:4b1e:0:203:baff:fe37:6190"
           ],
           "mac": "00:03:ba:37:61:90",
@@ -765,7 +765,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 12751.77000000228
+      "score": 12758.840000002281
     },
     {
       "clients": 1,
@@ -836,7 +836,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 6294.850000000903
+      "score": 6301.920000000904
     },
     {
       "clients": 0,
@@ -892,10 +892,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 1980.0
+      "score": 1987.0
     },
     {
-      "clients": 1,
+      "clients": 0,
       "id": "525400d49403",
       "name": {
         "hardware": {
@@ -957,9 +957,9 @@
         "vpn": false
       },
       "online": true,
-      "score": 22.13000000000001
+      "score": 29.19000000000002
     }
   ],
-  "updated_at": "2019-03-27T00:23:03.207883",
+  "updated_at": "2019-03-27T07:23:03.574926",
   "version": "0.9a8"
 }
