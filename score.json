@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "clients": 137,
+      "clients": 104,
       "id": "0019997cf414",
       "name": {
         "hardware": {
@@ -68,7 +68,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 38632.25000000009
+      "score": 38647.42000000009
     },
     {
       "clients": 1,
@@ -142,7 +142,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 28186.149999993464
+      "score": 28193.219999993453
     },
     {
       "clients": 0,
@@ -211,7 +211,73 @@
         "vpn": false
       },
       "online": true,
-      "score": 24853.300000000945
+      "score": 24860.300000000945
+    },
+    {
+      "clients": 1,
+      "id": "02d504c191db",
+      "name": {
+        "hardware": {
+          "model": "LeMaker Banana Pi",
+          "nproc": 2
+        },
+        "hostname": "turmwarp",
+        "location": {
+          "latitude": 49.996576,
+          "longitude": 8.276036
+        },
+        "network": {
+          "addresses": [
+            "fd37:b4dc:4b1e:0:d5:4ff:fec1:91db",
+            "2a03:2260:11a:a100:d5:4ff:fec1:91db",
+            "2a03:2260:11a:6500:d5:4ff:fec1:91db",
+            "2a03:2260:11a:700:d5:4ff:fec1:91db",
+            "2a03:2260:11a:e700:d5:4ff:fec1:91db",
+            "2a03:2260:11a:1700:d5:4ff:fec1:91db",
+            "fe80::d5:4ff:fec1:91db"
+          ],
+          "mac": "02:d5:04:c1:91:db",
+          "mesh": {
+            "bat0": {
+              "interfaces": {
+                "other": [
+                  "a6:4c:10:5b:0a:30"
+                ]
+              }
+            }
+          },
+          "mesh_interfaces": null
+        },
+        "node_id": "02d504c191db",
+        "owner": null,
+        "software": {
+          "autoupdater": {
+            "branch": "stable"
+          },
+          "babeld": {},
+          "batman-adv": {
+            "compat": 15,
+            "version": "2016.0"
+          },
+          "fastd": {
+            "enabled": true,
+            "version": "v18"
+          },
+          "firmware": {
+            "base": "gluon-v2016.1-128-g40d087d",
+            "release": "0.4-experimental-2016.05.07"
+          },
+          "status-page": {
+            "api": 1
+          }
+        },
+        "system": {
+          "site_code": "ffmz"
+        },
+        "vpn": false
+      },
+      "online": true,
+      "score": 23126.079999996527
     },
     {
       "clients": 0,
@@ -280,73 +346,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 23123.34999999946
-    },
-    {
-      "clients": 2,
-      "id": "02d504c191db",
-      "name": {
-        "hardware": {
-          "model": "LeMaker Banana Pi",
-          "nproc": 2
-        },
-        "hostname": "turmwarp",
-        "location": {
-          "latitude": 49.996576,
-          "longitude": 8.276036
-        },
-        "network": {
-          "addresses": [
-            "fd37:b4dc:4b1e:0:d5:4ff:fec1:91db",
-            "2a03:2260:11a:a100:d5:4ff:fec1:91db",
-            "2a03:2260:11a:6500:d5:4ff:fec1:91db",
-            "2a03:2260:11a:700:d5:4ff:fec1:91db",
-            "2a03:2260:11a:e700:d5:4ff:fec1:91db",
-            "2a03:2260:11a:1700:d5:4ff:fec1:91db",
-            "fe80::d5:4ff:fec1:91db"
-          ],
-          "mac": "02:d5:04:c1:91:db",
-          "mesh": {
-            "bat0": {
-              "interfaces": {
-                "other": [
-                  "a6:4c:10:5b:0a:30"
-                ]
-              }
-            }
-          },
-          "mesh_interfaces": null
-        },
-        "node_id": "02d504c191db",
-        "owner": null,
-        "software": {
-          "autoupdater": {
-            "branch": "stable"
-          },
-          "babeld": {},
-          "batman-adv": {
-            "compat": 15,
-            "version": "2016.0"
-          },
-          "fastd": {
-            "enabled": true,
-            "version": "v18"
-          },
-          "firmware": {
-            "base": "gluon-v2016.1-128-g40d087d",
-            "release": "0.4-experimental-2016.05.07"
-          },
-          "status-page": {
-            "api": 1
-          }
-        },
-        "system": {
-          "site_code": "ffmz"
-        },
-        "vpn": false
-      },
-      "online": true,
-      "score": 23118.95999999653
+      "score": 23116.34999999946
     },
     {
       "clients": 0,
@@ -415,7 +415,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 22478.52999999977
+      "score": 22471.52999999977
     },
     {
       "clients": 7,
@@ -498,7 +498,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 20182.26999999851
+      "score": 20189.759999998507
     },
     {
       "clients": 0,
@@ -552,7 +552,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 15726.0
+      "score": 15719.0
     },
     {
       "clients": 2,
@@ -619,10 +619,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 14934.870000003466
+      "score": 14942.02000000347
     },
     {
-      "clients": 6,
+      "clients": 5,
       "id": "00199967fba4",
       "name": {
         "hardware": {
@@ -689,7 +689,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 14096.440000001076
+      "score": 14103.820000001071
     },
     {
       "clients": 1,
@@ -708,10 +708,10 @@
         "network": {
           "addresses": [
             "fe80::203:baff:fe37:6190",
+            "2a03:2260:11a:a100:203:baff:fe37:6190",
+            "2a03:2260:11a:6500:203:baff:fe37:6190",
             "2a03:2260:11a:700:203:baff:fe37:6190",
             "2a03:2260:11a:e700:203:baff:fe37:6190",
-            "2a03:2260:11a:6500:203:baff:fe37:6190",
-            "2a03:2260:11a:a100:203:baff:fe37:6190",
             "2a03:2260:11a:1700:203:baff:fe37:6190",
             "fd37:b4dc:4b1e:0:203:baff:fe37:6190"
           ],
@@ -763,7 +763,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 13187.070000002373
+      "score": 13194.140000002375
     },
     {
       "clients": 1,
@@ -834,7 +834,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 6730.160000000997
+      "score": 6737.230000000998
     },
     {
       "clients": 0,
@@ -890,7 +890,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 2411.0
+      "score": 2418.0
     },
     {
       "clients": 0,
@@ -956,7 +956,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 319.28999999999985
+      "score": 326.28999999999985
     },
     {
       "clients": 0,
@@ -1021,7 +1021,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 152.5099999999989
+      "score": 145.5099999999989
     },
     {
       "clients": 0,
@@ -1095,9 +1095,9 @@
         "vpn": false
       },
       "online": false,
-      "score": 8.0
+      "score": 1.0
     }
   ],
-  "updated_at": "2019-04-14T00:23:03.393585",
+  "updated_at": "2019-04-14T07:23:03.475772",
   "version": "0.9a8"
 }
