@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "clients": 135,
+      "clients": 146,
       "id": "0019997cf414",
       "name": {
         "hardware": {
@@ -68,7 +68,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 38720.1300000001
+      "score": 38736.6600000001
     },
     {
       "clients": 1,
@@ -142,7 +142,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 28224.529999993403
+      "score": 28231.599999993392
     },
     {
       "clients": 0,
@@ -211,7 +211,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 24891.300000000945
+      "score": 24898.300000000945
     },
     {
       "clients": 2,
@@ -277,7 +277,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 23157.739999996516
+      "score": 23164.869999996514
     },
     {
       "clients": 0,
@@ -346,7 +346,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 23085.34999999946
+      "score": 23078.34999999946
     },
     {
       "clients": 0,
@@ -415,7 +415,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 22440.52999999977
+      "score": 22433.52999999977
     },
     {
       "clients": 7,
@@ -498,7 +498,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 20222.949999998502
+      "score": 20230.4299999985
     },
     {
       "clients": 0,
@@ -552,10 +552,10 @@
         "vpn": false
       },
       "online": false,
-      "score": 15688.0
+      "score": 15681.0
     },
     {
-      "clients": 2,
+      "clients": 1,
       "id": "f4ec38bd7dd8",
       "name": {
         "hardware": {
@@ -619,10 +619,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 14973.590000003482
+      "score": 14980.750000003485
     },
     {
-      "clients": 1,
+      "clients": 8,
       "id": "00199967fba4",
       "name": {
         "hardware": {
@@ -689,7 +689,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 14135.780000001081
+      "score": 14143.130000001083
     },
     {
       "clients": 1,
@@ -763,7 +763,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 13225.450000002382
+      "score": 13232.520000002383
     },
     {
       "clients": 1,
@@ -834,7 +834,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 6768.540000001005
+      "score": 6775.6100000010065
     },
     {
       "clients": 0,
@@ -890,10 +890,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 2449.0
+      "score": 2456.0
     },
     {
-      "clients": 1,
+      "clients": 0,
       "id": "687251643275",
       "name": {
         "hardware": {
@@ -956,7 +956,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 357.3699999999998
+      "score": 364.41999999999973
     },
     {
       "clients": 0,
@@ -1021,10 +1021,10 @@
         "vpn": false
       },
       "online": false,
-      "score": 114.50999999999891
+      "score": 107.50999999999891
     },
     {
-      "clients": 1,
+      "clients": 0,
       "id": "a42bb0b0f9ea",
       "name": {
         "hardware": {
@@ -1032,20 +1032,22 @@
           "nproc": 1
         },
         "hostname": "KGV Hartenberg A-2",
-        "location": {
-          "latitude": 50.01195,
-          "longitude": 8.237556
-        },
         "network": {
           "addresses": [
+            "2a03:2260:11a:a100:a62b:b0ff:feb0:f9ea",
             "fe80::a62b:b0ff:feb0:f9ea",
-            "fd37:b4dc:4b1e::a62b:b0ff:feb0:f9ea"
+            "2a03:2260:11a:1700:a62b:b0ff:feb0:f9ea",
+            "fd37:b4dc:4b1e::a62b:b0ff:feb0:f9ea",
+            "2a03:2260:11a:6500:a62b:b0ff:feb0:f9ea",
+            "2a03:2260:11a:e700:a62b:b0ff:feb0:f9ea",
+            "2a03:2260:11a:700:a62b:b0ff:feb0:f9ea"
           ],
           "mac": "a4:2b:b0:b0:f9:ea",
           "mesh": {
             "bat0": {
               "interfaces": {
                 "other": [
+                  "46:e6:da:94:ce:a0",
                   "46:e6:da:94:ce:a3"
                 ],
                 "tunnel": [
@@ -1088,10 +1090,10 @@
         },
         "vpn": false
       },
-      "online": true,
-      "score": 2.01
+      "online": false,
+      "score": 8.01
     }
   ],
-  "updated_at": "2019-04-15T14:23:04.020937",
+  "updated_at": "2019-04-15T21:23:03.965725",
   "version": "0.9a8"
 }
