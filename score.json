@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "clients": 153,
+      "clients": 116,
       "id": "0019997cf414",
       "name": {
         "hardware": {
@@ -68,10 +68,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 38853.3300000001
+      "score": 38869.0500000001
     },
     {
-      "clients": 0,
+      "clients": 1,
       "id": "14cc20857cd8",
       "name": {
         "hardware": {
@@ -141,8 +141,8 @@
         },
         "vpn": false
       },
-      "online": false,
-      "score": 28265.029999993327
+      "online": true,
+      "score": 28272.099999993316
     },
     {
       "clients": 0,
@@ -211,10 +211,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 24949.300000000945
+      "score": 24956.300000000945
     },
     {
-      "clients": 1,
+      "clients": 2,
       "id": "02d504c191db",
       "name": {
         "hardware": {
@@ -277,7 +277,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 23216.809999996505
+      "score": 23223.929999996504
     },
     {
       "clients": 0,
@@ -346,7 +346,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 23027.34999999946
+      "score": 23020.34999999946
     },
     {
       "clients": 0,
@@ -415,7 +415,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 22382.52999999977
+      "score": 22375.52999999977
     },
     {
       "clients": 7,
@@ -498,7 +498,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 20285.03999999849
+      "score": 20292.52999999849
     },
     {
       "clients": 0,
@@ -552,10 +552,10 @@
         "vpn": false
       },
       "online": false,
-      "score": 15630.0
+      "score": 15623.0
     },
     {
-      "clients": 0,
+      "clients": 2,
       "id": "f4ec38bd7dd8",
       "name": {
         "hardware": {
@@ -618,11 +618,11 @@
         },
         "vpn": false
       },
-      "online": false,
-      "score": 15014.610000003504
+      "online": true,
+      "score": 15021.750000003507
     },
     {
-      "clients": 5,
+      "clients": 11,
       "id": "00199967fba4",
       "name": {
         "hardware": {
@@ -689,7 +689,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 14196.290000001098
+      "score": 14203.690000001101
     },
     {
       "clients": 1,
@@ -709,10 +709,10 @@
           "addresses": [
             "fe80::203:baff:fe37:6190",
             "2a03:2260:11a:a100:203:baff:fe37:6190",
-            "2a03:2260:11a:6500:203:baff:fe37:6190",
-            "2a03:2260:11a:700:203:baff:fe37:6190",
-            "2a03:2260:11a:1700:203:baff:fe37:6190",
             "2a03:2260:11a:e700:203:baff:fe37:6190",
+            "2a03:2260:11a:1700:203:baff:fe37:6190",
+            "2a03:2260:11a:700:203:baff:fe37:6190",
+            "2a03:2260:11a:6500:203:baff:fe37:6190",
             "fd37:b4dc:4b1e:0:203:baff:fe37:6190"
           ],
           "mac": "00:03:ba:37:61:90",
@@ -763,7 +763,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 13284.030000002394
+      "score": 13291.100000002396
     },
     {
       "clients": 1,
@@ -834,7 +834,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 6827.120000001018
+      "score": 6834.190000001019
     },
     {
       "clients": 0,
@@ -890,7 +890,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 2507.0
+      "score": 2514.0
     },
     {
       "clients": 0,
@@ -956,7 +956,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 415.8199999999997
+      "score": 422.8199999999997
     },
     {
       "clients": 0,
@@ -1021,7 +1021,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 56.50999999999891
+      "score": 49.50999999999891
     },
     {
       "clients": 0,
@@ -1090,9 +1090,9 @@
         "vpn": false
       },
       "online": false,
-      "score": 8.0
+      "score": 1.0
     }
   ],
-  "updated_at": "2019-04-18T00:23:03.575645",
+  "updated_at": "2019-04-18T07:23:04.565552",
   "version": "0.9a8"
 }
