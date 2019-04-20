@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "clients": 144,
+      "clients": 131,
       "id": "0019997cf414",
       "name": {
         "hardware": {
@@ -68,7 +68,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 38994.790000000095
+      "score": 39010.7300000001
     },
     {
       "clients": 0,
@@ -143,7 +143,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 28327.62999999323
+      "score": 28334.62999999323
     },
     {
       "clients": 0,
@@ -212,10 +212,10 @@
         "vpn": false
       },
       "online": false,
-      "score": 24917.300000000945
+      "score": 24910.300000000945
     },
     {
-      "clients": 1,
+      "clients": 3,
       "id": "02d504c191db",
       "name": {
         "hardware": {
@@ -278,7 +278,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 23279.939999996495
+      "score": 23287.079999996495
     },
     {
       "clients": 0,
@@ -347,7 +347,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 22965.34999999946
+      "score": 22958.34999999946
     },
     {
       "clients": 0,
@@ -416,7 +416,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 22320.52999999977
+      "score": 22313.52999999977
     },
     {
       "clients": 7,
@@ -499,64 +499,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 20351.40999999848
+      "score": 20358.899999998477
     },
     {
-      "clients": 0,
-      "id": "02410a250103",
-      "name": {
-        "hardware": {
-          "nproc": 4
-        },
-        "hostname": "aubergine",
-        "network": {
-          "addresses": [
-            "fe80::42:aff:fe25:103",
-            "fd37:b4dc:4b1e::a25:103",
-            "fe80::64bc:99ff:fe74:3b59"
-          ],
-          "mac": "02:41:0a:25:01:03",
-          "mesh": {
-            "mzBAT": {
-              "interfaces": {
-                "tunnel": [
-                  "02:00:0a:25:01:03"
-                ]
-              }
-            }
-          },
-          "mesh_interfaces": null
-        },
-        "node_id": "02410a250103",
-        "owner": null,
-        "software": {
-          "autoupdater": {},
-          "babeld": {},
-          "batman-adv": {
-            "version": "2017.1"
-          },
-          "fastd": {
-            "enabled": true,
-            "version": "v17"
-          },
-          "firmware": {
-            "base": "Ubuntu",
-            "release": "14.04"
-          },
-          "status-page": {
-            "api": 0
-          }
-        },
-        "system": {
-          "site_code": "ffmz"
-        },
-        "vpn": false
-      },
-      "online": false,
-      "score": 15568.0
-    },
-    {
-      "clients": 3,
+      "clients": 2,
       "id": "f4ec38bd7dd8",
       "name": {
         "hardware": {
@@ -620,10 +566,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 15077.940000003531
+      "score": 15085.100000003535
     },
     {
-      "clients": 2,
+      "clients": 5,
       "id": "00199967fba4",
       "name": {
         "hardware": {
@@ -690,7 +636,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 14260.560000001127
+      "score": 14267.79000000113
     },
     {
       "clients": 1,
@@ -764,7 +710,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 13346.650000002408
+      "score": 13353.72000000241
     },
     {
       "clients": 1,
@@ -835,7 +781,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 6889.740000001031
+      "score": 6896.810000001033
     },
     {
       "clients": 0,
@@ -891,7 +837,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 2569.0
+      "score": 2576.0
     },
     {
       "clients": 0,
@@ -957,7 +903,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 478.25999999999954
+      "score": 485.25999999999954
     },
     {
       "clients": 0,
@@ -1026,7 +972,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 6.0
+      "score": 9.0
     },
     {
       "clients": 0,
@@ -1091,9 +1037,9 @@
         "vpn": false
       },
       "online": false,
-      "score": 5.0
+      "score": 8.0
     }
   ],
-  "updated_at": "2019-04-20T14:23:03.665696",
+  "updated_at": "2019-04-20T21:23:03.099212",
   "version": "0.9a8"
 }
