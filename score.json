@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "clients": 133,
+      "clients": 150,
       "id": "0019997cf414",
       "name": {
         "hardware": {
@@ -68,7 +68,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 39100.17000000009
+      "score": 39116.24000000009
     },
     {
       "clients": 0,
@@ -143,7 +143,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 28375.62999999323
+      "score": 28382.62999999323
     },
     {
       "clients": 0,
@@ -212,10 +212,10 @@
         "vpn": false
       },
       "online": false,
-      "score": 24869.300000000945
+      "score": 24862.300000000945
     },
     {
-      "clients": 4,
+      "clients": 1,
       "id": "02d504c191db",
       "name": {
         "hardware": {
@@ -278,7 +278,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 23328.919999996473
+      "score": 23336.019999996468
     },
     {
       "clients": 0,
@@ -347,7 +347,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 22917.34999999946
+      "score": 22910.34999999946
     },
     {
       "clients": 0,
@@ -416,7 +416,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 22272.52999999977
+      "score": 22265.52999999977
     },
     {
       "clients": 7,
@@ -499,7 +499,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 20402.769999998465
+      "score": 20410.259999998463
     },
     {
       "clients": 2,
@@ -566,10 +566,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 15127.000000003554
+      "score": 15134.170000003558
     },
     {
-      "clients": 5,
+      "clients": 3,
       "id": "00199967fba4",
       "name": {
         "hardware": {
@@ -636,7 +636,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 14309.610000001145
+      "score": 14316.730000001147
     },
     {
       "clients": 1,
@@ -710,7 +710,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 13395.130000002418
+      "score": 13402.20000000242
     },
     {
       "clients": 1,
@@ -781,7 +781,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 6938.220000001042
+      "score": 6945.290000001043
     },
     {
       "clients": 0,
@@ -837,7 +837,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 2617.0
+      "score": 2624.0
     },
     {
       "clients": 0,
@@ -903,72 +903,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 526.3099999999995
-    },
-    {
-      "clients": 0,
-      "id": "525400d49403",
-      "name": {
-        "hardware": {
-          "model": "Westmere E56xx/L56xx/X56xx (Nehalem-C)",
-          "nproc": 1
-        },
-        "hostname": "miomate",
-        "network": {
-          "addresses": [
-            "fd37:b4dc:4b1e:0:5054:ff:fed4:9403",
-            "fe80::5054:ff:fed4:9403",
-            "2a03:2260:11a:1700:5054:ff:fed4:9403",
-            "2a03:2260:11a:700:5054:ff:fed4:9403",
-            "2a03:2260:11a:6500:5054:ff:fed4:9403",
-            "2a03:2260:11a:e700:5054:ff:fed4:9403",
-            "2a03:2260:11a:a100:5054:ff:fed4:9403"
-          ],
-          "mac": "52:54:00:d4:94:03",
-          "mesh": {
-            "bat0": {
-              "interfaces": {
-                "other": [
-                  "4e:6c:f4:79:38:d3"
-                ],
-                "tunnel": [
-                  "4e:6c:f4:79:38:d7"
-                ]
-              }
-            }
-          },
-          "mesh_interfaces": null
-        },
-        "node_id": "525400d49403",
-        "owner": null,
-        "software": {
-          "autoupdater": {
-            "branch": "testing"
-          },
-          "babeld": {},
-          "batman-adv": {
-            "compat": 15,
-            "version": "2016.2"
-          },
-          "fastd": {
-            "enabled": true,
-            "version": "v18"
-          },
-          "firmware": {
-            "base": "gluon-v2016.2.3",
-            "release": "2016.2.3+mwu1~aes"
-          },
-          "status-page": {
-            "api": 1
-          }
-        },
-        "system": {
-          "site_code": "ffmz"
-        },
-        "vpn": false
-      },
-      "online": false,
-      "score": 7.0
+      "score": 533.3099999999995
     },
     {
       "clients": 0,
@@ -1039,9 +974,9 @@
         "vpn": false
       },
       "online": false,
-      "score": 5.0
+      "score": 8.0
     }
   ],
-  "updated_at": "2019-04-22T14:23:03.198515",
+  "updated_at": "2019-04-22T21:23:03.302270",
   "version": "0.9a8"
 }
