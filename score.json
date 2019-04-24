@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "clients": 145,
+      "clients": 129,
       "id": "0019997cf414",
       "name": {
         "hardware": {
@@ -68,7 +68,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 39208.02000000007
+      "score": 39224.870000000075
     },
     {
       "clients": 0,
@@ -143,7 +143,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 28423.62999999323
+      "score": 28430.62999999323
     },
     {
       "clients": 0,
@@ -212,7 +212,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 24821.300000000945
+      "score": 24814.300000000945
     },
     {
       "clients": 3,
@@ -278,7 +278,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 23377.749999996442
+      "score": 23384.959999996434
     },
     {
       "clients": 0,
@@ -347,7 +347,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 22869.34999999946
+      "score": 22862.34999999946
     },
     {
       "clients": 0,
@@ -416,7 +416,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 22224.52999999977
+      "score": 22217.52999999977
     },
     {
       "clients": 7,
@@ -499,10 +499,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 20454.149999998455
+      "score": 20461.639999998453
     },
     {
-      "clients": 2,
+      "clients": 1,
       "id": "f4ec38bd7dd8",
       "name": {
         "hardware": {
@@ -566,10 +566,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 15176.120000003579
+      "score": 15183.220000003581
     },
     {
-      "clients": 4,
+      "clients": 7,
       "id": "00199967fba4",
       "name": {
         "hardware": {
@@ -636,7 +636,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 14359.380000001158
+      "score": 14366.770000001155
     },
     {
       "clients": 1,
@@ -710,7 +710,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 13443.610000002429
+      "score": 13450.68000000243
     },
     {
       "clients": 1,
@@ -781,7 +781,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 6986.700000001052
+      "score": 6993.770000001054
     },
     {
       "clients": 0,
@@ -837,7 +837,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 2665.0
+      "score": 2672.0
     },
     {
       "clients": 1,
@@ -903,7 +903,80 @@
         "vpn": false
       },
       "online": true,
-      "score": 574.5099999999995
+      "score": 581.5499999999995
+    },
+    {
+      "clients": 0,
+      "id": "f4f26dff3280",
+      "name": {
+        "hardware": {
+          "model": "TP-Link TL-WR841N/ND v11",
+          "nproc": 1
+        },
+        "hostname": "BFH1",
+        "location": {
+          "latitude": 49.863857,
+          "longitude": 7.828982
+        },
+        "network": {
+          "addresses": [
+            "2a03:2260:11a:1700:f6f2:6dff:feff:3280",
+            "2a03:2260:11a:e700:f6f2:6dff:feff:3280",
+            "2a03:2260:11a:6500:f6f2:6dff:feff:3280",
+            "2a03:2260:11a:a100:f6f2:6dff:feff:3280",
+            "2a03:2260:11a:700:f6f2:6dff:feff:3280",
+            "fe80::f6f2:6dff:feff:3280",
+            "fd37:b4dc:4b1e::f6f2:6dff:feff:3280"
+          ],
+          "mac": "f4:f2:6d:ff:32:80",
+          "mesh": {
+            "bat0": {
+              "interfaces": {
+                "other": [
+                  "36:8f:3f:cb:ec:7b"
+                ],
+                "tunnel": [
+                  "36:8f:3f:cb:ec:7f"
+                ],
+                "wireless": [
+                  "36:8f:3f:cb:ec:79"
+                ]
+              }
+            }
+          },
+          "mesh_interfaces": null
+        },
+        "node_id": "f4f26dff3280",
+        "owner": null,
+        "software": {
+          "autoupdater": {
+            "branch": "stable",
+            "enabled": true
+          },
+          "babeld": {},
+          "batman-adv": {
+            "compat": 15,
+            "version": "2017.2"
+          },
+          "fastd": {
+            "enabled": true,
+            "version": "v18"
+          },
+          "firmware": {
+            "base": "gluon-v2017.1.8",
+            "release": "2017.1.8+mwu1"
+          },
+          "status-page": {
+            "api": 1
+          }
+        },
+        "system": {
+          "site_code": "ffmz"
+        },
+        "vpn": false
+      },
+      "online": false,
+      "score": 6.0
     },
     {
       "clients": 0,
@@ -968,80 +1041,9 @@
         "vpn": false
       },
       "online": false,
-      "score": 9.0
-    },
-    {
-      "clients": 0,
-      "id": "a42bb0b0f9ea",
-      "name": {
-        "hardware": {
-          "model": "TP-Link CPE210 v1.1",
-          "nproc": 1
-        },
-        "hostname": "KGV Hartenberg A5",
-        "network": {
-          "addresses": [
-            "2a03:2260:11a:a100:a62b:b0ff:feb0:f9ea",
-            "fe80::a62b:b0ff:feb0:f9ea",
-            "2a03:2260:11a:1700:a62b:b0ff:feb0:f9ea",
-            "fd37:b4dc:4b1e::a62b:b0ff:feb0:f9ea",
-            "2a03:2260:11a:6500:a62b:b0ff:feb0:f9ea",
-            "2a03:2260:11a:e700:a62b:b0ff:feb0:f9ea",
-            "2a03:2260:11a:700:a62b:b0ff:feb0:f9ea"
-          ],
-          "mac": "a4:2b:b0:b0:f9:ea",
-          "mesh": {
-            "bat0": {
-              "interfaces": {
-                "other": [
-                  "46:e6:da:94:ce:a4",
-                  "46:e6:da:94:ce:a0",
-                  "46:e6:da:94:ce:a3"
-                ],
-                "tunnel": [
-                  "46:e6:da:94:ce:a7"
-                ],
-                "wireless": [
-                  "46:e6:da:94:ce:a1"
-                ]
-              }
-            }
-          },
-          "mesh_interfaces": null
-        },
-        "node_id": "a42bb0b0f9ea",
-        "owner": null,
-        "software": {
-          "autoupdater": {
-            "branch": "stable",
-            "enabled": true
-          },
-          "babeld": {},
-          "batman-adv": {
-            "compat": 15,
-            "version": "2017.2"
-          },
-          "fastd": {
-            "enabled": true,
-            "version": "v18"
-          },
-          "firmware": {
-            "base": "gluon-v2017.1.4",
-            "release": "2017.1.4+mwu1"
-          },
-          "status-page": {
-            "api": 1
-          }
-        },
-        "system": {
-          "site_code": "ffmz"
-        },
-        "vpn": false
-      },
-      "online": false,
-      "score": 7.0
+      "score": 2.0
     }
   ],
-  "updated_at": "2019-04-24T14:23:03.006889",
+  "updated_at": "2019-04-24T21:23:03.734777",
   "version": "0.9a8"
 }
