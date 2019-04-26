@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "clients": 104,
+      "clients": 0,
       "id": "0019997cf414",
       "name": {
         "hardware": {
@@ -67,8 +67,8 @@
         },
         "vpn": false
       },
-      "online": true,
-      "score": 39300.62000000006
+      "online": false,
+      "score": 39312.730000000054
     },
     {
       "clients": 0,
@@ -143,7 +143,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 28464.62999999323
+      "score": 28471.62999999323
     },
     {
       "clients": 0,
@@ -212,10 +212,10 @@
         "vpn": false
       },
       "online": false,
-      "score": 24780.300000000945
+      "score": 24773.300000000945
     },
     {
-      "clients": 3,
+      "clients": 0,
       "id": "02d504c191db",
       "name": {
         "hardware": {
@@ -277,8 +277,8 @@
         },
         "vpn": false
       },
-      "online": true,
-      "score": 23419.799999996416
+      "online": false,
+      "score": 23424.939999996415
     },
     {
       "clients": 0,
@@ -347,7 +347,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 22828.34999999946
+      "score": 22821.34999999946
     },
     {
       "clients": 0,
@@ -416,7 +416,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 22183.52999999977
+      "score": 22176.52999999977
     },
     {
       "clients": 7,
@@ -499,10 +499,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 20498.019999998443
+      "score": 20505.50999999844
     },
     {
-      "clients": 1,
+      "clients": 2,
       "id": "f4ec38bd7dd8",
       "name": {
         "hardware": {
@@ -566,10 +566,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 15217.740000003592
+      "score": 15224.860000003595
     },
     {
-      "clients": 4,
+      "clients": 3,
       "id": "00199967fba4",
       "name": {
         "hardware": {
@@ -636,10 +636,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 14401.950000001167
+      "score": 14409.220000001169
     },
     {
-      "clients": 1,
+      "clients": 0,
       "id": "0003ba376190",
       "name": {
         "hardware": {
@@ -709,8 +709,8 @@
         },
         "vpn": false
       },
-      "online": true,
-      "score": 13485.020000002438
+      "online": false,
+      "score": 13490.08000000244
     },
     {
       "clients": 1,
@@ -781,7 +781,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 7028.110000001061
+      "score": 7035.180000001063
     },
     {
       "clients": 0,
@@ -836,8 +836,8 @@
         },
         "vpn": false
       },
-      "online": true,
-      "score": 2706.0
+      "online": false,
+      "score": 2711.0
     },
     {
       "clients": 0,
@@ -903,72 +903,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 615.6499999999994
-    },
-    {
-      "clients": 0,
-      "id": "525400d49403",
-      "name": {
-        "hardware": {
-          "model": "Westmere E56xx/L56xx/X56xx (Nehalem-C)",
-          "nproc": 1
-        },
-        "hostname": "miomate",
-        "network": {
-          "addresses": [
-            "fd37:b4dc:4b1e:0:5054:ff:fed4:9403",
-            "fe80::5054:ff:fed4:9403",
-            "2a03:2260:11a:1700:5054:ff:fed4:9403",
-            "2a03:2260:11a:700:5054:ff:fed4:9403",
-            "2a03:2260:11a:6500:5054:ff:fed4:9403",
-            "2a03:2260:11a:e700:5054:ff:fed4:9403",
-            "2a03:2260:11a:a100:5054:ff:fed4:9403"
-          ],
-          "mac": "52:54:00:d4:94:03",
-          "mesh": {
-            "bat0": {
-              "interfaces": {
-                "other": [
-                  "4e:6c:f4:79:38:d3"
-                ],
-                "tunnel": [
-                  "4e:6c:f4:79:38:d7"
-                ]
-              }
-            }
-          },
-          "mesh_interfaces": null
-        },
-        "node_id": "525400d49403",
-        "owner": null,
-        "software": {
-          "autoupdater": {
-            "branch": "testing"
-          },
-          "babeld": {},
-          "batman-adv": {
-            "compat": 15,
-            "version": "2016.2"
-          },
-          "fastd": {
-            "enabled": true,
-            "version": "v18"
-          },
-          "firmware": {
-            "base": "gluon-v2016.2.3",
-            "release": "2016.2.3+mwu1~aes"
-          },
-          "status-page": {
-            "api": 1
-          }
-        },
-        "system": {
-          "site_code": "ffmz"
-        },
-        "vpn": false
-      },
-      "online": false,
-      "score": 8.0
+      "score": 622.6699999999994
     },
     {
       "clients": 0,
@@ -1039,7 +974,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 6.0
+      "score": 9.0
     },
     {
       "clients": 0,
@@ -1112,9 +1047,74 @@
         "vpn": false
       },
       "online": false,
-      "score": 4.0
+      "score": 7.0
+    },
+    {
+      "clients": 0,
+      "id": "525400d49403",
+      "name": {
+        "hardware": {
+          "model": "Westmere E56xx/L56xx/X56xx (Nehalem-C)",
+          "nproc": 1
+        },
+        "hostname": "miomate",
+        "network": {
+          "addresses": [
+            "fd37:b4dc:4b1e:0:5054:ff:fed4:9403",
+            "fe80::5054:ff:fed4:9403",
+            "2a03:2260:11a:1700:5054:ff:fed4:9403",
+            "2a03:2260:11a:700:5054:ff:fed4:9403",
+            "2a03:2260:11a:6500:5054:ff:fed4:9403",
+            "2a03:2260:11a:e700:5054:ff:fed4:9403",
+            "2a03:2260:11a:a100:5054:ff:fed4:9403"
+          ],
+          "mac": "52:54:00:d4:94:03",
+          "mesh": {
+            "bat0": {
+              "interfaces": {
+                "other": [
+                  "4e:6c:f4:79:38:d3"
+                ],
+                "tunnel": [
+                  "4e:6c:f4:79:38:d7"
+                ]
+              }
+            }
+          },
+          "mesh_interfaces": null
+        },
+        "node_id": "525400d49403",
+        "owner": null,
+        "software": {
+          "autoupdater": {
+            "branch": "testing"
+          },
+          "babeld": {},
+          "batman-adv": {
+            "compat": 15,
+            "version": "2016.2"
+          },
+          "fastd": {
+            "enabled": true,
+            "version": "v18"
+          },
+          "firmware": {
+            "base": "gluon-v2016.2.3",
+            "release": "2016.2.3+mwu1~aes"
+          },
+          "status-page": {
+            "api": 1
+          }
+        },
+        "system": {
+          "site_code": "ffmz"
+        },
+        "vpn": false
+      },
+      "online": false,
+      "score": 1.0
     }
   ],
-  "updated_at": "2019-04-26T07:23:03.319241",
+  "updated_at": "2019-04-26T14:23:03.648006",
   "version": "0.9a8"
 }
