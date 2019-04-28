@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "clients": 143,
+      "clients": 106,
       "id": "0019997cf414",
       "name": {
         "hardware": {
@@ -68,7 +68,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 39382.30000000006
+      "score": 39397.670000000064
     },
     {
       "clients": 0,
@@ -143,7 +143,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 28505.62999999323
+      "score": 28512.62999999323
     },
     {
       "clients": 0,
@@ -212,10 +212,10 @@
         "vpn": false
       },
       "online": false,
-      "score": 24739.300000000945
+      "score": 24732.300000000945
     },
     {
-      "clients": 1,
+      "clients": 2,
       "id": "02d504c191db",
       "name": {
         "hardware": {
@@ -278,7 +278,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 23455.70999999641
+      "score": 23462.84999999641
     },
     {
       "clients": 0,
@@ -347,7 +347,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 22787.34999999946
+      "score": 22780.34999999946
     },
     {
       "clients": 0,
@@ -416,7 +416,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 22142.52999999977
+      "score": 22135.52999999977
     },
     {
       "clients": 7,
@@ -499,7 +499,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 20541.88999999843
+      "score": 20549.37999999843
     },
     {
       "clients": 1,
@@ -566,10 +566,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 15259.510000003607
+      "score": 15266.580000003609
     },
     {
-      "clients": 8,
+      "clients": 5,
       "id": "00199967fba4",
       "name": {
         "hardware": {
@@ -636,22 +636,17 @@
         "vpn": false
       },
       "online": true,
-      "score": 14444.610000001177
+      "score": 14451.950000001178
     },
     {
-      "clients": 1,
+      "clients": 0,
       "id": "0003ba376190",
       "name": {
         "hardware": {
           "model": "Common KVM processor",
           "nproc": 1
         },
-        "hostname": "ABI-Martinskirche",
-        "location": {
-          "altitude": 62,
-          "latitude": 51.74760801,
-          "longitude": 11.98679209
-        },
+        "hostname": "offline",
         "network": {
           "addresses": [
             "fe80::203:baff:fe37:6190",
@@ -709,8 +704,8 @@
         },
         "vpn": false
       },
-      "online": true,
-      "score": 13520.400000002446
+      "online": false,
+      "score": 13513.400000002446
     },
     {
       "clients": 1,
@@ -781,7 +776,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 7069.52000000107
+      "score": 7076.5900000010715
     },
     {
       "clients": 0,
@@ -824,7 +819,7 @@
           },
           "firmware": {
             "base": "Debian",
-            "release": "9.8"
+            "release": "9.9"
           },
           "status-page": {
             "api": 0
@@ -837,7 +832,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 2741.0
+      "score": 2748.0
     },
     {
       "clients": 0,
@@ -903,72 +898,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 656.7799999999993
-    },
-    {
-      "clients": 0,
-      "id": "525400d49403",
-      "name": {
-        "hardware": {
-          "model": "Westmere E56xx/L56xx/X56xx (Nehalem-C)",
-          "nproc": 1
-        },
-        "hostname": "miomate",
-        "network": {
-          "addresses": [
-            "fd37:b4dc:4b1e:0:5054:ff:fed4:9403",
-            "fe80::5054:ff:fed4:9403",
-            "2a03:2260:11a:1700:5054:ff:fed4:9403",
-            "2a03:2260:11a:700:5054:ff:fed4:9403",
-            "2a03:2260:11a:6500:5054:ff:fed4:9403",
-            "2a03:2260:11a:e700:5054:ff:fed4:9403",
-            "2a03:2260:11a:a100:5054:ff:fed4:9403"
-          ],
-          "mac": "52:54:00:d4:94:03",
-          "mesh": {
-            "bat0": {
-              "interfaces": {
-                "other": [
-                  "4e:6c:f4:79:38:d3"
-                ],
-                "tunnel": [
-                  "4e:6c:f4:79:38:d7"
-                ]
-              }
-            }
-          },
-          "mesh_interfaces": null
-        },
-        "node_id": "525400d49403",
-        "owner": null,
-        "software": {
-          "autoupdater": {
-            "branch": "testing"
-          },
-          "babeld": {},
-          "batman-adv": {
-            "compat": 15,
-            "version": "2016.2"
-          },
-          "fastd": {
-            "enabled": true,
-            "version": "v18"
-          },
-          "firmware": {
-            "base": "gluon-v2016.2.3",
-            "release": "2016.2.3+mwu1~aes"
-          },
-          "status-page": {
-            "api": 1
-          }
-        },
-        "system": {
-          "site_code": "ffmz"
-        },
-        "vpn": false
-      },
-      "online": false,
-      "score": 7.0
+      "score": 663.7799999999993
     },
     {
       "clients": 0,
@@ -1039,7 +969,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 5.0
+      "score": 8.0
     },
     {
       "clients": 0,
@@ -1112,9 +1042,9 @@
         "vpn": false
       },
       "online": false,
-      "score": 3.0
+      "score": 6.0
     }
   ],
-  "updated_at": "2019-04-28T00:23:02.960680",
+  "updated_at": "2019-04-28T07:23:03.268781",
   "version": "0.9a8"
 }
