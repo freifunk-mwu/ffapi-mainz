@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "clients": 130,
+      "clients": 134,
       "id": "0019997cf414",
       "name": {
         "hardware": {
@@ -68,75 +68,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 39474.2300000001
-    },
-    {
-      "clients": 0,
-      "id": "0002b322a2eb",
-      "name": {
-        "hardware": {
-          "model": "AMD Sempron(tm) Processor 200U",
-          "nproc": 1
-        },
-        "hostname": "FF-Aarbg-Freibad",
-        "location": {
-          "latitude": 50.227908,
-          "longitude": 8.067173
-        },
-        "network": {
-          "addresses": [
-            "fd37:b4dc:4b1e:0:202:b3ff:fe22:a2eb",
-            "2a03:2260:11a:1700:202:b3ff:fe22:a2eb",
-            "2a03:2260:11a:6500:202:b3ff:fe22:a2eb",
-            "2a03:2260:11a:e700:202:b3ff:fe22:a2eb",
-            "2a03:2260:11a:700:202:b3ff:fe22:a2eb",
-            "fe80::202:b3ff:fe22:a2eb"
-          ],
-          "mac": "00:02:b3:22:a2:eb",
-          "mesh": {
-            "bat0": {
-              "interfaces": {
-                "other": [
-                  "02:03:b4:22:a2:eb"
-                ],
-                "tunnel": [
-                  "02:06:b3:22:a2:eb"
-                ]
-              }
-            }
-          },
-          "mesh_interfaces": null
-        },
-        "node_id": "0002b322a2eb",
-        "owner": null,
-        "software": {
-          "autoupdater": {
-            "branch": "stable"
-          },
-          "babeld": {},
-          "batman-adv": {
-            "compat": 15,
-            "version": "2015.1"
-          },
-          "fastd": {
-            "enabled": true,
-            "version": "v17"
-          },
-          "firmware": {
-            "base": "gluon-v2016.1.4",
-            "release": "0.3.1-beta-2016.04.28"
-          },
-          "status-page": {
-            "api": 1
-          }
-        },
-        "system": {
-          "site_code": "ffmz"
-        },
-        "vpn": false
-      },
-      "online": false,
-      "score": 24557.300000000945
+      "score": 39490.6600000001
     },
     {
       "clients": 1,
@@ -202,10 +134,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 23445.239999996367
+      "score": 23452.309999996356
     },
     {
-      "clients": 1,
+      "clients": 0,
       "id": "a42bb0ca7958",
       "name": {
         "hardware": {
@@ -272,10 +204,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 22647.35999999946
+      "score": 22654.379999999455
     },
     {
-      "clients": 1,
+      "clients": 0,
       "id": "a42bb0ca778e",
       "name": {
         "hardware": {
@@ -342,7 +274,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 22002.609999999757
+      "score": 22009.619999999755
     },
     {
       "clients": 7,
@@ -425,7 +357,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 20736.62999999838
+      "score": 20744.119999998376
     },
     {
       "clients": 7,
@@ -495,7 +427,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 14634.060000001225
+      "score": 14641.610000001225
     },
     {
       "clients": 0,
@@ -564,7 +496,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 13338.400000002446
+      "score": 13331.400000002446
     },
     {
       "clients": 1,
@@ -635,7 +567,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 7253.34000000111
+      "score": 7260.410000001111
     },
     {
       "clients": 0,
@@ -691,10 +623,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 2729.0
+      "score": 2736.0
     },
     {
-      "clients": 1,
+      "clients": 0,
       "id": "687251643275",
       "name": {
         "hardware": {
@@ -757,7 +689,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 840.0999999999989
+      "score": 847.409999999999
     },
     {
       "clients": 0,
@@ -822,7 +754,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 5.0
+      "score": 8.0
     },
     {
       "clients": 0,
@@ -893,7 +825,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 3.0
+      "score": 6.0
     },
     {
       "clients": 0,
@@ -966,9 +898,9 @@
         "vpn": false
       },
       "online": false,
-      "score": 3.0
+      "score": 6.0
     }
   ],
-  "updated_at": "2019-05-05T14:23:03.414915",
+  "updated_at": "2019-05-05T21:23:03.709341",
   "version": "0.9a8"
 }
