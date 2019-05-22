@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "clients": 141,
+      "clients": 122,
       "id": "0019997cf414",
       "name": {
         "hardware": {
@@ -68,7 +68,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 40366.67000000009
+      "score": 40382.37000000009
     },
     {
       "clients": 2,
@@ -134,7 +134,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 23845.82999999615
+      "score": 23852.98999999615
     },
     {
       "clients": 1,
@@ -204,7 +204,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 23043.279999999348
+      "score": 23050.349999999336
     },
     {
       "clients": 1,
@@ -274,7 +274,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 22397.149999999587
+      "score": 22404.219999999576
     },
     {
       "clients": 7,
@@ -357,10 +357,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 21158.209999998264
+      "score": 21165.69999999826
     },
     {
-      "clients": 11,
+      "clients": 21,
       "id": "00199967fba4",
       "name": {
         "hardware": {
@@ -427,7 +427,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 15061.730000001231
+      "score": 15069.640000001235
     },
     {
       "clients": 0,
@@ -496,7 +496,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 12944.400000002446
+      "score": 12937.400000002446
     },
     {
       "clients": 1,
@@ -567,7 +567,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 7651.280000001196
+      "score": 7658.350000001197
     },
     {
       "clients": 0,
@@ -623,7 +623,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 3123.0
+      "score": 3130.0
     },
     {
       "clients": 0,
@@ -689,151 +689,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 1202.989999999998
-    },
-    {
-      "clients": 0,
-      "id": "a42bb0b0f9ea",
-      "name": {
-        "hardware": {
-          "model": "TP-Link CPE210 v1.1",
-          "nproc": 1
-        },
-        "hostname": "KGV Hartenberg A5",
-        "network": {
-          "addresses": [
-            "2a03:2260:11a:a100:a62b:b0ff:feb0:f9ea",
-            "fe80::a62b:b0ff:feb0:f9ea",
-            "2a03:2260:11a:1700:a62b:b0ff:feb0:f9ea",
-            "fd37:b4dc:4b1e::a62b:b0ff:feb0:f9ea",
-            "2a03:2260:11a:6500:a62b:b0ff:feb0:f9ea",
-            "2a03:2260:11a:e700:a62b:b0ff:feb0:f9ea",
-            "2a03:2260:11a:700:a62b:b0ff:feb0:f9ea"
-          ],
-          "mac": "a4:2b:b0:b0:f9:ea",
-          "mesh": {
-            "bat0": {
-              "interfaces": {
-                "other": [
-                  "46:e6:da:94:ce:a4",
-                  "46:e6:da:94:ce:a0",
-                  "46:e6:da:94:ce:a3"
-                ],
-                "tunnel": [
-                  "46:e6:da:94:ce:a7"
-                ],
-                "wireless": [
-                  "46:e6:da:94:ce:a1"
-                ]
-              }
-            }
-          },
-          "mesh_interfaces": null
-        },
-        "node_id": "a42bb0b0f9ea",
-        "owner": null,
-        "software": {
-          "autoupdater": {
-            "branch": "stable",
-            "enabled": true
-          },
-          "babeld": {},
-          "batman-adv": {
-            "compat": 15,
-            "version": "2017.2"
-          },
-          "fastd": {
-            "enabled": true,
-            "version": "v18"
-          },
-          "firmware": {
-            "base": "gluon-v2017.1.4",
-            "release": "2017.1.4+mwu1"
-          },
-          "status-page": {
-            "api": 1
-          }
-        },
-        "system": {
-          "site_code": "ffmz"
-        },
-        "vpn": false
-      },
-      "online": false,
-      "score": 9.0
-    },
-    {
-      "clients": 0,
-      "id": "6872514482ce",
-      "name": {
-        "hardware": {
-          "model": "Ubiquiti NanoStation loco M2",
-          "nproc": 1
-        },
-        "hostname": "Horbruch_Sportplatz2",
-        "location": {
-          "latitude": 49.8880067,
-          "longitude": 7.2367602
-        },
-        "network": {
-          "addresses": [
-            "fe80::6a72:51ff:fe44:82ce",
-            "2a03:2260:11a:1700:6a72:51ff:fe44:82ce",
-            "2a03:2260:11a:e700:6a72:51ff:fe44:82ce",
-            "2a03:2260:11a:6500:6a72:51ff:fe44:82ce",
-            "2a03:2260:11a:700:6a72:51ff:fe44:82ce",
-            "fd37:b4dc:4b1e:0:6a72:51ff:fe44:82ce",
-            "2a03:2260:11a:a100:6a72:51ff:fe44:82ce"
-          ],
-          "mac": "68:72:51:44:82:ce",
-          "mesh": {
-            "bat0": {
-              "interfaces": {
-                "other": [
-                  "7a:62:ff:84:a8:4b"
-                ],
-                "tunnel": [
-                  "7a:62:ff:84:a8:4f"
-                ],
-                "wireless": [
-                  "7a:62:ff:84:a8:49"
-                ]
-              }
-            }
-          },
-          "mesh_interfaces": null
-        },
-        "node_id": "6872514482ce",
-        "owner": null,
-        "software": {
-          "autoupdater": {
-            "branch": "stable",
-            "enabled": true
-          },
-          "babeld": {},
-          "batman-adv": {
-            "compat": 15,
-            "version": "2016.2"
-          },
-          "fastd": {
-            "enabled": true,
-            "version": "v18"
-          },
-          "firmware": {
-            "base": "gluon-v2016.2.6",
-            "release": "2016.2.6+mwu1"
-          },
-          "status-page": {
-            "api": 1
-          }
-        },
-        "system": {
-          "site_code": "ffmz"
-        },
-        "vpn": false
-      },
-      "online": false,
-      "score": 8.0
+      "score": 1209.989999999998
     },
     {
       "clients": 0,
@@ -901,7 +757,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 4.0
+      "score": 7.0
     },
     {
       "clients": 0,
@@ -976,9 +832,153 @@
         "vpn": false
       },
       "online": false,
+      "score": 4.0
+    },
+    {
+      "clients": 0,
+      "id": "a42bb0b0f9ea",
+      "name": {
+        "hardware": {
+          "model": "TP-Link CPE210 v1.1",
+          "nproc": 1
+        },
+        "hostname": "KGV Hartenberg A5",
+        "network": {
+          "addresses": [
+            "2a03:2260:11a:a100:a62b:b0ff:feb0:f9ea",
+            "fe80::a62b:b0ff:feb0:f9ea",
+            "2a03:2260:11a:1700:a62b:b0ff:feb0:f9ea",
+            "fd37:b4dc:4b1e::a62b:b0ff:feb0:f9ea",
+            "2a03:2260:11a:6500:a62b:b0ff:feb0:f9ea",
+            "2a03:2260:11a:e700:a62b:b0ff:feb0:f9ea",
+            "2a03:2260:11a:700:a62b:b0ff:feb0:f9ea"
+          ],
+          "mac": "a4:2b:b0:b0:f9:ea",
+          "mesh": {
+            "bat0": {
+              "interfaces": {
+                "other": [
+                  "46:e6:da:94:ce:a4",
+                  "46:e6:da:94:ce:a0",
+                  "46:e6:da:94:ce:a3"
+                ],
+                "tunnel": [
+                  "46:e6:da:94:ce:a7"
+                ],
+                "wireless": [
+                  "46:e6:da:94:ce:a1"
+                ]
+              }
+            }
+          },
+          "mesh_interfaces": null
+        },
+        "node_id": "a42bb0b0f9ea",
+        "owner": null,
+        "software": {
+          "autoupdater": {
+            "branch": "stable",
+            "enabled": true
+          },
+          "babeld": {},
+          "batman-adv": {
+            "compat": 15,
+            "version": "2017.2"
+          },
+          "fastd": {
+            "enabled": true,
+            "version": "v18"
+          },
+          "firmware": {
+            "base": "gluon-v2017.1.4",
+            "release": "2017.1.4+mwu1"
+          },
+          "status-page": {
+            "api": 1
+          }
+        },
+        "system": {
+          "site_code": "ffmz"
+        },
+        "vpn": false
+      },
+      "online": false,
+      "score": 2.0
+    },
+    {
+      "clients": 0,
+      "id": "6872514482ce",
+      "name": {
+        "hardware": {
+          "model": "Ubiquiti NanoStation loco M2",
+          "nproc": 1
+        },
+        "hostname": "Horbruch_Sportplatz2",
+        "location": {
+          "latitude": 49.8880067,
+          "longitude": 7.2367602
+        },
+        "network": {
+          "addresses": [
+            "fe80::6a72:51ff:fe44:82ce",
+            "2a03:2260:11a:1700:6a72:51ff:fe44:82ce",
+            "2a03:2260:11a:e700:6a72:51ff:fe44:82ce",
+            "2a03:2260:11a:6500:6a72:51ff:fe44:82ce",
+            "2a03:2260:11a:700:6a72:51ff:fe44:82ce",
+            "fd37:b4dc:4b1e:0:6a72:51ff:fe44:82ce",
+            "2a03:2260:11a:a100:6a72:51ff:fe44:82ce"
+          ],
+          "mac": "68:72:51:44:82:ce",
+          "mesh": {
+            "bat0": {
+              "interfaces": {
+                "other": [
+                  "7a:62:ff:84:a8:4b"
+                ],
+                "tunnel": [
+                  "7a:62:ff:84:a8:4f"
+                ],
+                "wireless": [
+                  "7a:62:ff:84:a8:49"
+                ]
+              }
+            }
+          },
+          "mesh_interfaces": null
+        },
+        "node_id": "6872514482ce",
+        "owner": null,
+        "software": {
+          "autoupdater": {
+            "branch": "stable",
+            "enabled": true
+          },
+          "babeld": {},
+          "batman-adv": {
+            "compat": 15,
+            "version": "2016.2"
+          },
+          "fastd": {
+            "enabled": true,
+            "version": "v18"
+          },
+          "firmware": {
+            "base": "gluon-v2016.2.6",
+            "release": "2016.2.6+mwu1"
+          },
+          "status-page": {
+            "api": 1
+          }
+        },
+        "system": {
+          "site_code": "ffmz"
+        },
+        "vpn": false
+      },
+      "online": false,
       "score": 1.0
     }
   ],
-  "updated_at": "2019-05-22T00:23:03.497477",
+  "updated_at": "2019-05-22T07:23:02.919782",
   "version": "0.9a8"
 }
