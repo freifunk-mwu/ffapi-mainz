@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "clients": 140,
+      "clients": 115,
       "id": "0019997cf414",
       "name": {
         "hardware": {
@@ -68,10 +68,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 40421.4800000001
+      "score": 40436.800000000105
     },
     {
-      "clients": 1,
+      "clients": 2,
       "id": "02d504c191db",
       "name": {
         "hardware": {
@@ -134,7 +134,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 23870.259999996135
+      "score": 23877.389999996132
     },
     {
       "clients": 0,
@@ -204,7 +204,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 23067.46999999932
+      "score": 23074.46999999932
     },
     {
       "clients": 0,
@@ -274,7 +274,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 22421.389999999563
+      "score": 22428.389999999563
     },
     {
       "clients": 7,
@@ -357,7 +357,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 21183.889999998257
+      "score": 21191.379999998255
     },
     {
       "clients": 17,
@@ -427,7 +427,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 15088.470000001233
+      "score": 15096.470000001229
     },
     {
       "clients": 0,
@@ -496,7 +496,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 12920.400000002446
+      "score": 12913.400000002446
     },
     {
       "clients": 1,
@@ -567,7 +567,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 7675.520000001201
+      "score": 7682.5900000012025
     },
     {
       "clients": 0,
@@ -623,7 +623,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 3147.0
+      "score": 3154.0
     },
     {
       "clients": 0,
@@ -689,82 +689,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 1227.049999999998
-    },
-    {
-      "clients": 0,
-      "id": "f4f26dff3280",
-      "name": {
-        "hardware": {
-          "model": "TP-Link TL-WR841N/ND v11",
-          "nproc": 1
-        },
-        "hostname": "BFH1",
-        "location": {
-          "latitude": 49.863857,
-          "longitude": 7.828982
-        },
-        "network": {
-          "addresses": [
-            "2a03:2260:11a:1700:f6f2:6dff:feff:3280",
-            "2a03:2260:11a:1700:f6f2:6dff:feff:3280",
-            "fe80::f6f2:6dff:feff:3280",
-            "2a03:2260:11a:a100:f6f2:6dff:feff:3280",
-            "2a03:2260:11a:700:f6f2:6dff:feff:3280",
-            "2a03:2260:11a:e700:f6f2:6dff:feff:3280",
-            "2a03:2260:11a:6500:f6f2:6dff:feff:3280",
-            "fd37:b4dc:4b1e::f6f2:6dff:feff:3280"
-          ],
-          "mac": "f4:f2:6d:ff:32:80",
-          "mesh": {
-            "bat0": {
-              "interfaces": {
-                "other": [
-                  "36:8f:3f:cb:ec:7b"
-                ],
-                "tunnel": [
-                  "36:8f:3f:cb:ec:7f"
-                ],
-                "wireless": [
-                  "36:8f:3f:cb:ec:79"
-                ]
-              }
-            }
-          },
-          "mesh_interfaces": null
-        },
-        "node_id": "f4f26dff3280",
-        "owner": null,
-        "software": {
-          "autoupdater": {
-            "branch": "stable",
-            "enabled": true
-          },
-          "babeld": {},
-          "batman-adv": {
-            "compat": 15,
-            "version": "openwrt-2018.1-5"
-          },
-          "fastd": {
-            "enabled": true,
-            "version": "v18"
-          },
-          "firmware": {
-            "base": "gluon-v2018.2",
-            "release": "2018.2+mwu0"
-          },
-          "status-page": {
-            "api": 0
-          }
-        },
-        "system": {
-          "domain_code": "ffmz",
-          "site_code": "ffmz"
-        },
-        "vpn": false
-      },
-      "online": false,
-      "score": 7.0
+      "score": 1234.049999999998
     },
     {
       "clients": 0,
@@ -837,9 +762,77 @@
         "vpn": false
       },
       "online": false,
-      "score": 4.0
+      "score": 7.0
+    },
+    {
+      "clients": 0,
+      "id": "60e327ed9928",
+      "name": {
+        "hardware": {
+          "model": "TP-Link TL-WR841N/ND v10",
+          "nproc": 1
+        },
+        "hostname": "MzEb-Ehrenmal2",
+        "location": {
+          "latitude": 49.912821,
+          "longitude": 8.242643
+        },
+        "network": {
+          "addresses": [
+            "2a03:2260:11a:700:62e3:27ff:feed:9928",
+            "fd37:b4dc:4b1e:0:62e3:27ff:feed:9928",
+            "fe80::62e3:27ff:feed:9928",
+            "2a03:2260:11a:e700:62e3:27ff:feed:9928",
+            "2a03:2260:11a:6500:62e3:27ff:feed:9928",
+            "2a03:2260:11a:1700:62e3:27ff:feed:9928",
+            "2a03:2260:11a:a100:62e3:27ff:feed:9928"
+          ],
+          "mac": "60:e3:27:ed:99:28",
+          "mesh": {
+            "bat0": {
+              "interfaces": {
+                "other": [
+                  "2e:66:fa:3a:2e:c3"
+                ],
+                "wireless": [
+                  "2e:66:fa:3a:2e:c1"
+                ]
+              }
+            }
+          },
+          "mesh_interfaces": null
+        },
+        "node_id": "60e327ed9928",
+        "owner": null,
+        "software": {
+          "autoupdater": {
+            "branch": "experimental"
+          },
+          "babeld": {},
+          "batman-adv": {
+            "compat": 15,
+            "version": "2016.2"
+          },
+          "fastd": {
+            "version": "v18"
+          },
+          "firmware": {
+            "base": "gluon-v2016.2.5",
+            "release": "2016.2.5+mwu3"
+          },
+          "status-page": {
+            "api": 1
+          }
+        },
+        "system": {
+          "site_code": "ffmz"
+        },
+        "vpn": false
+      },
+      "online": false,
+      "score": 3.0
     }
   ],
-  "updated_at": "2019-05-23T00:23:02.991598",
+  "updated_at": "2019-05-23T07:23:03.830602",
   "version": "0.9a8"
 }
