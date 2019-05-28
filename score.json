@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "clients": 136,
+      "clients": 114,
       "id": "0019997cf414",
       "name": {
         "hardware": {
@@ -68,7 +68,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 40689.210000000116
+      "score": 40704.65000000012
     },
     {
       "clients": 2,
@@ -134,7 +134,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 23992.519999996075
+      "score": 23999.649999996076
     },
     {
       "clients": 0,
@@ -204,10 +204,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 23187.75999999929
+      "score": 23194.75999999929
     },
     {
-      "clients": 2,
+      "clients": 1,
       "id": "a42bb0ca778e",
       "name": {
         "hardware": {
@@ -274,7 +274,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 22542.509999999496
+      "score": 22549.57999999949
     },
     {
       "clients": 7,
@@ -357,10 +357,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 21312.379999998237
+      "score": 21319.869999998235
     },
     {
-      "clients": 11,
+      "clients": 19,
       "id": "00199967fba4",
       "name": {
         "hardware": {
@@ -427,76 +427,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 15217.930000001234
-    },
-    {
-      "clients": 0,
-      "id": "0003ba376190",
-      "name": {
-        "hardware": {
-          "model": "Common KVM processor",
-          "nproc": 1
-        },
-        "hostname": "offline",
-        "network": {
-          "addresses": [
-            "fe80::203:baff:fe37:6190",
-            "2a03:2260:11a:700:203:baff:fe37:6190",
-            "2a03:2260:11a:6500:203:baff:fe37:6190",
-            "2a03:2260:11a:e700:203:baff:fe37:6190",
-            "2a03:2260:11a:1700:203:baff:fe37:6190",
-            "2a03:2260:11a:a100:203:baff:fe37:6190",
-            "fd37:b4dc:4b1e:0:203:baff:fe37:6190"
-          ],
-          "mac": "00:03:ba:37:61:90",
-          "mesh": {
-            "bat0": {
-              "interfaces": {
-                "other": [
-                  "3e:6a:e1:46:69:fb",
-                  "00:03:ba:37:61:95",
-                  "00:03:ba:37:61:94",
-                  "00:03:ba:37:61:93",
-                  "00:03:ba:37:61:92"
-                ],
-                "tunnel": [
-                  "3e:6a:e1:46:69:ff"
-                ]
-              }
-            }
-          },
-          "mesh_interfaces": null
-        },
-        "node_id": "0003ba376190",
-        "owner": null,
-        "software": {
-          "autoupdater": {
-            "branch": "stable"
-          },
-          "babeld": {},
-          "batman-adv": {
-            "compat": 15,
-            "version": "2016.2"
-          },
-          "fastd": {
-            "enabled": true,
-            "version": "v18"
-          },
-          "firmware": {
-            "base": "gluon-v2016.2.6",
-            "release": "2016.2.6+mwu1"
-          },
-          "status-page": {
-            "api": 1
-          }
-        },
-        "system": {
-          "site_code": "ffmz"
-        },
-        "vpn": false
-      },
-      "online": false,
-      "score": 12800.400000002446
+      "score": 15225.790000001236
     },
     {
       "clients": 1,
@@ -567,7 +498,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 7796.720000001227
+      "score": 7803.790000001229
     },
     {
       "clients": 0,
@@ -623,7 +554,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 3267.0
+      "score": 3274.0
     },
     {
       "clients": 0,
@@ -689,7 +620,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 1348.069999999997
+      "score": 1355.069999999997
     },
     {
       "clients": 0,
@@ -757,9 +688,9 @@
         "vpn": false
       },
       "online": false,
-      "score": 81.19000000000004
+      "score": 74.19000000000004
     }
   ],
-  "updated_at": "2019-05-28T00:23:02.688021",
+  "updated_at": "2019-05-28T07:23:03.111075",
   "version": "0.9a8"
 }
