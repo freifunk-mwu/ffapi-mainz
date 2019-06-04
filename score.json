@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "clients": 117,
+      "clients": 132,
       "id": "0019997cf414",
       "name": {
         "hardware": {
@@ -67,10 +67,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 41079.530000000035
+      "score": 41095.00000000002
     },
     {
-      "clients": 3,
+      "clients": 2,
       "id": "02d504c191db",
       "name": {
         "hardware": {
@@ -132,10 +132,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 24178.409999996034
+      "score": 24185.58999999603
     },
     {
-      "clients": 0,
+      "clients": 6,
       "id": "a42bb0ca7958",
       "name": {
         "hardware": {
@@ -201,10 +201,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 23370.88999999924
+      "score": 23378.279999999242
     },
     {
-      "clients": 0,
+      "clients": 1,
       "id": "a42bb0ca778e",
       "name": {
         "hardware": {
@@ -270,7 +270,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 22660.569999999407
+      "score": 22667.719999999405
     },
     {
       "clients": 7,
@@ -352,10 +352,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 21507.119999998187
+      "score": 21514.609999998185
     },
     {
-      "clients": 3,
+      "clients": 10,
       "id": "00199967fba4",
       "name": {
         "hardware": {
@@ -421,7 +421,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 15412.63000000122
+      "score": 15420.230000001218
     },
     {
       "clients": 1,
@@ -491,7 +491,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 7932.330000001261
+      "score": 7939.400000001263
     },
     {
       "clients": 0,
@@ -547,10 +547,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 3449.0
+      "score": 3456.0
     },
     {
-      "clients": 0,
+      "clients": 15,
       "id": "687251643275",
       "name": {
         "hardware": {
@@ -612,9 +612,77 @@
         "vpn": false
       },
       "online": true,
-      "score": 1530.5299999999966
+      "score": 1537.8299999999967
+    },
+    {
+      "clients": 0,
+      "id": "60e327ed9928",
+      "name": {
+        "hardware": {
+          "model": "TP-Link TL-WR841N/ND v10",
+          "nproc": 1
+        },
+        "hostname": "MzEb-Ehrenmal2",
+        "location": {
+          "latitude": 49.912821,
+          "longitude": 8.242643
+        },
+        "network": {
+          "addresses": [
+            "2a03:2260:11a:700:62e3:27ff:feed:9928",
+            "fd37:b4dc:4b1e:0:62e3:27ff:feed:9928",
+            "fe80::62e3:27ff:feed:9928",
+            "2a03:2260:11a:e700:62e3:27ff:feed:9928",
+            "2a03:2260:11a:6500:62e3:27ff:feed:9928",
+            "2a03:2260:11a:1700:62e3:27ff:feed:9928",
+            "2a03:2260:11a:a100:62e3:27ff:feed:9928"
+          ],
+          "mac": "60:e3:27:ed:99:28",
+          "mesh": {
+            "bat0": {
+              "interfaces": {
+                "other": [
+                  "2e:66:fa:3a:2e:c3"
+                ],
+                "wireless": [
+                  "2e:66:fa:3a:2e:c1"
+                ]
+              }
+            }
+          },
+          "mesh_interfaces": null
+        },
+        "node_id": "60e327ed9928",
+        "owner": null,
+        "software": {
+          "autoupdater": {
+            "branch": "experimental"
+          },
+          "babeld": {},
+          "batman-adv": {
+            "compat": 15,
+            "version": "2016.2"
+          },
+          "fastd": {
+            "version": "v18"
+          },
+          "firmware": {
+            "base": "gluon-v2016.2.5",
+            "release": "2016.2.5+mwu3"
+          },
+          "status-page": {
+            "api": 1
+          }
+        },
+        "system": {
+          "site_code": "ffmz"
+        },
+        "vpn": false
+      },
+      "online": false,
+      "score": 3.0
     }
   ],
-  "updated_at": "2019-06-04T14:23:03.159575",
+  "updated_at": "2019-06-04T21:23:03.448318",
   "version": "0.9a8"
 }
