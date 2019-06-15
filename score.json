@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "clients": 121,
+      "clients": 136,
       "id": "0019997cf414",
       "name": {
         "hardware": {
@@ -67,7 +67,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 41658.33000000001
+      "score": 41674.170000000006
     },
     {
       "clients": 3,
@@ -132,7 +132,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 24447.109999995944
+      "score": 24454.28999999594
     },
     {
       "clients": 0,
@@ -201,7 +201,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 23637.139999999177
+      "score": 23644.169999999176
     },
     {
       "clients": 1,
@@ -270,7 +270,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 22927.85999999929
+      "score": 22934.91999999929
     },
     {
       "clients": 7,
@@ -352,10 +352,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 21789.63999999811
+      "score": 21797.12999999811
     },
     {
-      "clients": 3,
+      "clients": 10,
       "id": "00199967fba4",
       "name": {
         "hardware": {
@@ -421,7 +421,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 15695.970000001193
+      "score": 15703.35000000119
     },
     {
       "clients": 1,
@@ -491,7 +491,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 8198.97000000132
+      "score": 8206.040000001321
     },
     {
       "clients": 0,
@@ -547,10 +547,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 3713.0
+      "score": 3720.0
     },
     {
-      "clients": 0,
+      "clients": 1,
       "id": "60e327ed9928",
       "name": {
         "hardware": {
@@ -569,8 +569,7 @@
             "fe80::62e3:27ff:feed:9928",
             "2a03:2260:11a:e700:62e3:27ff:feed:9928",
             "2a03:2260:11a:6500:62e3:27ff:feed:9928",
-            "2a03:2260:11a:1700:62e3:27ff:feed:9928",
-            "2a03:2260:11a:a100:62e3:27ff:feed:9928"
+            "2a03:2260:11a:1700:62e3:27ff:feed:9928"
           ],
           "mac": "60:e3:27:ed:99:28",
           "mesh": {
@@ -614,10 +613,10 @@
         },
         "vpn": false
       },
-      "online": false,
-      "score": 6.0
+      "online": true,
+      "score": 3.05
     }
   ],
-  "updated_at": "2019-06-15T14:23:03.854829",
+  "updated_at": "2019-06-15T21:23:04.324718",
   "version": "0.9a8"
 }
