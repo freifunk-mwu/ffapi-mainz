@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "clients": 105,
+      "clients": 124,
       "id": "0019997cf414",
       "name": {
         "hardware": {
@@ -68,10 +68,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 43106.16999999995
+      "score": 43121.18999999995
     },
     {
-      "clients": 2,
+      "clients": 1,
       "id": "02d504c191db",
       "name": {
         "hardware": {
@@ -134,7 +134,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 25123.11999999552
+      "score": 25130.229999995518
     },
     {
       "clients": 0,
@@ -204,10 +204,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 24285.919999999096
+      "score": 24292.939999999096
     },
     {
-      "clients": 1,
+      "clients": 2,
       "id": "a42bb0ca778e",
       "name": {
         "hardware": {
@@ -274,10 +274,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 23182.21999999906
+      "score": 23189.339999999058
     },
     {
-      "clients": 7,
+      "clients": 9,
       "id": "a42bb0ca87c0",
       "name": {
         "hardware": {
@@ -357,7 +357,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 22504.189999997976
+      "score": 22511.80999999798
     },
     {
       "clients": 3,
@@ -427,7 +427,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 16397.63000000125
+      "score": 16404.860000001245
     },
     {
       "clients": 1,
@@ -498,7 +498,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 8870.620000001465
+      "score": 8877.690000001467
     },
     {
       "clients": 0,
@@ -554,7 +554,77 @@
         "vpn": false
       },
       "online": true,
-      "score": 4378.0
+      "score": 4385.0
+    },
+    {
+      "clients": 0,
+      "id": "687251747ffe",
+      "name": {
+        "hardware": {
+          "model": "Ubiquiti Loco M XW",
+          "nproc": 1
+        },
+        "hostname": "ffmz-werlau-hfs3",
+        "location": {
+          "latitude": 50.155717,
+          "longitude": 7.680929
+        },
+        "network": {
+          "addresses": [
+            "2a03:2260:11a:e700:6a72:51ff:fe74:7ffe",
+            "fd37:b4dc:4b1e::6a72:51ff:fe74:7ffe",
+            "2a03:2260:11a:a100:6a72:51ff:fe74:7ffe",
+            "fe80::6a72:51ff:fe74:7ffe"
+          ],
+          "mac": "68:72:51:74:7f:fe",
+          "mesh": {
+            "bat0": {
+              "interfaces": {
+                "other": [
+                  "82:de:05:52:fc:3b"
+                ],
+                "tunnel": [
+                  "82:de:05:52:fc:3f"
+                ],
+                "wireless": [
+                  "82:de:05:52:fc:39"
+                ]
+              }
+            }
+          },
+          "mesh_interfaces": null
+        },
+        "node_id": "687251747ffe",
+        "owner": null,
+        "software": {
+          "autoupdater": {
+            "branch": "stable",
+            "enabled": true
+          },
+          "babeld": {},
+          "batman-adv": {
+            "compat": 15,
+            "version": "2017.2"
+          },
+          "fastd": {
+            "enabled": true,
+            "version": "v18"
+          },
+          "firmware": {
+            "base": "gluon-v2017.1.8",
+            "release": "2017.1.8+mwu1"
+          },
+          "status-page": {
+            "api": 1
+          }
+        },
+        "system": {
+          "site_code": "ffmz"
+        },
+        "vpn": false
+      },
+      "online": false,
+      "score": 10.0
     },
     {
       "clients": 0,
@@ -625,7 +695,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 5.0
+      "score": 8.0
     },
     {
       "clients": 0,
@@ -699,7 +769,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 4.0
+      "score": 7.0
     },
     {
       "clients": 0,
@@ -767,7 +837,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 1.0
+      "score": 4.0
     },
     {
       "clients": 0,
@@ -841,9 +911,9 @@
         "vpn": false
       },
       "online": false,
-      "score": 1.0
+      "score": 4.0
     }
   ],
-  "updated_at": "2019-07-13T07:23:02.928406",
+  "updated_at": "2019-07-13T14:23:03.007211",
   "version": "0.9a8"
 }
