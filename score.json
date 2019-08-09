@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "clients": 106,
+      "clients": 123,
       "id": "0019997cf414",
       "name": {
         "hardware": {
@@ -68,7 +68,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 44531.32999999997
+      "score": 44546.59999999997
     },
     {
       "clients": 2,
@@ -134,10 +134,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 25790.999999995347
+      "score": 25798.13999999535
     },
     {
-      "clients": 0,
+      "clients": 1,
       "id": "a42bb0ca7958",
       "name": {
         "hardware": {
@@ -204,10 +204,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 24942.419999998918
+      "score": 24949.449999998913
     },
     {
-      "clients": 1,
+      "clients": 2,
       "id": "a42bb0ca778e",
       "name": {
         "hardware": {
@@ -274,7 +274,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 23840.479999998824
+      "score": 23847.54999999882
     },
     {
       "clients": 8,
@@ -357,10 +357,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 23204.369999997827
+      "score": 23211.92999999784
     },
     {
-      "clients": 1,
+      "clients": 5,
       "id": "00199967fba4",
       "name": {
         "hardware": {
@@ -427,7 +427,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 17088.570000001302
+      "score": 17095.880000001303
     },
     {
       "clients": 1,
@@ -498,7 +498,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 9446.740000001599
+      "score": 9453.8100000016
     },
     {
       "clients": 0,
@@ -554,10 +554,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 5032.0
+      "score": 5039.0
     },
     {
-      "clients": 1,
+      "clients": 0,
       "id": "60e327ed9928",
       "name": {
         "hardware": {
@@ -622,140 +622,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 14.03
-    },
-    {
-      "clients": 0,
-      "id": "000c29d2cd5a",
-      "name": {
-        "hardware": {
-          "model": "VMware, Inc. VMware Virtual Platform",
-          "nproc": 1
-        },
-        "hostname": "drk-carolinenhoehe",
-        "location": {
-          "latitude": 49.974279,
-          "longitude": 8.071341
-        },
-        "network": {
-          "addresses": [
-            "fe80::20c:29ff:fed2:cd5a",
-            "fd37:b4dc:4b1e::20c:29ff:fed2:cd5a",
-            "2a03:2260:11a:1700:20c:29ff:fed2:cd5a",
-            "2a03:2260:11a:a100:20c:29ff:fed2:cd5a",
-            "2a03:2260:11a:6500:20c:29ff:fed2:cd5a",
-            "2a03:2260:11a:e700:20c:29ff:fed2:cd5a",
-            "2a03:2260:11a:700:20c:29ff:fed2:cd5a"
-          ],
-          "mac": "00:0c:29:d2:cd:5a",
-          "mesh": {
-            "bat0": {
-              "interfaces": {
-                "other": [
-                  "f2:33:b1:5f:3a:93"
-                ],
-                "tunnel": [
-                  "f2:33:b1:5f:3a:97"
-                ]
-              }
-            }
-          },
-          "mesh_interfaces": null
-        },
-        "node_id": "000c29d2cd5a",
-        "owner": null,
-        "software": {
-          "autoupdater": {
-            "branch": "stable",
-            "enabled": true
-          },
-          "babeld": {},
-          "batman-adv": {
-            "compat": 15,
-            "version": "2017.2"
-          },
-          "fastd": {
-            "enabled": true,
-            "version": "v18"
-          },
-          "firmware": {
-            "base": "gluon-v2017.1.5",
-            "release": "2017.1.5+mwu1"
-          },
-          "status-page": {
-            "api": 1
-          }
-        },
-        "system": {
-          "site_code": "ffmz"
-        },
-        "vpn": false
-      },
-      "online": false,
-      "score": 9.0
-    },
-    {
-      "clients": 0,
-      "id": "0002b3b44c2c",
-      "name": {
-        "hardware": {
-          "model": "AMD Sempron(tm) Processor 200U",
-          "nproc": 1
-        },
-        "hostname": "FF-RT-Event-Offloader",
-        "network": {
-          "addresses": [
-            "2a03:2260:11a:700:202:b3ff:feb4:4c2c",
-            "2a03:2260:11a:6500:202:b3ff:feb4:4c2c",
-            "2a03:2260:11a:a100:202:b3ff:feb4:4c2c",
-            "2a03:2260:11a:1700:202:b3ff:feb4:4c2c",
-            "2a03:2260:11a:e700:202:b3ff:feb4:4c2c",
-            "fe80::202:b3ff:feb4:4c2c",
-            "fd37:b4dc:4b1e:0:202:b3ff:feb4:4c2c"
-          ],
-          "mac": "00:02:b3:b4:4c:2c",
-          "mesh": {
-            "bat0": {
-              "interfaces": {
-                "tunnel": [
-                  "02:06:b3:b4:4c:2c"
-                ]
-              }
-            }
-          },
-          "mesh_interfaces": null
-        },
-        "node_id": "0002b3b44c2c",
-        "owner": null,
-        "software": {
-          "autoupdater": {
-            "branch": "stable",
-            "enabled": true
-          },
-          "babeld": {},
-          "batman-adv": {
-            "compat": 15,
-            "version": "2015.1"
-          },
-          "fastd": {
-            "enabled": true,
-            "version": "v17"
-          },
-          "firmware": {
-            "base": "gluon-v2016.1.5",
-            "release": "0.3.3-stable"
-          },
-          "status-page": {
-            "api": 1
-          }
-        },
-        "system": {
-          "site_code": "ffmz"
-        },
-        "vpn": false
-      },
-      "online": false,
-      "score": 7.0
+      "score": 21.040000000000003
     },
     {
       "clients": 0,
@@ -829,7 +696,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 2.0
+      "score": 5.0
     },
     {
       "clients": 0,
@@ -900,9 +767,79 @@
         "vpn": false
       },
       "online": false,
-      "score": 1.0
+      "score": 4.0
+    },
+    {
+      "clients": 0,
+      "id": "000c29d2cd5a",
+      "name": {
+        "hardware": {
+          "model": "VMware, Inc. VMware Virtual Platform",
+          "nproc": 1
+        },
+        "hostname": "drk-carolinenhoehe",
+        "location": {
+          "latitude": 49.974279,
+          "longitude": 8.071341
+        },
+        "network": {
+          "addresses": [
+            "fe80::20c:29ff:fed2:cd5a",
+            "fd37:b4dc:4b1e::20c:29ff:fed2:cd5a",
+            "2a03:2260:11a:1700:20c:29ff:fed2:cd5a",
+            "2a03:2260:11a:a100:20c:29ff:fed2:cd5a",
+            "2a03:2260:11a:6500:20c:29ff:fed2:cd5a",
+            "2a03:2260:11a:e700:20c:29ff:fed2:cd5a",
+            "2a03:2260:11a:700:20c:29ff:fed2:cd5a"
+          ],
+          "mac": "00:0c:29:d2:cd:5a",
+          "mesh": {
+            "bat0": {
+              "interfaces": {
+                "other": [
+                  "f2:33:b1:5f:3a:93"
+                ],
+                "tunnel": [
+                  "f2:33:b1:5f:3a:97"
+                ]
+              }
+            }
+          },
+          "mesh_interfaces": null
+        },
+        "node_id": "000c29d2cd5a",
+        "owner": null,
+        "software": {
+          "autoupdater": {
+            "branch": "stable",
+            "enabled": true
+          },
+          "babeld": {},
+          "batman-adv": {
+            "compat": 15,
+            "version": "2017.2"
+          },
+          "fastd": {
+            "enabled": true,
+            "version": "v18"
+          },
+          "firmware": {
+            "base": "gluon-v2017.1.5",
+            "release": "2017.1.5+mwu1"
+          },
+          "status-page": {
+            "api": 1
+          }
+        },
+        "system": {
+          "site_code": "ffmz"
+        },
+        "vpn": false
+      },
+      "online": false,
+      "score": 2.0
     }
   ],
-  "updated_at": "2019-08-09T14:23:02.999260",
+  "updated_at": "2019-08-09T21:23:03.792824",
   "version": "0.9a8"
 }
