@@ -68,7 +68,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 44772.630000000005
+      "score": 44765.630000000005
     },
     {
       "clients": 2,
@@ -134,7 +134,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 25930.63999999536
+      "score": 25937.779999995364
     },
     {
       "clients": 0,
@@ -204,7 +204,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 25079.82999999889
+      "score": 25086.82999999889
     },
     {
       "clients": 1,
@@ -274,7 +274,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 23978.239999998783
+      "score": 23985.299999998777
     },
     {
       "clients": 8,
@@ -357,10 +357,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 23352.49999999804
+      "score": 23360.05999999805
     },
     {
-      "clients": 10,
+      "clients": 3,
       "id": "00199967fba4",
       "name": {
         "hardware": {
@@ -427,7 +427,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 17232.990000001326
+      "score": 17240.230000001324
     },
     {
       "clients": 1,
@@ -498,7 +498,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 9585.110000001629
+      "score": 9592.18000000163
     },
     {
       "clients": 0,
@@ -554,7 +554,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 5003.0
+      "score": 4996.0
     },
     {
       "clients": 0,
@@ -622,7 +622,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 67.15000000000002
+      "score": 60.15000000000002
     },
     {
       "clients": 0,
@@ -693,7 +693,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 4.0
+      "score": 7.0
     },
     {
       "clients": 0,
@@ -763,9 +763,72 @@
         "vpn": false
       },
       "online": false,
-      "score": 2.0
+      "score": 5.0
+    },
+    {
+      "clients": 0,
+      "id": "0002b3b44c2c",
+      "name": {
+        "hardware": {
+          "model": "AMD Sempron(tm) Processor 200U",
+          "nproc": 1
+        },
+        "hostname": "FF-RT-Event-Offloader",
+        "network": {
+          "addresses": [
+            "2a03:2260:11a:700:202:b3ff:feb4:4c2c",
+            "2a03:2260:11a:6500:202:b3ff:feb4:4c2c",
+            "2a03:2260:11a:a100:202:b3ff:feb4:4c2c",
+            "2a03:2260:11a:1700:202:b3ff:feb4:4c2c",
+            "2a03:2260:11a:e700:202:b3ff:feb4:4c2c",
+            "fe80::202:b3ff:feb4:4c2c",
+            "fd37:b4dc:4b1e:0:202:b3ff:feb4:4c2c"
+          ],
+          "mac": "00:02:b3:b4:4c:2c",
+          "mesh": {
+            "bat0": {
+              "interfaces": {
+                "tunnel": [
+                  "02:06:b3:b4:4c:2c"
+                ]
+              }
+            }
+          },
+          "mesh_interfaces": null
+        },
+        "node_id": "0002b3b44c2c",
+        "owner": null,
+        "software": {
+          "autoupdater": {
+            "branch": "stable",
+            "enabled": true
+          },
+          "babeld": {},
+          "batman-adv": {
+            "compat": 15,
+            "version": "2015.1"
+          },
+          "fastd": {
+            "enabled": true,
+            "version": "v17"
+          },
+          "firmware": {
+            "base": "gluon-v2016.1.5",
+            "release": "0.3.3-stable"
+          },
+          "status-page": {
+            "api": 1
+          }
+        },
+        "system": {
+          "site_code": "ffmz"
+        },
+        "vpn": false
+      },
+      "online": false,
+      "score": 3.0
     }
   ],
-  "updated_at": "2019-08-15T07:23:02.875337",
+  "updated_at": "2019-08-15T14:23:03.868178",
   "version": "0.9a8"
 }
