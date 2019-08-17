@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "clients": 146,
+      "clients": 110,
       "id": "0019997cf414",
       "name": {
         "hardware": {
@@ -68,10 +68,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 44763.53
+      "score": 44778.76
     },
     {
-      "clients": 1,
+      "clients": 2,
       "id": "02d504c191db",
       "name": {
         "hardware": {
@@ -134,7 +134,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 25972.44999999536
+      "score": 25979.57999999536
     },
     {
       "clients": 0,
@@ -204,7 +204,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 25120.839999998887
+      "score": 25127.839999998887
     },
     {
       "clients": 0,
@@ -274,7 +274,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 24019.409999998767
+      "score": 24026.419999998765
     },
     {
       "clients": 8,
@@ -357,10 +357,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 23396.78999999811
+      "score": 23404.35999999812
     },
     {
-      "clients": 7,
+      "clients": 6,
       "id": "00199967fba4",
       "name": {
         "hardware": {
@@ -427,7 +427,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 17276.150000001322
+      "score": 17283.480000001324
     },
     {
       "clients": 1,
@@ -498,7 +498,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 9626.520000001638
+      "score": 9633.590000001639
     },
     {
       "clients": 0,
@@ -554,7 +554,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 4962.0
+      "score": 4955.0
     },
     {
       "clients": 0,
@@ -622,70 +622,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 26.15000000000002
-    },
-    {
-      "clients": 0,
-      "id": "0002b3b44c2c",
-      "name": {
-        "hardware": {
-          "model": "AMD Sempron(tm) Processor 200U",
-          "nproc": 1
-        },
-        "hostname": "FF-RT-Event-Offloader",
-        "network": {
-          "addresses": [
-            "2a03:2260:11a:700:202:b3ff:feb4:4c2c",
-            "2a03:2260:11a:6500:202:b3ff:feb4:4c2c",
-            "2a03:2260:11a:a100:202:b3ff:feb4:4c2c",
-            "2a03:2260:11a:1700:202:b3ff:feb4:4c2c",
-            "2a03:2260:11a:e700:202:b3ff:feb4:4c2c",
-            "fe80::202:b3ff:feb4:4c2c",
-            "fd37:b4dc:4b1e:0:202:b3ff:feb4:4c2c"
-          ],
-          "mac": "00:02:b3:b4:4c:2c",
-          "mesh": {
-            "bat0": {
-              "interfaces": {
-                "tunnel": [
-                  "02:06:b3:b4:4c:2c"
-                ]
-              }
-            }
-          },
-          "mesh_interfaces": null
-        },
-        "node_id": "0002b3b44c2c",
-        "owner": null,
-        "software": {
-          "autoupdater": {
-            "branch": "stable",
-            "enabled": true
-          },
-          "babeld": {},
-          "batman-adv": {
-            "compat": 15,
-            "version": "2015.1"
-          },
-          "fastd": {
-            "enabled": true,
-            "version": "v17"
-          },
-          "firmware": {
-            "base": "gluon-v2016.1.5",
-            "release": "0.3.3-stable"
-          },
-          "status-page": {
-            "api": 1
-          }
-        },
-        "system": {
-          "site_code": "ffmz"
-        },
-        "vpn": false
-      },
-      "online": false,
-      "score": 9.0
+      "score": 19.15000000000002
     },
     {
       "clients": 0,
@@ -756,7 +693,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 3.0
+      "score": 6.0
     },
     {
       "clients": 0,
@@ -826,9 +763,72 @@
         "vpn": false
       },
       "online": false,
-      "score": 1.0
+      "score": 4.0
+    },
+    {
+      "clients": 0,
+      "id": "0002b3b44c2c",
+      "name": {
+        "hardware": {
+          "model": "AMD Sempron(tm) Processor 200U",
+          "nproc": 1
+        },
+        "hostname": "FF-RT-Event-Offloader",
+        "network": {
+          "addresses": [
+            "2a03:2260:11a:700:202:b3ff:feb4:4c2c",
+            "2a03:2260:11a:6500:202:b3ff:feb4:4c2c",
+            "2a03:2260:11a:a100:202:b3ff:feb4:4c2c",
+            "2a03:2260:11a:1700:202:b3ff:feb4:4c2c",
+            "2a03:2260:11a:e700:202:b3ff:feb4:4c2c",
+            "fe80::202:b3ff:feb4:4c2c",
+            "fd37:b4dc:4b1e:0:202:b3ff:feb4:4c2c"
+          ],
+          "mac": "00:02:b3:b4:4c:2c",
+          "mesh": {
+            "bat0": {
+              "interfaces": {
+                "tunnel": [
+                  "02:06:b3:b4:4c:2c"
+                ]
+              }
+            }
+          },
+          "mesh_interfaces": null
+        },
+        "node_id": "0002b3b44c2c",
+        "owner": null,
+        "software": {
+          "autoupdater": {
+            "branch": "stable",
+            "enabled": true
+          },
+          "babeld": {},
+          "batman-adv": {
+            "compat": 15,
+            "version": "2015.1"
+          },
+          "fastd": {
+            "enabled": true,
+            "version": "v17"
+          },
+          "firmware": {
+            "base": "gluon-v2016.1.5",
+            "release": "0.3.3-stable"
+          },
+          "status-page": {
+            "api": 1
+          }
+        },
+        "system": {
+          "site_code": "ffmz"
+        },
+        "vpn": false
+      },
+      "online": false,
+      "score": 2.0
     }
   ],
-  "updated_at": "2019-08-17T00:23:03.668197",
+  "updated_at": "2019-08-17T07:23:03.548128",
   "version": "0.9a8"
 }
