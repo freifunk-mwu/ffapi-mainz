@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "clients": 131,
+      "clients": 144,
       "id": "0019997cf414",
       "name": {
         "hardware": {
@@ -68,7 +68,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 46051.04000000009
+      "score": 46067.79000000009
     },
     {
       "clients": 1,
@@ -134,10 +134,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 26549.129999995057
+      "score": 26556.209999995048
     },
     {
-      "clients": 0,
+      "clients": 1,
       "id": "a42bb0ca7958",
       "name": {
         "hardware": {
@@ -204,10 +204,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 25688.419999998812
+      "score": 25695.48999999881
     },
     {
-      "clients": 1,
+      "clients": 2,
       "id": "a42bb0ca778e",
       "name": {
         "hardware": {
@@ -274,10 +274,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 24581.899999998604
+      "score": 24589.029999998605
     },
     {
-      "clients": 8,
+      "clients": 9,
       "id": "a42bb0ca87c0",
       "name": {
         "hardware": {
@@ -357,10 +357,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 24009.979999998923
+      "score": 24017.549999998933
     },
     {
-      "clients": 6,
+      "clients": 27,
       "id": "00199967fba4",
       "name": {
         "hardware": {
@@ -427,7 +427,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 17876.450000001332
+      "score": 17884.78000000133
     },
     {
       "clients": 1,
@@ -498,7 +498,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 10198.180000001761
+      "score": 10205.250000001763
     },
     {
       "clients": 0,
@@ -554,145 +554,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 4396.0
-    },
-    {
-      "clients": 0,
-      "id": "18d6c7870802",
-      "name": {
-        "hardware": {
-          "model": "TP-Link CPE210 v1.1",
-          "nproc": 1
-        },
-        "hostname": "Elsa 59-T1",
-        "network": {
-          "addresses": [
-            "2a03:2260:11a:6500:1ad6:c7ff:fe87:802",
-            "2a03:2260:11a:700:1ad6:c7ff:fe87:802",
-            "2a03:2260:11a:a100:1ad6:c7ff:fe87:802",
-            "fd37:b4dc:4b1e:0:1ad6:c7ff:fe87:802",
-            "2a03:2260:11a:1700:1ad6:c7ff:fe87:802",
-            "2a03:2260:11a:e700:1ad6:c7ff:fe87:802",
-            "fe80::1ad6:c7ff:fe87:802"
-          ],
-          "mac": "18:d6:c7:87:08:02",
-          "mesh": {
-            "bat0": {
-              "interfaces": {
-                "other": [
-                  "66:5b:85:48:f2:53"
-                ],
-                "tunnel": [
-                  "66:5b:85:48:f2:57"
-                ],
-                "wireless": [
-                  "66:5b:85:48:f2:51"
-                ]
-              }
-            }
-          },
-          "mesh_interfaces": null
-        },
-        "node_id": "18d6c7870802",
-        "owner": null,
-        "software": {
-          "autoupdater": {
-            "branch": "stable",
-            "enabled": true
-          },
-          "babeld": {},
-          "batman-adv": {
-            "compat": 15,
-            "version": "2016.2"
-          },
-          "fastd": {
-            "enabled": true,
-            "version": "v18"
-          },
-          "firmware": {
-            "base": "gluon-v2016.2.6",
-            "release": "2016.2.6+mwu1"
-          },
-          "status-page": {
-            "api": 1
-          }
-        },
-        "system": {
-          "site_code": "ffmz"
-        },
-        "vpn": false
-      },
-      "online": false,
-      "score": 8.0
-    },
-    {
-      "clients": 0,
-      "id": "f4f26dc33a4a",
-      "name": {
-        "hardware": {
-          "model": "TP-Link TL-WR841N/ND v10",
-          "nproc": 1
-        },
-        "hostname": "f4f26dc33a4a",
-        "network": {
-          "addresses": [
-            "2a03:2260:11a:e700:f6f2:6dff:fec3:3a4a",
-            "2a03:2260:11a:6500:f6f2:6dff:fec3:3a4a",
-            "2a03:2260:11a:700:f6f2:6dff:fec3:3a4a",
-            "2a03:2260:11a:a100:f6f2:6dff:fec3:3a4a",
-            "fd37:b4dc:4b1e::f6f2:6dff:fec3:3a4a",
-            "fe80::f6f2:6dff:fec3:3a4a",
-            "2a03:2260:11a:1700:f6f2:6dff:fec3:3a4a"
-          ],
-          "mac": "f4:f2:6d:c3:3a:4a",
-          "mesh": {
-            "bat0": {
-              "interfaces": {
-                "other": [
-                  "2e:7f:75:70:50:83"
-                ],
-                "tunnel": [
-                  "2e:7f:75:70:50:87"
-                ],
-                "wireless": [
-                  "2e:7f:75:70:50:81"
-                ]
-              }
-            }
-          },
-          "mesh_interfaces": null
-        },
-        "node_id": "f4f26dc33a4a",
-        "owner": null,
-        "software": {
-          "autoupdater": {
-            "branch": "stable",
-            "enabled": true
-          },
-          "babeld": {},
-          "batman-adv": {
-            "compat": 15,
-            "version": "2017.2"
-          },
-          "fastd": {
-            "enabled": true,
-            "version": "v18"
-          },
-          "firmware": {
-            "base": "gluon-v2017.1.8",
-            "release": "2017.1.8+mwu1"
-          },
-          "status-page": {
-            "api": 1
-          }
-        },
-        "system": {
-          "site_code": "ffmz"
-        },
-        "vpn": false
-      },
-      "online": false,
-      "score": 7.0
+      "score": 4389.0
     },
     {
       "clients": 0,
@@ -760,7 +622,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 4.0
+      "score": 7.0
     },
     {
       "clients": 0,
@@ -829,7 +691,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 3.0
+      "score": 6.0
     },
     {
       "clients": 0,
@@ -894,9 +756,149 @@
         "vpn": false
       },
       "online": false,
-      "score": 2.0
+      "score": 5.0
+    },
+    {
+      "clients": 0,
+      "id": "e894f66a319c",
+      "name": {
+        "hardware": {
+          "model": "TP-Link TL-WR841N/ND v9",
+          "nproc": 1
+        },
+        "hostname": "Wellenberg",
+        "network": {
+          "addresses": [
+            "2a03:2260:11a:a100:ea94:f6ff:fe6a:319c",
+            "2a03:2260:11a:a100:ea94:f6ff:fe6a:319c",
+            "2a03:2260:11a:6500:ea94:f6ff:fe6a:319c",
+            "2a03:2260:11a:e700:ea94:f6ff:fe6a:319c",
+            "2a03:2260:11a:1700:ea94:f6ff:fe6a:319c",
+            "fe80::ea94:f6ff:fe6a:319c",
+            "fd37:b4dc:4b1e::ea94:f6ff:fe6a:319c",
+            "2a03:2260:11a:700:ea94:f6ff:fe6a:319c"
+          ],
+          "mac": "e8:94:f6:6a:31:9c",
+          "mesh": {
+            "bat0": {
+              "interfaces": {
+                "other": [
+                  "e2:4e:56:7a:b0:4b"
+                ],
+                "tunnel": [
+                  "e2:4e:56:7a:b0:4f"
+                ],
+                "wireless": [
+                  "e2:4e:56:7a:b0:49"
+                ]
+              }
+            }
+          },
+          "mesh_interfaces": null
+        },
+        "node_id": "e894f66a319c",
+        "owner": null,
+        "software": {
+          "autoupdater": {
+            "branch": "stable",
+            "enabled": true
+          },
+          "babeld": {},
+          "batman-adv": {
+            "compat": 15,
+            "version": "openwrt-2018.1-5"
+          },
+          "fastd": {
+            "enabled": true,
+            "version": "v18"
+          },
+          "firmware": {
+            "base": "gluon-v2018.2",
+            "release": "2018.2+mwu0"
+          },
+          "status-page": {
+            "api": 0
+          }
+        },
+        "system": {
+          "domain_code": "ffmz",
+          "site_code": "ffmz"
+        },
+        "vpn": false
+      },
+      "online": false,
+      "score": 3.0
+    },
+    {
+      "clients": 0,
+      "id": "18d6c7870802",
+      "name": {
+        "hardware": {
+          "model": "TP-Link CPE210 v1.1",
+          "nproc": 1
+        },
+        "hostname": "Elsa 59-T1",
+        "network": {
+          "addresses": [
+            "2a03:2260:11a:6500:1ad6:c7ff:fe87:802",
+            "2a03:2260:11a:700:1ad6:c7ff:fe87:802",
+            "2a03:2260:11a:a100:1ad6:c7ff:fe87:802",
+            "fd37:b4dc:4b1e:0:1ad6:c7ff:fe87:802",
+            "2a03:2260:11a:1700:1ad6:c7ff:fe87:802",
+            "2a03:2260:11a:e700:1ad6:c7ff:fe87:802",
+            "fe80::1ad6:c7ff:fe87:802"
+          ],
+          "mac": "18:d6:c7:87:08:02",
+          "mesh": {
+            "bat0": {
+              "interfaces": {
+                "other": [
+                  "66:5b:85:48:f2:53"
+                ],
+                "tunnel": [
+                  "66:5b:85:48:f2:57"
+                ],
+                "wireless": [
+                  "66:5b:85:48:f2:51"
+                ]
+              }
+            }
+          },
+          "mesh_interfaces": null
+        },
+        "node_id": "18d6c7870802",
+        "owner": null,
+        "software": {
+          "autoupdater": {
+            "branch": "stable",
+            "enabled": true
+          },
+          "babeld": {},
+          "batman-adv": {
+            "compat": 15,
+            "version": "2016.2"
+          },
+          "fastd": {
+            "enabled": true,
+            "version": "v18"
+          },
+          "firmware": {
+            "base": "gluon-v2016.2.6",
+            "release": "2016.2.6+mwu1"
+          },
+          "status-page": {
+            "api": 1
+          }
+        },
+        "system": {
+          "site_code": "ffmz"
+        },
+        "vpn": false
+      },
+      "online": false,
+      "score": 1.0
     }
   ],
-  "updated_at": "2019-09-09T14:23:03.255005",
+  "updated_at": "2019-09-09T21:23:04.202425",
   "version": "0.9a8"
 }
