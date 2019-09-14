@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "clients": 135,
+      "clients": 102,
       "id": "0019997cf414",
       "name": {
         "hardware": {
@@ -68,10 +68,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 46299.3000000001
+      "score": 46313.890000000094
     },
     {
-      "clients": 4,
+      "clients": 3,
       "id": "02d504c191db",
       "name": {
         "hardware": {
@@ -134,7 +134,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 26656.319999994907
+      "score": 26663.469999994904
     },
     {
       "clients": 0,
@@ -204,7 +204,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 25795.299999998755
+      "score": 25802.299999998755
     },
     {
       "clients": 0,
@@ -274,7 +274,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 24689.339999998552
+      "score": 24696.339999998552
     },
     {
       "clients": 8,
@@ -357,10 +357,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 24125.01999999906
+      "score": 24132.58999999907
     },
     {
-      "clients": 5,
+      "clients": 4,
       "id": "00199967fba4",
       "name": {
         "hardware": {
@@ -427,7 +427,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 17995.34000000131
+      "score": 18002.580000001308
     },
     {
       "clients": 1,
@@ -498,76 +498,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 10305.240000001784
-    },
-    {
-      "clients": 0,
-      "id": "a42bb0b0f9ea",
-      "name": {
-        "hardware": {
-          "model": "TP-Link CPE210 v1.1",
-          "nproc": 1
-        },
-        "hostname": "Elsa 59-T3",
-        "network": {
-          "addresses": [
-            "2a03:2260:11a:a100:a62b:b0ff:feb0:f9ea",
-            "fe80::a62b:b0ff:feb0:f9ea",
-            "2a03:2260:11a:1700:a62b:b0ff:feb0:f9ea",
-            "fd37:b4dc:4b1e::a62b:b0ff:feb0:f9ea",
-            "2a03:2260:11a:6500:a62b:b0ff:feb0:f9ea",
-            "2a03:2260:11a:e700:a62b:b0ff:feb0:f9ea",
-            "2a03:2260:11a:700:a62b:b0ff:feb0:f9ea"
-          ],
-          "mac": "a4:2b:b0:b0:f9:ea",
-          "mesh": {
-            "bat0": {
-              "interfaces": {
-                "other": [
-                  "46:e6:da:94:ce:a3"
-                ],
-                "tunnel": [
-                  "46:e6:da:94:ce:a7"
-                ],
-                "wireless": [
-                  "46:e6:da:94:ce:a1"
-                ]
-              }
-            }
-          },
-          "mesh_interfaces": null
-        },
-        "node_id": "a42bb0b0f9ea",
-        "owner": null,
-        "software": {
-          "autoupdater": {
-            "branch": "stable",
-            "enabled": true
-          },
-          "babeld": {},
-          "batman-adv": {
-            "compat": 15,
-            "version": "2017.2"
-          },
-          "fastd": {
-            "enabled": true,
-            "version": "v18"
-          },
-          "firmware": {
-            "base": "gluon-v2017.1.4",
-            "release": "2017.1.4+mwu1"
-          },
-          "status-page": {
-            "api": 1
-          }
-        },
-        "system": {
-          "site_code": "ffmz"
-        },
-        "vpn": false
-      },
-      "online": false,
-      "score": 7.0
+      "score": 10312.310000001786
     },
     {
       "clients": 0,
@@ -632,7 +563,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 6.0
+      "score": 9.0
     },
     {
       "clients": 0,
@@ -700,7 +631,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 4.089999999999999
+      "score": 8.0
     },
     {
       "clients": 0,
@@ -771,7 +702,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 4.0
+      "score": 7.0
     },
     {
       "clients": 0,
@@ -840,7 +771,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 2.0
+      "score": 5.0
     },
     {
       "clients": 0,
@@ -909,9 +840,9 @@
         "vpn": false
       },
       "online": false,
-      "score": 1.0
+      "score": 4.0
     }
   ],
-  "updated_at": "2019-09-14T00:23:03.182236",
+  "updated_at": "2019-09-14T07:23:02.936638",
   "version": "0.9a8"
 }
