@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "clients": 102,
+      "clients": 125,
       "id": "0019997cf414",
       "name": {
         "hardware": {
@@ -68,10 +68,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 47332.540000000095
+      "score": 47348.100000000086
     },
     {
-      "clients": 2,
+      "clients": 1,
       "id": "02d504c191db",
       "name": {
         "hardware": {
@@ -134,10 +134,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 27125.289999994395
+      "score": 27132.359999994384
     },
     {
-      "clients": 0,
+      "clients": 1,
       "id": "a42bb0ca7958",
       "name": {
         "hardware": {
@@ -204,7 +204,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 26260.039999998677
+      "score": 26267.059999998673
     },
     {
       "clients": 0,
@@ -274,10 +274,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 25140.439999998398
+      "score": 25147.459999998395
     },
     {
-      "clients": 8,
+      "clients": 10,
       "id": "a42bb0ca87c0",
       "name": {
         "hardware": {
@@ -357,10 +357,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 24627.25999999961
+      "score": 24634.859999999615
     },
     {
-      "clients": 2,
+      "clients": 3,
       "id": "00199967fba4",
       "name": {
         "hardware": {
@@ -427,7 +427,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 18481.7700000013
+      "score": 18488.920000001297
     },
     {
       "clients": 1,
@@ -498,80 +498,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 10772.870000001885
-    },
-    {
-      "clients": 0,
-      "id": "14cc20c2a584",
-      "name": {
-        "hardware": {
-          "model": "TP-Link TL-WR841N/ND v9",
-          "nproc": 1
-        },
-        "hostname": "Offenheim2",
-        "location": {
-          "latitude": 49.725574,
-          "longitude": 8.029571
-        },
-        "network": {
-          "addresses": [
-            "fd37:b4dc:4b1e:0:16cc:20ff:fec2:a584",
-            "2a03:2260:11a:6500:16cc:20ff:fec2:a584",
-            "2a03:2260:11a:e700:16cc:20ff:fec2:a584",
-            "2a03:2260:11a:1700:16cc:20ff:fec2:a584",
-            "fe80:0:0:0:16cc:20ff:fec2:a584",
-            "2a03:2260:11a:a100:16cc:20ff:fec2:a584",
-            "2a03:2260:11a:700:16cc:20ff:fec2:a584"
-          ],
-          "mac": "14:cc:20:c2:a5:84",
-          "mesh": {
-            "bat0": {
-              "interfaces": {
-                "tunnel": [
-                  "16:d0:20:c2:a5:84"
-                ],
-                "wireless": [
-                  "16:cf:21:c2:a5:84"
-                ]
-              }
-            }
-          },
-          "mesh_interfaces": [
-            "16:d0:20:c2:a5:84",
-            "16:cf:21:c2:a5:84"
-          ]
-        },
-        "node_id": "14cc20c2a584",
-        "owner": null,
-        "software": {
-          "autoupdater": {
-            "branch": "stable",
-            "enabled": true
-          },
-          "babeld": {},
-          "batman-adv": {
-            "compat": 15,
-            "version": "2015.0"
-          },
-          "fastd": {
-            "enabled": true,
-            "version": "v17"
-          },
-          "firmware": {
-            "base": "gluon-v2015.1.2",
-            "release": "0.2.2-stable"
-          },
-          "status-page": {
-            "api": 0
-          }
-        },
-        "system": {
-          "site_code": "ffmz"
-        },
-        "vpn": false
-      },
-      "online": false,
-      "score": 7.0
+      "score": 10779.940000001887
     },
     {
       "clients": 0,
@@ -639,7 +566,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 2.0
+      "score": 5.0
     },
     {
       "clients": 0,
@@ -710,9 +637,9 @@
         "vpn": false
       },
       "online": false,
-      "score": 1.0
+      "score": 4.0
     }
   ],
-  "updated_at": "2019-10-03T07:23:03.040497",
+  "updated_at": "2019-10-03T14:23:03.032586",
   "version": "0.9a8"
 }
