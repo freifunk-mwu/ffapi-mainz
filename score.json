@@ -68,10 +68,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 47578.440000000024
+      "score": 47586.02000000002
     },
     {
-      "clients": 6,
+      "clients": 1,
       "id": "02d504c191db",
       "name": {
         "hardware": {
@@ -134,7 +134,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 27237.68999999433
+      "score": 27240.779999994327
     },
     {
       "clients": 0,
@@ -204,7 +204,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 26370.19999999865
+      "score": 26373.19999999865
     },
     {
       "clients": 3,
@@ -274,7 +274,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 25250.599999998376
+      "score": 25253.689999998373
     },
     {
       "clients": 8,
@@ -357,10 +357,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 24746.339999999767
+      "score": 24749.579999999773
     },
     {
-      "clients": 7,
+      "clients": 8,
       "id": "00199967fba4",
       "name": {
         "hardware": {
@@ -427,7 +427,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 18595.15000000127
+      "score": 18598.400000001275
     },
     {
       "clients": 1,
@@ -498,7 +498,75 @@
         "vpn": false
       },
       "online": true,
-      "score": 10883.97000000191
+      "score": 10887.00000000191
+    },
+    {
+      "clients": 0,
+      "id": "60e327ed9928",
+      "name": {
+        "hardware": {
+          "model": "TP-Link TL-WR841N/ND v10",
+          "nproc": 1
+        },
+        "hostname": "MzEb-Ehrenmal2",
+        "location": {
+          "latitude": 49.912821,
+          "longitude": 8.242643
+        },
+        "network": {
+          "addresses": [
+            "2a03:2260:11a:700:62e3:27ff:feed:9928",
+            "fd37:b4dc:4b1e:0:62e3:27ff:feed:9928",
+            "fe80::62e3:27ff:feed:9928",
+            "2a03:2260:11a:e700:62e3:27ff:feed:9928",
+            "2a03:2260:11a:6500:62e3:27ff:feed:9928",
+            "2a03:2260:11a:1700:62e3:27ff:feed:9928",
+            "2a03:2260:11a:a100:62e3:27ff:feed:9928"
+          ],
+          "mac": "60:e3:27:ed:99:28",
+          "mesh": {
+            "bat0": {
+              "interfaces": {
+                "other": [
+                  "2e:66:fa:3a:2e:c3"
+                ],
+                "wireless": [
+                  "2e:66:fa:3a:2e:c1"
+                ]
+              }
+            }
+          },
+          "mesh_interfaces": null
+        },
+        "node_id": "60e327ed9928",
+        "owner": null,
+        "software": {
+          "autoupdater": {
+            "branch": "experimental"
+          },
+          "babeld": {},
+          "batman-adv": {
+            "compat": 15,
+            "version": "2016.2"
+          },
+          "fastd": {
+            "version": "v18"
+          },
+          "firmware": {
+            "base": "gluon-v2016.2.5",
+            "release": "2016.2.5+mwu3"
+          },
+          "status-page": {
+            "api": 1
+          }
+        },
+        "system": {
+          "site_code": "ffmz"
+        },
+        "vpn": false
+      },
+      "online": false,
+      "score": 9.0
     },
     {
       "clients": 0,
@@ -571,77 +639,9 @@
         "vpn": false
       },
       "online": false,
-      "score": 7.0
-    },
-    {
-      "clients": 0,
-      "id": "60e327ed9928",
-      "name": {
-        "hardware": {
-          "model": "TP-Link TL-WR841N/ND v10",
-          "nproc": 1
-        },
-        "hostname": "MzEb-Ehrenmal2",
-        "location": {
-          "latitude": 49.912821,
-          "longitude": 8.242643
-        },
-        "network": {
-          "addresses": [
-            "2a03:2260:11a:700:62e3:27ff:feed:9928",
-            "fd37:b4dc:4b1e:0:62e3:27ff:feed:9928",
-            "fe80::62e3:27ff:feed:9928",
-            "2a03:2260:11a:e700:62e3:27ff:feed:9928",
-            "2a03:2260:11a:6500:62e3:27ff:feed:9928",
-            "2a03:2260:11a:1700:62e3:27ff:feed:9928",
-            "2a03:2260:11a:a100:62e3:27ff:feed:9928"
-          ],
-          "mac": "60:e3:27:ed:99:28",
-          "mesh": {
-            "bat0": {
-              "interfaces": {
-                "other": [
-                  "2e:66:fa:3a:2e:c3"
-                ],
-                "wireless": [
-                  "2e:66:fa:3a:2e:c1"
-                ]
-              }
-            }
-          },
-          "mesh_interfaces": null
-        },
-        "node_id": "60e327ed9928",
-        "owner": null,
-        "software": {
-          "autoupdater": {
-            "branch": "experimental"
-          },
-          "babeld": {},
-          "batman-adv": {
-            "compat": 15,
-            "version": "2016.2"
-          },
-          "fastd": {
-            "version": "v18"
-          },
-          "firmware": {
-            "base": "gluon-v2016.2.5",
-            "release": "2016.2.5+mwu3"
-          },
-          "status-page": {
-            "api": 1
-          }
-        },
-        "system": {
-          "site_code": "ffmz"
-        },
-        "vpn": false
-      },
-      "online": false,
-      "score": 2.0
+      "score": 4.0
     }
   ],
-  "updated_at": "2019-10-07T21:23:03.141231",
+  "updated_at": "2019-10-08T00:23:02.196024",
   "version": "0.9a8"
 }
