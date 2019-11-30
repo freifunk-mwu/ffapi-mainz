@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "clients": 135,
+      "clients": 125,
       "id": "0019997cf414",
       "name": {
         "hardware": {
@@ -15,11 +15,17 @@
         },
         "network": {
           "addresses": [
+            "2a03:2260:11a:a101:219:99ff:fe7c:f414",
+            "2a03:2260:11a:6501:219:99ff:fe7c:f414",
+            "2a03:2260:11a:1701:219:99ff:fe7c:f414",
+            "2a03:2260:11a:e701:219:99ff:fe7c:f414",
+            "2a03:2260:11a:701:219:99ff:fe7c:f414",
             "2a03:2260:11a:1700:219:99ff:fe7c:f414",
             "2a03:2260:11a:700:219:99ff:fe7c:f414",
             "2a03:2260:11a:e700:219:99ff:fe7c:f414",
             "2a03:2260:11a:6500:219:99ff:fe7c:f414",
             "2a03:2260:11a:a100:219:99ff:fe7c:f414",
+            "fd86:b4dc:4b1e:1:219:99ff:fe7c:f414",
             "fd37:b4dc:4b1e:0:219:99ff:fe7c:f414",
             "fe80::219:99ff:fe7c:f414"
           ],
@@ -68,10 +74,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 50454.770000000055
+      "score": 50470.370000000046
     },
     {
-      "clients": 1,
+      "clients": 2,
       "id": "02d504c191db",
       "name": {
         "hardware": {
@@ -85,7 +91,11 @@
         },
         "network": {
           "addresses": [
+            "fd86:b4dc:4b1e:1:d5:4ff:fec1:91db",
             "fd37:b4dc:4b1e:0:d5:4ff:fec1:91db",
+            "2a03:2260:11a:6501:d5:4ff:fec1:91db",
+            "2a03:2260:11a:a101:d5:4ff:fec1:91db",
+            "2a03:2260:11a:1701:d5:4ff:fec1:91db",
             "2a03:2260:11a:a100:d5:4ff:fec1:91db",
             "2a03:2260:11a:6500:d5:4ff:fec1:91db",
             "2a03:2260:11a:700:d5:4ff:fec1:91db",
@@ -134,10 +144,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 28549.339999993445
+      "score": 28556.459999993443
     },
     {
-      "clients": 1,
+      "clients": 0,
       "id": "a42bb0ca7958",
       "name": {
         "hardware": {
@@ -154,10 +164,16 @@
           "addresses": [
             "2a03:2260:11a:e700:a62b:b0ff:feca:7958",
             "fe80::a62b:b0ff:feca:7958",
+            "fd86:b4dc:4b1e:1:a62b:b0ff:feca:7958",
             "2a03:2260:11a:700:a62b:b0ff:feca:7958",
+            "2a03:2260:11a:6501:a62b:b0ff:feca:7958",
             "2a03:2260:11a:a100:a62b:b0ff:feca:7958",
+            "2a03:2260:11a:e701:a62b:b0ff:feca:7958",
+            "2a03:2260:11a:701:a62b:b0ff:feca:7958",
             "2a03:2260:11a:1700:a62b:b0ff:feca:7958",
+            "2a03:2260:11a:a101:a62b:b0ff:feca:7958",
             "fd37:b4dc:4b1e:0:a62b:b0ff:feca:7958",
+            "2a03:2260:11a:1701:a62b:b0ff:feca:7958",
             "2a03:2260:11a:6500:a62b:b0ff:feca:7958"
           ],
           "mac": "a4:2b:b0:ca:79:58",
@@ -204,10 +220,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 27664.549999998206
+      "score": 27671.579999998205
     },
     {
-      "clients": 0,
+      "clients": 1,
       "id": "a42bb0ca778e",
       "name": {
         "hardware": {
@@ -223,11 +239,17 @@
         "network": {
           "addresses": [
             "fe80::a62b:b0ff:feca:778e",
+            "2a03:2260:11a:1701:a62b:b0ff:feca:778e",
             "2a03:2260:11a:e700:a62b:b0ff:feca:778e",
             "2a03:2260:11a:6500:a62b:b0ff:feca:778e",
             "2a03:2260:11a:700:a62b:b0ff:feca:778e",
             "fd37:b4dc:4b1e:0:a62b:b0ff:feca:778e",
             "2a03:2260:11a:a100:a62b:b0ff:feca:778e",
+            "2a03:2260:11a:e701:a62b:b0ff:feca:778e",
+            "2a03:2260:11a:6501:a62b:b0ff:feca:778e",
+            "2a03:2260:11a:701:a62b:b0ff:feca:778e",
+            "2a03:2260:11a:a101:a62b:b0ff:feca:778e",
+            "fd86:b4dc:4b1e:1:a62b:b0ff:feca:778e",
             "2a03:2260:11a:1700:a62b:b0ff:feca:778e"
           ],
           "mac": "a4:2b:b0:ca:77:8e",
@@ -274,7 +296,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 26527.019999997723
+      "score": 26534.099999997718
     },
     {
       "clients": 9,
@@ -293,11 +315,16 @@
           "addresses": [
             "2a03:2260:11a:700:a62b:b0ff:feca:87c0",
             "2a03:2260:11a:e700:a62b:b0ff:feca:87c0",
+            "2a03:2260:11a:a101:a62b:b0ff:feca:87c0",
             "2a03:2260:11a:6500:a62b:b0ff:feca:87c0",
             "fd37:b4dc:4b1e::a62b:b0ff:feca:87c0",
             "fe80::a62b:b0ff:feca:87c0",
+            "2a03:2260:11a:e701:a62b:b0ff:feca:87c0",
+            "2a03:2260:11a:6501:a62b:b0ff:feca:87c0",
             "2a03:2260:11a:1700:a62b:b0ff:feca:87c0",
-            "2a03:2260:11a:a100:a62b:b0ff:feca:87c0"
+            "fd86:b4dc:4b1e:1:a62b:b0ff:feca:87c0",
+            "2a03:2260:11a:a100:a62b:b0ff:feca:87c0",
+            "2a03:2260:11a:1701:a62b:b0ff:feca:87c0"
           ],
           "mac": "a4:2b:b0:ca:87:c0",
           "mesh": {
@@ -357,10 +384,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 26152.040000000066
+      "score": 26159.670000000067
     },
     {
-      "clients": 4,
+      "clients": 19,
       "id": "00199967fba4",
       "name": {
         "hardware": {
@@ -375,11 +402,17 @@
         "network": {
           "addresses": [
             "fe80::219:99ff:fe67:fba4",
+            "2a03:2260:11a:701:219:99ff:fe67:fba4",
+            "2a03:2260:11a:e701:219:99ff:fe67:fba4",
+            "2a03:2260:11a:1701:219:99ff:fe67:fba4",
+            "2a03:2260:11a:6501:219:99ff:fe67:fba4",
+            "2a03:2260:11a:a101:219:99ff:fe67:fba4",
             "2a03:2260:11a:700:219:99ff:fe67:fba4",
             "2a03:2260:11a:1700:219:99ff:fe67:fba4",
             "2a03:2260:11a:e700:219:99ff:fe67:fba4",
             "2a03:2260:11a:a100:219:99ff:fe67:fba4",
             "2a03:2260:11a:6500:219:99ff:fe67:fba4",
+            "fd86:b4dc:4b1e:1:219:99ff:fe67:fba4",
             "fd37:b4dc:4b1e::219:99ff:fe67:fba4"
           ],
           "mac": "00:19:99:67:fb:a4",
@@ -427,7 +460,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 19942.740000001075
+      "score": 19951.350000001075
     },
     {
       "clients": 1,
@@ -446,11 +479,15 @@
           "addresses": [
             "2a03:2260:11a:e700:a00:27ff:fea9:eef1",
             "fe80::a00:27ff:fea9:eef1",
+            "2a03:2260:11a:6501:a00:27ff:fea9:eef1",
+            "2a03:2260:11a:a101:a00:27ff:fea9:eef1",
+            "2a03:2260:11a:1701:a00:27ff:fea9:eef1",
             "2a03:2260:11a:1700:a00:27ff:fea9:eef1",
             "2a03:2260:11a:a100:a00:27ff:fea9:eef1",
             "2a03:2260:11a:700:a00:27ff:fea9:eef1",
             "2a03:2260:11a:6500:a00:27ff:fea9:eef1",
-            "fd37:b4dc:4b1e::a00:27ff:fea9:eef1"
+            "fd37:b4dc:4b1e::a00:27ff:fea9:eef1",
+            "fd86:b4dc:4b1e:1:a00:27ff:fea9:eef1"
           ],
           "mac": "08:00:27:a9:ee:f1",
           "mesh": {
@@ -495,9 +532,9 @@
         "vpn": false
       },
       "online": true,
-      "score": 12186.87000000219
+      "score": 12193.940000002192
     }
   ],
-  "updated_at": "2019-11-30T14:23:02.956454",
+  "updated_at": "2019-11-30T21:23:03.182809",
   "version": "0.9a8"
 }
