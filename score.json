@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "clients": 153,
+      "clients": 144,
       "id": "0019997cf414",
       "name": {
         "hardware": {
@@ -68,10 +68,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 50973.930000000066
+      "score": 50986.080000000075
     },
     {
-      "clients": 1,
+      "clients": 0,
       "id": "02d504c191db",
       "name": {
         "hardware": {
@@ -134,7 +134,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 28774.239999993184
+      "score": 28779.239999993184
     },
     {
       "clients": 0,
@@ -204,10 +204,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 27887.299999998155
+      "score": 27892.299999998155
     },
     {
-      "clients": 4,
+      "clients": 1,
       "id": "a42bb0ca778e",
       "name": {
         "hardware": {
@@ -274,7 +274,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 26749.979999997682
+      "score": 26755.029999997674
     },
     {
       "clients": 9,
@@ -357,10 +357,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 26394.0200000001
+      "score": 26399.4700000001
     },
     {
-      "clients": 12,
+      "clients": 9,
       "id": "00199967fba4",
       "name": {
         "hardware": {
@@ -427,7 +427,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 20175.91000000102
+      "score": 20181.400000001024
     },
     {
       "clients": 1,
@@ -444,21 +444,24 @@
         },
         "network": {
           "addresses": [
-            "2a03:2260:11a:e700:a00:27ff:fea9:eef1",
+            "2a03:2260:11a:6500:a00:27ff:fea9:eef1",
             "fe80::a00:27ff:fea9:eef1",
-            "2a03:2260:11a:1700:a00:27ff:fea9:eef1",
+            "fd37:b4dc:4b1e::a00:27ff:fea9:eef1",
             "2a03:2260:11a:a100:a00:27ff:fea9:eef1",
             "2a03:2260:11a:700:a00:27ff:fea9:eef1",
-            "2a03:2260:11a:6500:a00:27ff:fea9:eef1",
-            "fd37:b4dc:4b1e::a00:27ff:fea9:eef1"
+            "2a03:2260:11a:1700:a00:27ff:fea9:eef1",
+            "2a03:2260:11a:e700:a00:27ff:fea9:eef1"
           ],
           "mac": "08:00:27:a9:ee:f1",
           "mesh": {
             "bat0": {
               "interfaces": {
                 "other": [
-                  "4a:0c:3d:f3:61:43",
-                  "86:a0:d4:44:66:66"
+                  "86:a0:d4:44:66:66",
+                  "4a:0c:3d:f3:61:43"
+                ],
+                "tunnel": [
+                  "4a:0c:3d:f3:61:47"
                 ]
               }
             }
@@ -474,15 +477,15 @@
           "babeld": {},
           "batman-adv": {
             "compat": 15,
-            "version": "2018.1"
+            "version": "openwrt-2018.1-5"
           },
           "fastd": {
             "enabled": true,
             "version": "v18"
           },
           "firmware": {
-            "base": "gluon-v2018.1.1",
-            "release": "2018.1.1+mwu1"
+            "base": "gluon-v2018.2",
+            "release": "2018.2+mwu0"
           },
           "status-page": {
             "api": 0
@@ -495,9 +498,9 @@
         "vpn": false
       },
       "online": true,
-      "score": 12378.930000002236
+      "score": 12383.980000002237
     }
   ],
-  "updated_at": "2019-12-09T21:23:03.232299",
+  "updated_at": "2019-12-11T00:23:03.690689",
   "version": "0.9a8"
 }
