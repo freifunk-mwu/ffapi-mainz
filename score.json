@@ -68,7 +68,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 53225.81000000031
+      "score": 53242.80000000031
     },
     {
       "clients": 0,
@@ -86,11 +86,11 @@
         "network": {
           "addresses": [
             "fd37:b4dc:4b1e:0:d5:4ff:fec1:91db",
-            "2a03:2260:11a:a100:d5:4ff:fec1:91db",
-            "2a03:2260:11a:6500:d5:4ff:fec1:91db",
-            "2a03:2260:11a:700:d5:4ff:fec1:91db",
-            "2a03:2260:11a:e700:d5:4ff:fec1:91db",
             "2a03:2260:11a:1700:d5:4ff:fec1:91db",
+            "2a03:2260:11a:e700:d5:4ff:fec1:91db",
+            "2a03:2260:11a:a100:d5:4ff:fec1:91db",
+            "2a03:2260:11a:700:d5:4ff:fec1:91db",
+            "2a03:2260:11a:6500:d5:4ff:fec1:91db",
             "fe80::d5:4ff:fec1:91db"
           ],
           "mac": "02:d5:04:c1:91:db",
@@ -99,6 +99,9 @@
               "interfaces": {
                 "other": [
                   "a6:4c:10:5b:0a:30"
+                ],
+                "tunnel": [
+                  "a6:4c:d4:5b:0a:30"
                 ]
               }
             }
@@ -134,7 +137,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 29752.239999993184
+      "score": 29759.239999993184
     },
     {
       "clients": 0,
@@ -204,10 +207,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 28870.05999999794
+      "score": 28877.089999997937
     },
     {
-      "clients": 0,
+      "clients": 1,
       "id": "a42bb0ca778e",
       "name": {
         "hardware": {
@@ -274,7 +277,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 27731.079999997404
+      "score": 27738.1599999974
     },
     {
       "clients": 9,
@@ -357,10 +360,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 27426.65000000023
+      "score": 27434.28000000023
     },
     {
-      "clients": 0,
+      "clients": 12,
       "id": "00199967fba4",
       "name": {
         "hardware": {
@@ -427,7 +430,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 21187.700000000805
+      "score": 21195.2800000008
     },
     {
       "clients": 1,
@@ -498,7 +501,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 13328.520000002445
+      "score": 13335.590000002447
     },
     {
       "clients": 0,
@@ -563,9 +566,9 @@
         "vpn": false
       },
       "online": true,
-      "score": 49.0
+      "score": 56.0
     }
   ],
-  "updated_at": "2020-01-20T14:23:02.856513",
+  "updated_at": "2020-01-20T21:23:02.751862",
   "version": "0.9a8"
 }
