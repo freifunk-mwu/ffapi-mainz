@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "clients": 150,
+      "clients": 166,
       "id": "0019997cf414",
       "name": {
         "hardware": {
@@ -15,6 +15,7 @@
         },
         "network": {
           "addresses": [
+            "2a03:2260:11a:700:219:99ff:fe7c:f414",
             "2a03:2260:11a:e700:219:99ff:fe7c:f414",
             "2a03:2260:11a:1700:219:99ff:fe7c:f414",
             "2a03:2260:11a:6500:219:99ff:fe7c:f414",
@@ -67,7 +68,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 53513.01000000027
+      "score": 53530.31000000028
     },
     {
       "clients": 0,
@@ -88,6 +89,7 @@
             "2a03:2260:11a:1700:d5:4ff:fec1:91db",
             "2a03:2260:11a:e700:d5:4ff:fec1:91db",
             "2a03:2260:11a:a100:d5:4ff:fec1:91db",
+            "2a03:2260:11a:700:d5:4ff:fec1:91db",
             "2a03:2260:11a:6500:d5:4ff:fec1:91db",
             "fe80::d5:4ff:fec1:91db"
           ],
@@ -135,10 +137,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 29872.239999993184
+      "score": 29879.239999993184
     },
     {
-      "clients": 1,
+      "clients": 0,
       "id": "a42bb0ca7958",
       "name": {
         "hardware": {
@@ -155,6 +157,7 @@
           "addresses": [
             "2a03:2260:11a:e700:a62b:b0ff:feca:7958",
             "fe80::a62b:b0ff:feca:7958",
+            "2a03:2260:11a:700:a62b:b0ff:feca:7958",
             "2a03:2260:11a:a100:a62b:b0ff:feca:7958",
             "2a03:2260:11a:1700:a62b:b0ff:feca:7958",
             "fd37:b4dc:4b1e:0:a62b:b0ff:feca:7958",
@@ -204,10 +207,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 28990.339999997916
+      "score": 28997.359999997912
     },
     {
-      "clients": 2,
+      "clients": 1,
       "id": "a42bb0ca778e",
       "name": {
         "hardware": {
@@ -225,6 +228,7 @@
             "fe80::a62b:b0ff:feca:778e",
             "2a03:2260:11a:e700:a62b:b0ff:feca:778e",
             "2a03:2260:11a:6500:a62b:b0ff:feca:778e",
+            "2a03:2260:11a:700:a62b:b0ff:feca:778e",
             "fd37:b4dc:4b1e:0:a62b:b0ff:feca:778e",
             "2a03:2260:11a:a100:a62b:b0ff:feca:778e",
             "2a03:2260:11a:1700:a62b:b0ff:feca:778e"
@@ -273,7 +277,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 27851.799999997336
+      "score": 27858.859999997334
     },
     {
       "clients": 9,
@@ -290,6 +294,7 @@
         },
         "network": {
           "addresses": [
+            "2a03:2260:11a:700:a62b:b0ff:feca:87c0",
             "2a03:2260:11a:e700:a62b:b0ff:feca:87c0",
             "2a03:2260:11a:6500:a62b:b0ff:feca:87c0",
             "fd37:b4dc:4b1e::a62b:b0ff:feca:87c0",
@@ -355,7 +360,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 27557.460000000247
+      "score": 27565.090000000248
     },
     {
       "clients": 3,
@@ -373,6 +378,7 @@
         "network": {
           "addresses": [
             "fe80::219:99ff:fe67:fba4",
+            "2a03:2260:11a:700:219:99ff:fe67:fba4",
             "2a03:2260:11a:1700:219:99ff:fe67:fba4",
             "2a03:2260:11a:e700:219:99ff:fe67:fba4",
             "2a03:2260:11a:a100:219:99ff:fe67:fba4",
@@ -424,7 +430,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 21315.210000000814
+      "score": 21322.40000000081
     },
     {
       "clients": 1,
@@ -445,6 +451,7 @@
             "fe80::a00:27ff:fea9:eef1",
             "fd37:b4dc:4b1e::a00:27ff:fea9:eef1",
             "2a03:2260:11a:a100:a00:27ff:fea9:eef1",
+            "2a03:2260:11a:700:a00:27ff:fea9:eef1",
             "2a03:2260:11a:1700:a00:27ff:fea9:eef1",
             "2a03:2260:11a:e700:a00:27ff:fea9:eef1"
           ],
@@ -494,7 +501,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 13449.720000002471
+      "score": 13456.790000002473
     },
     {
       "clients": 0,
@@ -511,6 +518,7 @@
             "fd37:b4dc:4b1e:0:92f6:52ff:fec9:ce3e",
             "fe80::92f6:52ff:fec9:ce3e",
             "2a03:2260:11a:a100:92f6:52ff:fec9:ce3e",
+            "2a03:2260:11a:700:92f6:52ff:fec9:ce3e",
             "2a03:2260:11a:6500:92f6:52ff:fec9:ce3e",
             "2a03:2260:11a:e700:92f6:52ff:fec9:ce3e"
           ],
@@ -558,9 +566,9 @@
         "vpn": false
       },
       "online": true,
-      "score": 159.0
+      "score": 166.0
     }
   ],
-  "updated_at": "2020-01-25T14:23:12.424669",
+  "updated_at": "2020-01-25T21:23:02.260513",
   "version": "0.9a8"
 }
