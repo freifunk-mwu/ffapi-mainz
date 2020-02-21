@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "clients": 119,
+      "clients": 145,
       "id": "0019997cf414",
       "name": {
         "hardware": {
@@ -68,7 +68,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 55076.42000000025
+      "score": 55093.26000000025
     },
     {
       "clients": 0,
@@ -137,7 +137,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 30520.239999993184
+      "score": 30527.239999993184
     },
     {
       "clients": 0,
@@ -207,7 +207,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 29641.439999997805
+      "score": 29648.4599999978
     },
     {
       "clients": 0,
@@ -277,7 +277,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 28503.42999999714
+      "score": 28510.44999999714
     },
     {
       "clients": 9,
@@ -360,10 +360,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 28263.820000000334
+      "score": 28271.450000000335
     },
     {
-      "clients": 1,
+      "clients": 11,
       "id": "00199967fba4",
       "name": {
         "hardware": {
@@ -430,7 +430,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 21992.170000000726
+      "score": 21999.820000000727
     },
     {
       "clients": 1,
@@ -462,9 +462,6 @@
                 "other": [
                   "86:a0:d4:44:66:66",
                   "4a:0c:3d:f3:61:43"
-                ],
-                "tunnel": [
-                  "4a:0c:3d:f3:61:47"
                 ]
               }
             }
@@ -501,7 +498,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 14104.200000002613
+      "score": 14111.270000002614
     },
     {
       "clients": 0,
@@ -566,7 +563,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 3.0
+      "score": 6.0
     },
     {
       "clients": 0,
@@ -642,9 +639,9 @@
         "vpn": false
       },
       "online": false,
-      "score": 1.0
+      "score": 4.0
     }
   ],
-  "updated_at": "2020-02-21T14:23:02.873458",
+  "updated_at": "2020-02-21T21:23:03.733415",
   "version": "0.9a8"
 }
