@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "clients": 145,
+      "clients": 130,
       "id": "0019997cf414",
       "name": {
         "hardware": {
@@ -68,7 +68,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 55772.02000000023
+      "score": 55788.27000000023
     },
     {
       "clients": 0,
@@ -137,7 +137,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 30801.239999993184
+      "score": 30808.239999993184
     },
     {
       "clients": 0,
@@ -207,7 +207,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 29923.449999997756
+      "score": 29930.449999997756
     },
     {
       "clients": 0,
@@ -277,7 +277,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 28786.079999996997
+      "score": 28793.079999996997
     },
     {
       "clients": 9,
@@ -360,10 +360,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 28570.110000000375
+      "score": 28577.740000000376
     },
     {
-      "clients": 8,
+      "clients": 5,
       "id": "00199967fba4",
       "name": {
         "hardware": {
@@ -430,7 +430,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 22288.270000000706
+      "score": 22295.560000000707
     },
     {
       "clients": 1,
@@ -501,9 +501,85 @@
         "vpn": false
       },
       "online": true,
-      "score": 14388.010000002674
+      "score": 14395.080000002676
+    },
+    {
+      "clients": 0,
+      "id": "c0a0bbeda9c2",
+      "name": {
+        "hardware": {
+          "model": "D-Link DIR-505 rev. A2",
+          "nproc": 1
+        },
+        "hostname": "noNET-Freifunk",
+        "location": {
+          "latitude": 49.894897,
+          "longitude": 8.089204
+        },
+        "network": {
+          "addresses": [
+            "2a03:2260:11a:700:c2a0:bbff:feed:a9c2",
+            "2a03:2260:11a:700:c2a0:bbff:feed:a9c2",
+            "2a03:2260:11a:e700:c2a0:bbff:feed:a9c2",
+            "2a03:2260:11a:6500:c2a0:bbff:feed:a9c2",
+            "2a03:2260:11a:a100:c2a0:bbff:feed:a9c2",
+            "2a03:2260:11a:1700:c2a0:bbff:feed:a9c2",
+            "fd37:b4dc:4b1e::c2a0:bbff:feed:a9c2",
+            "fe80::c2a0:bbff:feed:a9c2"
+          ],
+          "mac": "c0:a0:bb:ed:a9:c2",
+          "mesh": {
+            "bat0": {
+              "interfaces": {
+                "other": [
+                  "12:88:3d:13:ce:4b",
+                  "12:88:3d:13:ce:48"
+                ],
+                "tunnel": [
+                  "12:88:3d:13:ce:4f"
+                ],
+                "wireless": [
+                  "12:88:3d:13:ce:49"
+                ]
+              }
+            }
+          },
+          "mesh_interfaces": null
+        },
+        "node_id": "c0a0bbeda9c2",
+        "owner": null,
+        "software": {
+          "autoupdater": {
+            "branch": "stable",
+            "enabled": true
+          },
+          "babeld": {},
+          "batman-adv": {
+            "compat": 15,
+            "version": "openwrt-2018.1-5"
+          },
+          "fastd": {
+            "enabled": true,
+            "version": "v18"
+          },
+          "firmware": {
+            "base": "gluon-v2018.2",
+            "release": "2018.2+mwu0"
+          },
+          "status-page": {
+            "api": 0
+          }
+        },
+        "system": {
+          "domain_code": "ffmz",
+          "site_code": "ffmz"
+        },
+        "vpn": false
+      },
+      "online": false,
+      "score": 3.0
     }
   ],
-  "updated_at": "2020-03-04T07:23:04.183004",
+  "updated_at": "2020-03-04T14:23:03.062056",
   "version": "0.9a8"
 }
