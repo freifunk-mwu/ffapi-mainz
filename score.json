@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "clients": 122,
+      "clients": 139,
       "id": "0019997cf414",
       "name": {
         "hardware": {
@@ -68,7 +68,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 56362.87000000029
+      "score": 56378.96000000029
     },
     {
       "clients": 0,
@@ -137,7 +137,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 31041.239999993184
+      "score": 31048.239999993184
     },
     {
       "clients": 0,
@@ -207,10 +207,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 30164.149999997717
+      "score": 30171.169999997714
     },
     {
-      "clients": 0,
+      "clients": 2,
       "id": "a42bb0ca778e",
       "name": {
         "hardware": {
@@ -277,7 +277,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 29023.40999999689
+      "score": 29030.539999996883
     },
     {
       "clients": 9,
@@ -360,10 +360,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 28831.71000000041
+      "score": 28839.34000000041
     },
     {
-      "clients": 1,
+      "clients": 0,
       "id": "00199967fba4",
       "name": {
         "hardware": {
@@ -379,9 +379,9 @@
           "addresses": [
             "fe80::219:99ff:fe67:fba4",
             "2a03:2260:11a:1700:219:99ff:fe67:fba4",
-            "2a03:2260:11a:a100:219:99ff:fe67:fba4",
             "2a03:2260:11a:6500:219:99ff:fe67:fba4",
             "2a03:2260:11a:e700:219:99ff:fe67:fba4",
+            "2a03:2260:11a:a100:219:99ff:fe67:fba4",
             "2a03:2260:11a:700:219:99ff:fe67:fba4",
             "fd37:b4dc:4b1e::219:99ff:fe67:fba4"
           ],
@@ -430,7 +430,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 22542.450000000685
+      "score": 22549.50000000068
     },
     {
       "clients": 1,
@@ -501,7 +501,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 14630.410000002727
+      "score": 14637.480000002728
     },
     {
       "clients": 0,
@@ -566,9 +566,85 @@
         "vpn": false
       },
       "online": true,
-      "score": 152.06
+      "score": 159.06
+    },
+    {
+      "clients": 0,
+      "id": "c0a0bbeda9c2",
+      "name": {
+        "hardware": {
+          "model": "D-Link DIR-505 rev. A2",
+          "nproc": 1
+        },
+        "hostname": "noNET-Freifunk",
+        "location": {
+          "latitude": 49.894897,
+          "longitude": 8.089204
+        },
+        "network": {
+          "addresses": [
+            "2a03:2260:11a:700:c2a0:bbff:feed:a9c2",
+            "2a03:2260:11a:700:c2a0:bbff:feed:a9c2",
+            "2a03:2260:11a:e700:c2a0:bbff:feed:a9c2",
+            "2a03:2260:11a:6500:c2a0:bbff:feed:a9c2",
+            "2a03:2260:11a:a100:c2a0:bbff:feed:a9c2",
+            "2a03:2260:11a:1700:c2a0:bbff:feed:a9c2",
+            "fd37:b4dc:4b1e::c2a0:bbff:feed:a9c2",
+            "fe80::c2a0:bbff:feed:a9c2"
+          ],
+          "mac": "c0:a0:bb:ed:a9:c2",
+          "mesh": {
+            "bat0": {
+              "interfaces": {
+                "other": [
+                  "12:88:3d:13:ce:4b",
+                  "12:88:3d:13:ce:48"
+                ],
+                "tunnel": [
+                  "12:88:3d:13:ce:4f"
+                ],
+                "wireless": [
+                  "12:88:3d:13:ce:49"
+                ]
+              }
+            }
+          },
+          "mesh_interfaces": null
+        },
+        "node_id": "c0a0bbeda9c2",
+        "owner": null,
+        "software": {
+          "autoupdater": {
+            "branch": "stable",
+            "enabled": true
+          },
+          "babeld": {},
+          "batman-adv": {
+            "compat": 15,
+            "version": "openwrt-2018.1-5"
+          },
+          "fastd": {
+            "enabled": true,
+            "version": "v18"
+          },
+          "firmware": {
+            "base": "gluon-v2018.2",
+            "release": "2018.2+mwu0"
+          },
+          "status-page": {
+            "api": 0
+          }
+        },
+        "system": {
+          "domain_code": "ffmz",
+          "site_code": "ffmz"
+        },
+        "vpn": false
+      },
+      "online": false,
+      "score": 3.0
     }
   ],
-  "updated_at": "2020-03-14T07:23:02.163233",
+  "updated_at": "2020-03-14T14:23:02.799016",
   "version": "0.9a8"
 }
