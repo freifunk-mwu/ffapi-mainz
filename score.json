@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "clients": 100,
+      "clients": 103,
       "id": "0019997cf414",
       "name": {
         "hardware": {
@@ -69,7 +69,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 58374.50000000027
+      "score": 58388.49000000027
     },
     {
       "clients": 0,
@@ -139,10 +139,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 31948.239999993184
+      "score": 31955.239999993184
     },
     {
-      "clients": 1,
+      "clients": 0,
       "id": "a42bb0ca7958",
       "name": {
         "hardware": {
@@ -210,10 +210,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 31072.24999999759
+      "score": 31079.24999999759
     },
     {
-      "clients": 1,
+      "clients": 0,
       "id": "a42bb0ca778e",
       "name": {
         "hardware": {
@@ -281,7 +281,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 29932.319999996707
+      "score": 29939.319999996707
     },
     {
       "clients": 9,
@@ -365,10 +365,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 29818.950000000805
+      "score": 29826.540000000812
     },
     {
-      "clients": 4,
+      "clients": 3,
       "id": "00199967fba4",
       "name": {
         "hardware": {
@@ -436,7 +436,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 23478.260000000508
+      "score": 23485.580000000504
     },
     {
       "clients": 1,
@@ -508,7 +508,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 15542.480000002924
+      "score": 15549.550000002926
     },
     {
       "clients": 0,
@@ -574,7 +574,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 1053.12
+      "score": 1060.12
     },
     {
       "clients": 0,
@@ -640,82 +640,9 @@
         "vpn": false
       },
       "online": false,
-      "score": 28.51999999999996
-    },
-    {
-      "clients": 0,
-      "id": "60e327ee50a4",
-      "name": {
-        "hardware": {
-          "model": "TP-Link TL-WR841N/ND v10",
-          "nproc": 1
-        },
-        "hostname": "MZ-kaiserbopp",
-        "location": {
-          "latitude": 50.003512,
-          "longitude": 8.261944
-        },
-        "network": {
-          "addresses": [
-            "fe80::62e3:27ff:feee:50a4",
-            "2a03:2260:11a:1700:62e3:27ff:feee:50a4",
-            "2a03:2260:11a:e700:62e3:27ff:feee:50a4",
-            "2a03:2260:11a:6500:62e3:27ff:feee:50a4",
-            "fd37:b4dc:4b1e:0:62e3:27ff:feee:50a4",
-            "2a03:2260:11a:a100:62e3:27ff:feee:50a4",
-            "2a03:2260:11a:700:62e3:27ff:feee:50a4"
-          ],
-          "mac": "60:e3:27:ee:50:a4",
-          "mesh": {
-            "bat0": {
-              "interfaces": {
-                "other": [
-                  "ce:c4:3c:7c:7f:eb"
-                ],
-                "tunnel": [
-                  "ce:c4:3c:7c:7f:ef"
-                ],
-                "wireless": [
-                  "ce:c4:3c:7c:7f:ea"
-                ]
-              }
-            }
-          },
-          "mesh_interfaces": null
-        },
-        "node_id": "60e327ee50a4",
-        "owner": null,
-        "software": {
-          "autoupdater": {
-            "branch": "stable",
-            "enabled": true
-          },
-          "babeld": {},
-          "batman-adv": {
-            "compat": 15,
-            "version": "2016.2"
-          },
-          "fastd": {
-            "enabled": true,
-            "version": "v18"
-          },
-          "firmware": {
-            "base": "gluon-v2016.2.2",
-            "release": "2016.2.2+mwu1"
-          },
-          "status-page": {
-            "api": 1
-          }
-        },
-        "system": {
-          "site_code": "ffmz"
-        },
-        "vpn": false
-      },
-      "online": false,
-      "score": 7.0
+      "score": 21.51999999999996
     }
   ],
-  "updated_at": "2020-04-21T07:23:02.988623",
+  "updated_at": "2020-04-21T14:23:07.306663",
   "version": "0.9a8"
 }
