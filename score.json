@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "clients": 92,
+      "clients": 100,
       "id": "0019997cf414",
       "name": {
         "hardware": {
@@ -69,7 +69,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 58521.040000000256
+      "score": 58534.62000000026
     },
     {
       "clients": 0,
@@ -139,7 +139,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 32020.239999993184
+      "score": 32027.239999993184
     },
     {
       "clients": 0,
@@ -210,7 +210,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 31144.299999997587
+      "score": 31151.299999997587
     },
     {
       "clients": 0,
@@ -281,7 +281,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 30004.429999996697
+      "score": 30011.429999996697
     },
     {
       "clients": 9,
@@ -365,10 +365,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 29897.15000000087
+      "score": 29904.750000000877
     },
     {
-      "clients": 1,
+      "clients": 2,
       "id": "00199967fba4",
       "name": {
         "hardware": {
@@ -436,7 +436,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 23551.85000000047
+      "score": 23559.050000000472
     },
     {
       "clients": 1,
@@ -508,7 +508,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 15615.20000000294
+      "score": 15622.270000002942
     },
     {
       "clients": 0,
@@ -574,61 +574,66 @@
         "vpn": false
       },
       "online": true,
-      "score": 1125.12
+      "score": 1132.12
     },
     {
       "clients": 0,
-      "id": "e8de27bc88ae",
+      "id": "18d6c744e04c",
       "name": {
         "hardware": {
-          "model": "TP-Link TL-WR1043N/ND v2",
+          "model": "TP-Link TL-WR841N/ND v11",
           "nproc": 1
         },
-        "hostname": "warpgate",
+        "hostname": "BaLue131",
+        "location": {
+          "latitude": 49.84305,
+          "longitude": 7.860675
+        },
         "network": {
           "addresses": [
-            "2a03:2260:11a:6f00:eade:27ff:febc:88ae",
-            "2a03:2260:11a:700:eade:27ff:febc:88ae",
-            "2a03:2260:11a:e700:eade:27ff:febc:88ae",
-            "2a03:2260:11a:6500:eade:27ff:febc:88ae",
-            "2a03:2260:11a:1700:eade:27ff:febc:88ae",
-            "fd37:b4dc:4b1e:0:eade:27ff:febc:88ae",
-            "fe80::eade:27ff:febc:88ae",
-            "2a03:2260:11a:a100:eade:27ff:febc:88ae"
+            "2a03:2260:11a:1700:1ad6:c7ff:fe44:e04c",
+            "fe80::1ad6:c7ff:fe44:e04c",
+            "2a03:2260:11a:a100:1ad6:c7ff:fe44:e04c",
+            "fd37:b4dc:4b1e::1ad6:c7ff:fe44:e04c",
+            "2a03:2260:11a:700:1ad6:c7ff:fe44:e04c",
+            "2a03:2260:11a:e700:1ad6:c7ff:fe44:e04c",
+            "2a03:2260:11a:6500:1ad6:c7ff:fe44:e04c",
+            "2a03:2260:11a:6f00:1ad6:c7ff:fe44:e04c"
           ],
-          "mac": "e8:de:27:bc:88:ae",
+          "mac": "18:d6:c7:44:e0:4c",
           "mesh": {
             "bat0": {
               "interfaces": {
                 "other": [
-                  "ae:07:c3:b5:9c:0b"
+                  "3a:b0:a0:73:20:ab"
                 ],
                 "tunnel": [
-                  "ae:07:c3:b5:9c:0f"
+                  "3a:b0:a0:73:20:af"
                 ]
               }
             }
           },
           "mesh_interfaces": null
         },
-        "node_id": "e8de27bc88ae",
+        "node_id": "18d6c744e04c",
         "owner": null,
         "software": {
           "autoupdater": {
-            "branch": "stable"
+            "branch": "stable",
+            "enabled": true
           },
           "babeld": {},
           "batman-adv": {
             "compat": 15,
-            "version": "2016.2"
+            "version": "2017.2"
           },
           "fastd": {
             "enabled": true,
             "version": "v18"
           },
           "firmware": {
-            "base": "gluon-v2016.2.2",
-            "release": "2016.2.2+mwu1"
+            "base": "gluon-v2017.1.5",
+            "release": "2017.1.5+mwu1"
           },
           "status-page": {
             "api": 1
@@ -640,7 +645,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 7.0
+      "score": 9.0
     },
     {
       "clients": 0,
@@ -713,9 +718,9 @@
         "vpn": false
       },
       "online": false,
-      "score": 5.0
+      "score": 8.0
     }
   ],
-  "updated_at": "2020-04-24T07:23:01.994832",
+  "updated_at": "2020-04-24T14:23:02.777274",
   "version": "0.9a8"
 }
