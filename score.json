@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "clients": 101,
+      "clients": 106,
       "id": "0019997cf414",
       "name": {
         "hardware": {
@@ -69,7 +69,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 58862.28000000027
+      "score": 58876.07000000027
     },
     {
       "clients": 0,
@@ -139,10 +139,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 32188.239999993184
+      "score": 32195.239999993184
     },
     {
-      "clients": 0,
+      "clients": 1,
       "id": "a42bb0ca7958",
       "name": {
         "hardware": {
@@ -210,10 +210,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 31312.479999997584
+      "score": 31319.489999997582
     },
     {
-      "clients": 0,
+      "clients": 1,
       "id": "a42bb0ca778e",
       "name": {
         "hardware": {
@@ -281,10 +281,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 30172.599999996677
+      "score": 30179.619999996674
     },
     {
-      "clients": 8,
+      "clients": 9,
       "id": "a42bb0ca87c0",
       "name": {
         "hardware": {
@@ -365,10 +365,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 30079.470000001023
+      "score": 30087.080000001028
     },
     {
-      "clients": 2,
+      "clients": 4,
       "id": "00199967fba4",
       "name": {
         "hardware": {
@@ -436,7 +436,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 23727.670000000482
+      "score": 23734.920000000482
     },
     {
       "clients": 1,
@@ -508,7 +508,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 15784.880000002977
+      "score": 15791.950000002978
     },
     {
       "clients": 0,
@@ -574,7 +574,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 1293.12
+      "score": 1300.12
     },
     {
       "clients": 0,
@@ -640,7 +640,7 @@
         "vpn": false
       },
       "online": false,
-      "score": 9.0
+      "score": 2.0
     },
     {
       "clients": 0,
@@ -711,82 +711,9 @@
         "vpn": false
       },
       "online": false,
-      "score": 8.0
-    },
-    {
-      "clients": 0,
-      "id": "60e327ee50a4",
-      "name": {
-        "hardware": {
-          "model": "TP-Link TL-WR841N/ND v10",
-          "nproc": 1
-        },
-        "hostname": "MZ-kaiserbopp",
-        "location": {
-          "latitude": 50.003512,
-          "longitude": 8.261944
-        },
-        "network": {
-          "addresses": [
-            "fe80::62e3:27ff:feee:50a4",
-            "2a03:2260:11a:1700:62e3:27ff:feee:50a4",
-            "2a03:2260:11a:e700:62e3:27ff:feee:50a4",
-            "2a03:2260:11a:6500:62e3:27ff:feee:50a4",
-            "fd37:b4dc:4b1e:0:62e3:27ff:feee:50a4",
-            "2a03:2260:11a:a100:62e3:27ff:feee:50a4",
-            "2a03:2260:11a:700:62e3:27ff:feee:50a4"
-          ],
-          "mac": "60:e3:27:ee:50:a4",
-          "mesh": {
-            "bat0": {
-              "interfaces": {
-                "other": [
-                  "ce:c4:3c:7c:7f:eb"
-                ],
-                "tunnel": [
-                  "ce:c4:3c:7c:7f:ef"
-                ],
-                "wireless": [
-                  "ce:c4:3c:7c:7f:ea"
-                ]
-              }
-            }
-          },
-          "mesh_interfaces": null
-        },
-        "node_id": "60e327ee50a4",
-        "owner": null,
-        "software": {
-          "autoupdater": {
-            "branch": "stable",
-            "enabled": true
-          },
-          "babeld": {},
-          "batman-adv": {
-            "compat": 15,
-            "version": "2016.2"
-          },
-          "fastd": {
-            "enabled": true,
-            "version": "v18"
-          },
-          "firmware": {
-            "base": "gluon-v2016.2.2",
-            "release": "2016.2.2+mwu1"
-          },
-          "status-page": {
-            "api": 1
-          }
-        },
-        "system": {
-          "site_code": "ffmz"
-        },
-        "vpn": false
-      },
-      "online": false,
-      "score": 7.0
+      "score": 1.0
     }
   ],
-  "updated_at": "2020-05-01T07:23:02.770601",
+  "updated_at": "2020-05-01T14:23:02.482237",
   "version": "0.9a8"
 }
