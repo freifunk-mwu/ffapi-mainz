@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "clients": 98,
+      "clients": 89,
       "id": "0019997cf414",
       "name": {
         "hardware": {
@@ -69,7 +69,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 62096.700000000215
+      "score": 62110.10000000022
     },
     {
       "clients": 0,
@@ -139,7 +139,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 33893.23999999318
+      "score": 33900.23999999318
     },
     {
       "clients": 0,
@@ -210,7 +210,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 33021.67999999726
+      "score": 33028.67999999726
     },
     {
       "clients": 9,
@@ -294,10 +294,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 31933.860000002285
+      "score": 31941.490000002286
     },
     {
-      "clients": 0,
+      "clients": 1,
       "id": "a42bb0ca778e",
       "name": {
         "hardware": {
@@ -365,10 +365,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 31777.57999999612
+      "score": 31784.60999999612
     },
     {
-      "clients": 4,
+      "clients": 3,
       "id": "00199967fba4",
       "name": {
         "hardware": {
@@ -436,10 +436,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 25483.10000000068
+      "score": 25490.33000000068
     },
     {
-      "clients": 1,
+      "clients": 2,
       "id": "080027a9eef1",
       "name": {
         "hardware": {
@@ -509,7 +509,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 17506.930000001325
+      "score": 17514.010000001315
     },
     {
       "clients": 0,
@@ -575,9 +575,86 @@
         "vpn": false
       },
       "online": true,
-      "score": 2986.12
+      "score": 2993.12
+    },
+    {
+      "clients": 0,
+      "id": "c46e1ffef56e",
+      "name": {
+        "hardware": {
+          "model": "TP-Link TL-WDR3600 v1",
+          "nproc": 1
+        },
+        "hostname": "Elsheim-Schlossweide",
+        "location": {
+          "latitude": 49.91426818,
+          "longitude": 8.12808037
+        },
+        "network": {
+          "addresses": [
+            "2a03:2260:11a:700:c66e:1fff:fefe:f56e",
+            "2a03:2260:11a:a100:c66e:1fff:fefe:f56e",
+            "fd37:b4dc:4b1e::c66e:1fff:fefe:f56e",
+            "2a03:2260:11a:6500:c66e:1fff:fefe:f56e",
+            "2a03:2260:11a:1700:c66e:1fff:fefe:f56e",
+            "2a03:2260:11a:6f00:c66e:1fff:fefe:f56e",
+            "2a03:2260:11a:e700:c66e:1fff:fefe:f56e",
+            "2a03:2260:11a:e700:c66e:1fff:fefe:f56e",
+            "fe80::c66e:1fff:fefe:f56e"
+          ],
+          "mac": "c4:6e:1f:fe:f5:6e",
+          "mesh": {
+            "bat0": {
+              "interfaces": {
+                "other": [
+                  "a2:55:1f:92:97:9b"
+                ],
+                "tunnel": [
+                  "a2:55:1f:92:97:9f"
+                ],
+                "wireless": [
+                  "a2:55:1f:92:97:9d",
+                  "a2:55:1f:92:97:99"
+                ]
+              }
+            }
+          },
+          "mesh_interfaces": null
+        },
+        "node_id": "c46e1ffef56e",
+        "owner": null,
+        "software": {
+          "autoupdater": {
+            "branch": "stable",
+            "enabled": true
+          },
+          "babeld": {},
+          "batman-adv": {
+            "compat": 15,
+            "version": "openwrt-2018.1-5"
+          },
+          "fastd": {
+            "enabled": true,
+            "version": "v18"
+          },
+          "firmware": {
+            "base": "gluon-v2018.2",
+            "release": "2018.2+mwu0"
+          },
+          "status-page": {
+            "api": 0
+          }
+        },
+        "system": {
+          "domain_code": "ffmz",
+          "site_code": "ffmz"
+        },
+        "vpn": false
+      },
+      "online": false,
+      "score": 3.0
     }
   ],
-  "updated_at": "2020-07-11T14:23:03.370967",
+  "updated_at": "2020-07-11T21:23:03.432284",
   "version": "0.9a8"
 }
