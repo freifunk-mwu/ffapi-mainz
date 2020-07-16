@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "clients": 89,
+      "clients": 94,
       "id": "0019997cf414",
       "name": {
         "hardware": {
@@ -69,7 +69,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 62324.9800000002
+      "score": 62338.5500000002
     },
     {
       "clients": 0,
@@ -139,7 +139,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 34006.23999999318
+      "score": 34013.23999999318
     },
     {
       "clients": 0,
@@ -210,7 +210,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 33135.08999999726
+      "score": 33142.08999999726
     },
     {
       "clients": 9,
@@ -294,7 +294,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 32057.250000002303
+      "score": 32064.900000002304
     },
     {
       "clients": 0,
@@ -365,10 +365,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 31873.149999996094
+      "score": 31880.16999999609
     },
     {
-      "clients": 4,
+      "clients": 5,
       "id": "00199967fba4",
       "name": {
         "hardware": {
@@ -436,7 +436,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 25602.050000000683
+      "score": 25609.310000000685
     },
     {
       "clients": 1,
@@ -509,7 +509,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 17621.070000001146
+      "score": 17628.140000001134
     },
     {
       "clients": 0,
@@ -575,86 +575,9 @@
         "vpn": false
       },
       "online": true,
-      "score": 3097.12
-    },
-    {
-      "clients": 0,
-      "id": "c46e1ffef56e",
-      "name": {
-        "hardware": {
-          "model": "TP-Link TL-WDR3600 v1",
-          "nproc": 1
-        },
-        "hostname": "Elsheim-Schlossweide",
-        "location": {
-          "latitude": 49.91426818,
-          "longitude": 8.12808037
-        },
-        "network": {
-          "addresses": [
-            "2a03:2260:11a:700:c66e:1fff:fefe:f56e",
-            "2a03:2260:11a:a100:c66e:1fff:fefe:f56e",
-            "fd37:b4dc:4b1e::c66e:1fff:fefe:f56e",
-            "2a03:2260:11a:6500:c66e:1fff:fefe:f56e",
-            "2a03:2260:11a:1700:c66e:1fff:fefe:f56e",
-            "2a03:2260:11a:6f00:c66e:1fff:fefe:f56e",
-            "2a03:2260:11a:e700:c66e:1fff:fefe:f56e",
-            "2a03:2260:11a:e700:c66e:1fff:fefe:f56e",
-            "fe80::c66e:1fff:fefe:f56e"
-          ],
-          "mac": "c4:6e:1f:fe:f5:6e",
-          "mesh": {
-            "bat0": {
-              "interfaces": {
-                "other": [
-                  "a2:55:1f:92:97:9b"
-                ],
-                "tunnel": [
-                  "a2:55:1f:92:97:9f"
-                ],
-                "wireless": [
-                  "a2:55:1f:92:97:9d",
-                  "a2:55:1f:92:97:99"
-                ]
-              }
-            }
-          },
-          "mesh_interfaces": null
-        },
-        "node_id": "c46e1ffef56e",
-        "owner": null,
-        "software": {
-          "autoupdater": {
-            "branch": "stable",
-            "enabled": true
-          },
-          "babeld": {},
-          "batman-adv": {
-            "compat": 15,
-            "version": "openwrt-2018.1-5"
-          },
-          "fastd": {
-            "enabled": true,
-            "version": "v18"
-          },
-          "firmware": {
-            "base": "gluon-v2018.2",
-            "release": "2018.2+mwu0"
-          },
-          "status-page": {
-            "api": 0
-          }
-        },
-        "system": {
-          "domain_code": "ffmz",
-          "site_code": "ffmz"
-        },
-        "vpn": false
-      },
-      "online": false,
-      "score": 7.0
+      "score": 3104.12
     }
   ],
-  "updated_at": "2020-07-16T07:23:02.666153",
+  "updated_at": "2020-07-16T14:23:02.561955",
   "version": "0.9a8"
 }
