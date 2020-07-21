@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "clients": 104,
+      "clients": 96,
       "id": "0019997cf414",
       "name": {
         "hardware": {
@@ -69,7 +69,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 62573.6300000002
+      "score": 62587.260000000206
     },
     {
       "clients": 0,
@@ -139,10 +139,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 34133.23999999318
+      "score": 34140.23999999318
     },
     {
-      "clients": 0,
+      "clients": 5,
       "id": "a42bb0ca7958",
       "name": {
         "hardware": {
@@ -210,10 +210,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 33262.79999999732
+      "score": 33269.939999997325
     },
     {
-      "clients": 11,
+      "clients": 9,
       "id": "a42bb0ca87c0",
       "name": {
         "hardware": {
@@ -294,10 +294,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 32195.890000002353
+      "score": 32203.48000000236
     },
     {
-      "clients": 0,
+      "clients": 1,
       "id": "a42bb0ca778e",
       "name": {
         "hardware": {
@@ -365,10 +365,10 @@
         "vpn": false
       },
       "online": true,
-      "score": 32001.219999996065
+      "score": 32008.24999999606
     },
     {
-      "clients": 5,
+      "clients": 6,
       "id": "00199967fba4",
       "name": {
         "hardware": {
@@ -436,7 +436,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 25733.710000000665
+      "score": 25740.990000000667
     },
     {
       "clients": 1,
@@ -509,7 +509,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 17749.340000000942
+      "score": 17756.41000000093
     },
     {
       "clients": 0,
@@ -575,9 +575,86 @@
         "vpn": false
       },
       "online": true,
-      "score": 3224.12
+      "score": 3231.12
+    },
+    {
+      "clients": 0,
+      "id": "c46e1ffef56e",
+      "name": {
+        "hardware": {
+          "model": "TP-Link TL-WDR3600 v1",
+          "nproc": 1
+        },
+        "hostname": "Elsheim-Schlossweide",
+        "location": {
+          "latitude": 49.91426818,
+          "longitude": 8.12808037
+        },
+        "network": {
+          "addresses": [
+            "2a03:2260:11a:700:c66e:1fff:fefe:f56e",
+            "2a03:2260:11a:a100:c66e:1fff:fefe:f56e",
+            "fd37:b4dc:4b1e::c66e:1fff:fefe:f56e",
+            "2a03:2260:11a:6500:c66e:1fff:fefe:f56e",
+            "2a03:2260:11a:1700:c66e:1fff:fefe:f56e",
+            "2a03:2260:11a:6f00:c66e:1fff:fefe:f56e",
+            "2a03:2260:11a:e700:c66e:1fff:fefe:f56e",
+            "2a03:2260:11a:e700:c66e:1fff:fefe:f56e",
+            "fe80::c66e:1fff:fefe:f56e"
+          ],
+          "mac": "c4:6e:1f:fe:f5:6e",
+          "mesh": {
+            "bat0": {
+              "interfaces": {
+                "other": [
+                  "a2:55:1f:92:97:9b"
+                ],
+                "tunnel": [
+                  "a2:55:1f:92:97:9f"
+                ],
+                "wireless": [
+                  "a2:55:1f:92:97:9d",
+                  "a2:55:1f:92:97:99"
+                ]
+              }
+            }
+          },
+          "mesh_interfaces": null
+        },
+        "node_id": "c46e1ffef56e",
+        "owner": null,
+        "software": {
+          "autoupdater": {
+            "branch": "stable",
+            "enabled": true
+          },
+          "babeld": {},
+          "batman-adv": {
+            "compat": 15,
+            "version": "openwrt-2018.1-5"
+          },
+          "fastd": {
+            "enabled": true,
+            "version": "v18"
+          },
+          "firmware": {
+            "base": "gluon-v2018.2",
+            "release": "2018.2+mwu0"
+          },
+          "status-page": {
+            "api": 0
+          }
+        },
+        "system": {
+          "domain_code": "ffmz",
+          "site_code": "ffmz"
+        },
+        "vpn": false
+      },
+      "online": false,
+      "score": 3.0
     }
   ],
-  "updated_at": "2020-07-21T14:23:03.168428",
+  "updated_at": "2020-07-21T21:23:03.173144",
   "version": "0.9a8"
 }
