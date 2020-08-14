@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "clients": 104,
+      "clients": 100,
       "id": "0019997cf414",
       "name": {
         "hardware": {
@@ -69,7 +69,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 63689.760000000235
+      "score": 63703.69000000024
     },
     {
       "clients": 0,
@@ -139,7 +139,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 34695.23999999318
+      "score": 34702.23999999318
     },
     {
       "clients": 0,
@@ -210,7 +210,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 33826.2899999974
+      "score": 33833.2899999974
     },
     {
       "clients": 8,
@@ -294,7 +294,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 32807.10000000236
+      "score": 32814.690000002374
     },
     {
       "clients": 0,
@@ -365,7 +365,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 32556.909999995827
+      "score": 32563.909999995827
     },
     {
       "clients": 7,
@@ -436,7 +436,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 26312.57000000053
+      "score": 26319.99000000053
     },
     {
       "clients": 1,
@@ -508,7 +508,7 @@
         "vpn": false
       },
       "online": true,
-      "score": 18015.460000000283
+      "score": 18022.53000000027
     },
     {
       "clients": 0,
@@ -574,9 +574,77 @@
         "vpn": false
       },
       "online": true,
-      "score": 3786.12
+      "score": 3793.12
+    },
+    {
+      "clients": 0,
+      "id": "7483c20f6591",
+      "name": {
+        "hardware": {
+          "model": "UBNT-ERX",
+          "nproc": 4
+        },
+        "hostname": "Offloader-Gutenberg",
+        "network": {
+          "addresses": [
+            "2a03:2260:11a:700:7683:c2ff:fe0f:6591",
+            "2a03:2260:11a:e700:7683:c2ff:fe0f:6591",
+            "fd37:b4dc:4b1e::7683:c2ff:fe0f:6591",
+            "2a03:2260:11a:6500:7683:c2ff:fe0f:6591",
+            "2a03:2260:11a:1700:7683:c2ff:fe0f:6591",
+            "2a03:2260:11a:6f00:7683:c2ff:fe0f:6591",
+            "fe80::7683:c2ff:fe0f:6591",
+            "2a03:2260:11a:a100:7683:c2ff:fe0f:6591"
+          ],
+          "mac": "74:83:c2:0f:65:91",
+          "mesh": {
+            "bat0": {
+              "interfaces": {
+                "other": [
+                  "e2:6f:31:da:96:eb"
+                ],
+                "tunnel": [
+                  "e2:6f:31:da:96:ef"
+                ]
+              }
+            }
+          },
+          "mesh_interfaces": null
+        },
+        "node_id": "7483c20f6591",
+        "owner": null,
+        "software": {
+          "autoupdater": {
+            "branch": "stable",
+            "enabled": true
+          },
+          "babeld": {},
+          "batman-adv": {
+            "compat": 15,
+            "version": "openwrt-2018.1-5"
+          },
+          "fastd": {
+            "enabled": true,
+            "version": "v18"
+          },
+          "firmware": {
+            "base": "gluon-v2018.2",
+            "release": "2018.2+mwu0"
+          },
+          "status-page": {
+            "api": 0
+          }
+        },
+        "system": {
+          "domain_code": "ffmz",
+          "site_code": "ffmz"
+        },
+        "vpn": false
+      },
+      "online": false,
+      "score": 9.0
     }
   ],
-  "updated_at": "2020-08-14T00:23:03.314232",
+  "updated_at": "2020-08-14T07:23:02.376088",
   "version": "0.9a8"
 }
