@@ -39,13 +39,13 @@
   "name": "Freifunk Mainz",
   "nodeMaps": [
     {
-      "interval": "1 min",
+      "interval": "1min",
       "mapType": "geographical",
       "technicalType": "meshviewer",
       "url": "https://map.freifunk-mwu.de"
     },
     {
-      "interval": "1 min",
+      "interval": "1min",
       "mapType": "list/status",
       "technicalType": "nodelist",
       "url": "https://map.freifunk-mwu.de/data/nodelist.json"
@@ -53,7 +53,7 @@
   ],
   "services": [],
   "state": {
-    "description": "[311 Nodes, 363 Clients]",
+    "description": "[304 Nodes, 249 Clients]",
     "focus": [
       "infrastructure/backbone",
       "Public Free Wifi",
@@ -61,8 +61,8 @@
       "Local services and content",
       "Free internet access"
     ],
-    "lastchange": "2020-11-27T14:23:03.968321",
-    "nodes": 311
+    "lastchange": "2020-11-27T21:23:03.884826",
+    "nodes": 304
   },
   "support": {
     "club": {
